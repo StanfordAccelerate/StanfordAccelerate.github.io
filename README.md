@@ -6,7 +6,7 @@
 | Email            | praina@stanford.edu |
 | Contact          | Allen Building - Room 114, (617) 899-3791 |
 | About            | Priyanka Raina is an Assistant Professor in Electrical Engineering at Stanford University. Previously, she was a Visiting Research Scientist in the Architecture Research Group at NVIDIA Corporation. She received her Ph.D. degree in 2018 and S.M. degree in 2013 in EECS from MIT and her B.Tech. degree in EE from IIT Delhi in 2011. |
-| Research Summary | Our group's research interests are in the area of designing energy-efficient and high-performance circuits and systems for enabling complex computational photography, computer vision and machine learning based applications on mobile and wearable devices. |
+| Research Summary | |
 
 ## Adminitrator
 
@@ -72,15 +72,28 @@
 ## Current Projects
 
 ### Agile Hardware (AHA)
+**Faculty: Priyanka Raina, Mark Horowitz, Pat Hanrahan, Clark Barrett, Kayvon Fatahalian**
+Webpage: https://aha.stanford.edu
+Github: https://github.com/StanfordAHA
+
+* * *
 
 ### In-Memory Compute Architecture for One-Shot Learning Applications
-People: Haitong Li, Philip Wong, Priyanka Raina
+**People: Haitong Li, Philip Wong, Priyanka Raina**
 Webpage: 
+
+* * *
+
+### Hybrid RRAM/NEMS-Based 3D Interconnect Design for Programmable Logic Devices
+**People: Akash Levy, Priyanka Raina**
+
+* * *
 
 ## Upcoming Projects
 
 ### Optimizing Computer Vision Performance with Energy-Efficient Deep ISPs
 **People: Gordon Wetzstein, Priyanka Raina**
+** We are looking for graduate students to work on this project! Please email Priyanka if you are interested. **
 
 The capacity of imaging systems must continue to expand in order to keep pace with rapidly increasing, application-specific demands in robotic and machine vision, consumer photography, autonomous driving, surveillance and machine learning. State-of-the-art imaging systems optimize the image processing pipeline (ISP) for image quality as perceived by a human observer and they treat different stages of the ISP as separate blocks, which leads to sub-optimal performance. In particular, sensor noise, defocus and motion blur, as well as other imperfections in the image formation, especially in low-light environments, are fundamental challenges for achieving state of the art performance of computer vision algorithms, such as image classification and object detection with current ISPs. 
 
