@@ -74,7 +74,7 @@
 ### Agile Hardware (AHA)
 **Faculty: Priyanka Raina, Mark Horowitz, Pat Hanrahan, Clark Barrett, Kayvon Fatahalian**
 
-(Webpage)[https://aha.stanford.edu], (Github)[https://github.com/StanfordAHA]
+[Webpage](https://aha.stanford.edu), [Github](https://github.com/StanfordAHA)
 
 #### Peak
 
