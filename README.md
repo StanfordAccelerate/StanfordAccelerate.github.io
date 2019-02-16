@@ -16,6 +16,7 @@
 
 ## Students
 ### Graduate Students
+
 | | Haitong Li |
 |:-------------|:------------------|
 | Email        | haitongl@stanford.edu |
