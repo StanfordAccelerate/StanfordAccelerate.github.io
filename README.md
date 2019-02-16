@@ -85,8 +85,6 @@ Github: https://github.com/StanfordAHA
 
 **People: Haitong Li, Philip Wong, Priyanka Raina**
 
-Webpage: 
-
 * * *
 
 ### Hybrid RRAM/NEMS-Based 3D Interconnect Design for Programmable Logic Devices
