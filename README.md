@@ -16,11 +16,12 @@
 
 ## Students
 ### Graduate Students
-#### Haitong Li 
-* Email:
-* Webpage:
-* About:
-* Research Summary:
+| | Haitong Li |
+|:-------------|:------------------|
+| Email        | haitongl@stanford.edu |
+| Webpage      | |
+| About        | |
+| Research     | |
 
 #### Weier Wan
 * Email:
