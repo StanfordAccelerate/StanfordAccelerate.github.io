@@ -74,10 +74,19 @@
 ### Agile Hardware (AHA)
 **Faculty: Priyanka Raina, Mark Horowitz, Pat Hanrahan, Clark Barrett, Kayvon Fatahalian**
 
-Webpage: https://aha.stanford.edu
+(Webpage)[https://aha.stanford.edu], (Github)[https://github.com/StanfordAHA]
 
-Github: https://github.com/StanfordAHA
+#### Peak
 
+#### Gemstone
+
+#### Whitney
+
+#### Garnet: The second generation Coarse Grained Reconfigurable Array (CGRA) Architecture optimized for neural networks and image processing applications
+
+#### SoC
+* ARM Based
+* RISC-V Based
 
 * * *
 
@@ -101,7 +110,7 @@ Github: https://github.com/StanfordAHA
 
 ### NVM-Based Neural Network Accelerators
 
-**People: Fei Huang, Daniel Bankman, Robert M. Radway, Jonas Messner, Binh Q. Le, Priyanka Raina, Subhasish Mitra, Boris Murmann**
+**People: Fei Huang, Daniel Bankman, Robert M. Radway, Jonas Messner, Kartik Prabhu, Binh Q. Le, Priyanka Raina, Subhasish Mitra, Boris Murmann**
 
 * * *
 
@@ -110,6 +119,12 @@ Github: https://github.com/StanfordAHA
 **People: Weier Wan, ...**
 
 * * *
+
+### DNN Accelerator Generator
+
+** People: Kartik Prabhu, Xuan Yang, Mark Horowitz, Priyanka Raina **
+
+* * * 
 
 ## Upcoming Projects
 
