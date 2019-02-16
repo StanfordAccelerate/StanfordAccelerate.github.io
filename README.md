@@ -122,7 +122,7 @@
 
 ### DNN Accelerator Generator
 
-** People: Kartik Prabhu, Xuan Yang, Mark Horowitz, Priyanka Raina **
+**People: Kartik Prabhu, Xuan Yang, Mark Horowitz, Priyanka Raina**
 
 * * * 
 
