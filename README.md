@@ -1,4 +1,3 @@
-# Stanford Accelerate
 # People
 ## Faculty
 #### Priyanka Raina
