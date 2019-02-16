@@ -4,8 +4,6 @@
 |:-------------|:------------------|
 | Email            | praina@stanford.edu |
 | Contact          | Allen Building - Room 114, (617) 899-3791 |
-
-
 | About            | Priyanka Raina is an Assistant Professor in Electrical Engineering at Stanford University. Previously, she was a Visiting Research Scientist in the Architecture Research Group at NVIDIA Corporation. She received her Ph.D. degree in 2018 and S.M. degree in 2013 in EECS from MIT and her B.Tech. degree in EE from IIT Delhi in 2011. |
 | Research Summary | Our group's research interests are in the area of designing energy-efficient and high-performance circuits and systems for enabling complex computational photography, computer vision and machine learning based applications on mobile and wearable devices. |
 
@@ -14,6 +12,7 @@
 |:-------------|:------------------|
 | Email            | klinej@stanford.edu |
 | Contact          | Packard Building - Room 359, (650) 723-4539 |
+
 
 ## Students
 ### Graduate Students
