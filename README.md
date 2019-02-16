@@ -73,19 +73,43 @@
 
 ### Agile Hardware (AHA)
 **Faculty: Priyanka Raina, Mark Horowitz, Pat Hanrahan, Clark Barrett, Kayvon Fatahalian**
+
 Webpage: https://aha.stanford.edu
+
 Github: https://github.com/StanfordAHA
+
 
 * * *
 
 ### In-Memory Compute Architecture for One-Shot Learning Applications
+
 **People: Haitong Li, Philip Wong, Priyanka Raina**
+
 Webpage: 
 
 * * *
 
 ### Hybrid RRAM/NEMS-Based 3D Interconnect Design for Programmable Logic Devices
+
 **People: Akash Levy, Priyanka Raina**
+
+* * *
+
+### Emerging Non Volatile Memory - Centric Accelerator for Deep Neural Network Inference and Training in 5G Applications
+
+**People: Fei Huang, John Cioffi, Priyanka Raina**
+
+* * *
+
+### NVM-Based Neural Network Accelerators
+
+**People: Fei Huang, Daniel Bankman, Robert M. Radway, Jonas Messner, Binh Q. Le, Priyanka Raina, Subhasish Mitra, Boris Murmann**
+
+* * *
+
+### RBM Accelerator
+
+**People: Weier Wan, ...**
 
 * * *
 
@@ -93,7 +117,8 @@ Webpage:
 
 ### Optimizing Computer Vision Performance with Energy-Efficient Deep ISPs
 **People: Gordon Wetzstein, Priyanka Raina**
-** We are looking for graduate students to work on this project! Please email Priyanka if you are interested. **
+
+**We are looking for graduate students to work on this project! Please email Priyanka if you are interested.**
 
 The capacity of imaging systems must continue to expand in order to keep pace with rapidly increasing, application-specific demands in robotic and machine vision, consumer photography, autonomous driving, surveillance and machine learning. State-of-the-art imaging systems optimize the image processing pipeline (ISP) for image quality as perceived by a human observer and they treat different stages of the ISP as separate blocks, which leads to sub-optimal performance. In particular, sensor noise, defocus and motion blur, as well as other imperfections in the image formation, especially in low-light environments, are fundamental challenges for achieving state of the art performance of computer vision algorithms, such as image classification and object detection with current ISPs. 
 
