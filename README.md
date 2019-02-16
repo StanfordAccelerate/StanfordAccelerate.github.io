@@ -17,12 +17,13 @@
 ## Students
 ### Graduate Students
 
-| | Haitong Li |
-|:-------------|:------------------|
+|              | Haitong Li            |
+|:-------------|:----------------------|
 | Email        | haitongl@stanford.edu |
 | Webpage      | |
 | About        | |
 | Research     | |
+
 
 #### Weier Wan
 * Email:
