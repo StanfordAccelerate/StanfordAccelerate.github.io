@@ -22,9 +22,10 @@
 |              | Haitong Li            |
 |:-------------|:----------------------|
 | Email        | haitongl@stanford.edu |
-| Webpage      | |
-| About        | |
-| Research     | |
+| Webpage      | https://www.linkedin.com/in/haitongli/ |
+| About        | Haitong Li is an EE Ph.D. candidate at Stanford University, supervised by Prof. H.-S. Philip Wong and co-advised by Prof. Priyanka Raina. Previously, he was a Research Intern in the Device, Circuit and System (DCS) Group at Arm. He received M.S. in electrical engineering from Stanford University in 2017, and B.S. in microelectronics from Peking University, China, in 2015. He is a recipient of 2016 IEEE EDS Masters Student Fellowship. |
+| Research     | My research is focused on in-memory computing enabled by emerging non-volatile memory technologies. The application space ranges from deep learning inference to hyper-dimensional computing for cognitive applications, while leveraging the unique physical characteristics of emerging devices (e.g., stochasticity, 3D vertical connectivity). I also collaborate closely with Prof. Subhasish Mitra (Stanford) and Prof. Jan Rabaey (UC Berkeley). For more details, please refer to my [Google Scholar profile]. (https://scholar.google.com/citations?user=0zX2pcwAAAAJ&hl=en). |
+
 
 |              | Weier Wan             |
 |:-------------|:----------------------|
