@@ -3,7 +3,7 @@
 
 | | Priyanka Raina |
 |:-------------|:------------------|
-| Email            | praina@stanford.edu |
+| Email            | praina AT stanford DOT edu |
 | Contact          | Allen Building - Room 114, (617) 899-3791 |
 | About            | Priyanka Raina is an Assistant Professor in Electrical Engineering at Stanford University. Previously, she was a Visiting Research Scientist in the Architecture Research Group at NVIDIA Corporation. She received her Ph.D. degree in 2018 and S.M. degree in 2013 in EECS from MIT and her B.Tech. degree in EE from IIT Delhi in 2011. |
 | Research Summary | |
@@ -12,7 +12,7 @@
 
 | | Julie Kline |
 |:-------------|:------------------|
-| Email            | klinej@stanford.edu |
+| Email            | klinej AT stanford DOT edu |
 | Contact          | Packard Building - Room 359, (650) 723-4539 |
 
 
@@ -21,7 +21,7 @@
 
 |              | Haitong Li            |
 |:-------------|:----------------------|
-| Email        | haitongl@stanford.edu |
+| Email        | haitongl AT stanford DOT edu |
 | Webpage      | <https://www.linkedin.com/in/haitongli/> |
 | About        | Haitong Li is an EE Ph.D. candidate at Stanford University, supervised by Prof. H.-S. Philip Wong and co-advised by Prof. Priyanka Raina. Previously, he was a Research Intern in the Device, Circuit and System (DCS) Group at Arm. He received M.S. in electrical engineering from Stanford University in 2017, and B.S. in microelectronics from Peking University, China, in 2015. He is a recipient of 2016 IEEE EDS Masters Student Fellowship. |
 | Research     | My research is focused on in-memory computing enabled by emerging non-volatile memory technologies. The application space ranges from deep learning inference to hyper-dimensional computing for cognitive applications, while leveraging the unique physical characteristics of emerging devices (e.g., stochasticity, 3D vertical connectivity). I also collaborate closely with Prof. Subhasish Mitra (Stanford) and Prof. Jan Rabaey (UC Berkeley). For more details, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=0zX2pcwAAAAJ&hl=en). |
@@ -29,7 +29,7 @@
 
 |              | Weier Wan             |
 |:-------------|:----------------------|
-| Email        | weierwan@stanford.edu |
+| Email        | weierwan AT stanford DOT edu |
 | Webpage      | |
 | About        | |
 | Research     | |
@@ -38,14 +38,14 @@
 
 |              | Akash Levy           |
 |:-------------|:----------------------|
-| Email        | akashl@stanford.edu |
+| Email        | akashl AT stanford DOT edu |
 | Webpage      | |
 | About        | |
 | Research     | |
 
 |              | Fei Huang             |
 |:-------------|:----------------------|
-| Email        | feihuang@stanford.edu |
+| Email        | feihuang AT stanford DOT edu |
 | Webpage      | |
 | About        | |
 | Research     | |
@@ -54,7 +54,7 @@
 
 |              | Kartik Prabhu         |
 |:-------------|:----------------------|
-| Email        | kprabhu7@stanford.edu |
+| Email        | kprabhu7 AT stanford DOT edu |
 | Webpage      | |
 | About        | |
 | Research     | |
@@ -64,7 +64,7 @@
 
 |              | Raman Vilkhu          |
 |:-------------|:----------------------|
-| Email        | vilkhu@stanford.edu |
+| Email        | vilkhu AT stanford DOT edu |
 | Webpage      | |
 | About        | |
 | Research     | |
