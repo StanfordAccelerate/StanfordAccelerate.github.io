@@ -159,6 +159,11 @@ We propose the development and clinical evaluation of a fully-automated computer
 
 **People: Angshuman Parashar, Priyanka Raina, Sophia Shao, Rangharajan Venkatesan, Yu-Hsin Chen, Brucek Khailany, Stephen W. Keckler, Joel Emer**
 
+Tensorloop is an infrastructure for evaluating and exploring the architecture design space of deep neural network (DNN) accelerators. Timeloop uses a concise and unified representation of the key architecture and implementation attributes of  DNN accelerators to describe a broad space of hardware topologies. It can then emulate those topologies to generate an   accurate projection of performance and energy efficiency for a DNN workload through a mapper that finds the best way to  schedule operations and stage data on the specified architecture. This enables fair comparisons across different architectures and makes DNN accelerator design more systematic. 
+
+#### Publications
+* A. Parashar, P. Raina, S. Shao, A. Mukkara, V. A. Ying, R. Venkatesan, Y. H. Chen, B. Khailany, S. Keckler, J. Emer, "Tensorloop: A Systematic Approach to DNN Accelerator Evaluation", to be presented in ISPASS 2019.
+              
 ### An Energy-Scalable Accelerator for Blind Image Deblurring (MIT)
 
 **People: Priyanka Raina, Mehul Tikekar, Anantha Chandrakasan**
@@ -169,7 +174,7 @@ This work presents the first hardware accelerator for kernel estimation for imag
 
 #### Publications and Talks
 
-* P. Raina, M. Tikekar, A. P. Chandrakasan, "An Energy-Scalable Accelerator for Blind Image Deblurring" accepted at European Solid-State Circuits Conference (ESSCIRC), Sep. 2016.
+* P. Raina, M. Tikekar, A. P. Chandrakasan, "An Energy-Scalable Accelerator for Blind Image Deblurring", European Solid-State Circuits Conference (ESSCIRC), Sep. 2016.
 * P. Raina, M. Tikekar, A. P. Chandrakasan, "An Energy-Scalable Co-processor for Blind Image Deblurring," presented at IEEE International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP) Poster Session, Feb. 2016. Selected to receive the 2016 ISSCC Student Research Preview Award.
 
 More details about Priyanka's PhD work on [Priyanka's MIT webpage](http://web.mit.edu/~praina/www/index.html).
