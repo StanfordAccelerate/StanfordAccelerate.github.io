@@ -227,10 +227,4 @@ More details about Priyanka's PhD work are on [Priyanka's MIT webpage](http://we
 
 ## Previous Students
 ### PhD Rotation Students
-
-|              | Raman Vilkhu          |
-|:-------------|:----------------------|
-| Email        | vilkhu@stanford.edu |
-| Webpage      | |
-| About        | |
-| Research     | |
+* Raman Vilkhu (vilkhu@stanford.edu), Autumn 2018
