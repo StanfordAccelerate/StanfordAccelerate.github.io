@@ -75,7 +75,11 @@
 ### Agile Hardware (AHA)
 **Faculty: Priyanka Raina, Mark Horowitz, Pat Hanrahan, Clark Barrett, Kayvon Fatahalian**
 
-[Webpage](https://aha.stanford.edu), [Github](https://github.com/StanfordAHA)
+The goals of the agile hardware project are
+1. To create a programmable platform (a coarse grained reconfigurable array or CGRA and its compiler toolchain) tuned to running specific applications (such as neural networks and image processing pipeline) efficiently. 
+2. To use and develop agile techniques in the design of platform itself. 
+
+More information about the project can be found on the [project webpage](https://aha.stanford.edu). All the hardware designed in the project and its compiler toolchain are open-source and can be found on the project [github](https://github.com/StanfordAHA). There are multiple faculty and students working on different parts of the project; described below are the parts that Priyanka is actively involved in:
 
 #### Peak
 
