@@ -59,16 +59,6 @@
 | About        | |
 | Research     | |
 
-## Previous Students
-### PhD Rotation Students
-
-|              | Raman Vilkhu          |
-|:-------------|:----------------------|
-| Email        | vilkhu@stanford.edu |
-| Webpage      | |
-| About        | |
-| Research     | |
-
 # Research
 ## Current Projects
 
@@ -76,7 +66,7 @@
 **Faculty: Priyanka Raina, Mark Horowitz, Pat Hanrahan, Clark Barrett, Kayvon Fatahalian**
 
 The goals of the agile hardware project are
-1. To create a programmable platform (a coarse grained reconfigurable array or CGRA and its compiler toolchain) tuned to running specific applications (such as neural networks and image processing pipeline) efficiently. 
+1. To create a programmable platform (a coarse grained reconfigurable array or CGRA and its compiler toolchain) tuned to running specific applications (such as neural networks and image processing pipelines) efficiently. 
 2. To use and develop agile techniques in the design of platform itself. 
 
 More information about the project can be found on the [project webpage](https://aha.stanford.edu). All the hardware designed in the project and its compiler toolchain are open-source and can be found on the project [github](https://github.com/StanfordAHA). There are multiple faculty and students working on different parts of the project; described below are the parts that Priyanka is actively involved in:
@@ -163,3 +153,33 @@ Vitiligo is an autoimmune condition that targets melanocytes, the pigment produc
 To assess the spread of vitiligo, a clinician commonly performs a visual examination of the patient and assigns a VASI (Vitiligo Area Scoring Index), or a VETF (Vitiligo European Task Force) score that corresponds to the depigmented body surface area (BSA) or ‘lesion(s)’. However, this method has low accuracy, high variability, and is insensitive to small changes. The gold standard of lesion area assessment involves planimetry, where a lesion is manually traced onto a transparent grid sheet from which area is calculated. This approach is time intensive, however, and limited to individual lesions and not suited to evaluating involvement across an entire body or region. There have been attempts at measuring relative change in lesion area using image analysis based on 2D color images which do not require manual lesion segmentation but they still introduce a 20-40% error in area calculated depending on the angle of image acquisition since the lesions are on curved body surfaces. Additionally, they only measure relative area change between two images taken at different times, and not absolute surface area.
 
 We propose the development and clinical evaluation of a fully-automated computer-assisted system that quantitatively and accurately assesses 3D BSA using depth and color imaging and machine learning based vision algorithms. The greater sensitivity of this method will detect currently sub- clinical changes, which can be clinically significant in defining disease activity and predicting both initial response and durability of response to treatment. In addition, this technology can be later adapted for analysis of any skin condition for which BSA is an outcome measure of interest, such as psoriasis, melanoma, dermatological reactions to drugs and wounds.
+
+## Previous Projects
+### Tensorloop: A Systematic Approach to DNN Accelerator Evaluation (Nvidia)
+
+**People: Angshuman Parashar, Priyanka Raina, Sophia Shao, Rangharajan Venkatesan, Yu-Hsin Chen, Brucek Khailany, Stephen W. Keckler, Joel Emer**
+
+### An Energy-Scalable Accelerator for Blind Image Deblurring (MIT)
+
+**People: Priyanka Raina, Mehul Tikekar, Anantha Chandrakasan**
+
+Camera shake is the leading cause of blur in cell-phone camera images. Removing blur requires deconvolving the blurred image with a kernel which is typically unknown and needs to be estimated from the blurred image. This kernel estimation is computationally intensive and takes several minutes on a CPU which makes it unsuitable for mobile devices.
+
+This work presents the first hardware accelerator for kernel estimation for image deblurring applications. Our approach, using a multi-resolution IRLS deconvolution engine with DFT-based matrix multiplication, a high-throughput image correlator and a high-speed selective update based gradient projection solver, achieves a 78x reduction in kernel estimation runtime, and a 56x reduction in total deblurring time for a 1920 x 1080 image enabling quick feedback to the user. Configurability in kernel size and number of iterations gives up to 10x energy scalability, allowing the system to trade-off runtime with image quality. The test chip, fabricated in 40nm CMOS, consumes 105mJ for kernel estimation running at 83MHz and 0.9V, making it suitable for integration into mobile devices.
+
+#### Publications and Talks
+
+* P. Raina, M. Tikekar, A. P. Chandrakasan, "An Energy-Scalable Accelerator for Blind Image Deblurring" accepted at European Solid-State Circuits Conference (ESSCIRC), Sep. 2016.
+* P. Raina, M. Tikekar, A. P. Chandrakasan, "An Energy-Scalable Co-processor for Blind Image Deblurring," presented at IEEE International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP) Poster Session, Feb. 2016. Selected to receive the 2016 ISSCC Student Research Preview Award.
+
+More details about Priyanka's PhD work on [Priyanka's MIT webpage](http://web.mit.edu/~praina/www/index.html).
+
+## Previous Students
+### PhD Rotation Students
+
+|              | Raman Vilkhu          |
+|:-------------|:----------------------|
+| Email        | vilkhu@stanford.edu |
+| Webpage      | |
+| About        | |
+| Research     | |
