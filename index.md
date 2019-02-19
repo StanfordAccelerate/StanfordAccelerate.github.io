@@ -121,6 +121,7 @@ More information about the project can be found on the [project webpage](https:/
 
 Deep neural networks require custom accelerators in order to run with high performance and energy efficiency. Several DNN  accelerators that have been proposed have very similar properties, with some form of a systolic array and a hierarchy of on-chip buffers. However, designing accelerators from scratch is very expensive in terms of time and resources. To get around  this, we have created a generator framework using high-level synthesis that can create DNN accelerator designs with different parameters. In addition to this, we have a tool that performs design space exploration and finds the optimal set of parameters such as array and memory sizes in terms of energy and performance. The tool also finds the best scheduling (loop tiling and ordering) of any neural network layer on the accelerator. In other words, the system doesn't just generate the accelerator hardware, but also the compiler for it. We are using this system as a class project in EE272, our chip design bootcamp class.
 
+#### Code
 * [Github repository for accelerator generator](https://github.com/priyanka-raina/dnn-accelerator)
 * [Github repository for compiler](https://github.com/xuanyoya/CNN-blocking/tree/dev)
 
