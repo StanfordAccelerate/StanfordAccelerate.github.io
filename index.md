@@ -177,7 +177,7 @@ This work presents the first hardware accelerator for kernel estimation for imag
 * P. Raina, M. Tikekar, A. P. Chandrakasan, "An Energy-Scalable Accelerator for Blind Image Deblurring", European Solid-State Circuits Conference (ESSCIRC), Sep. 2016.
 * P. Raina, M. Tikekar, A. P. Chandrakasan, "An Energy-Scalable Co-processor for Blind Image Deblurring," presented at IEEE International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP) Poster Session, Feb. 2016. Selected to receive the 2016 ISSCC Student Research Preview Award.
 
-More details about Priyanka's PhD work on [Priyanka's MIT webpage](http://web.mit.edu/~praina/www/index.html).
+More details about Priyanka's PhD work are on [Priyanka's MIT webpage](http://web.mit.edu/~praina/www/index.html).
 
 ## Previous Students
 ### PhD Rotation Students
