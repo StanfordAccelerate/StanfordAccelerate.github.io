@@ -177,8 +177,8 @@ Camera shake is the leading cause of blur in cell-phone camera images. Removing 
 This work presents the first hardware accelerator for kernel estimation for image deblurring applications. Our approach, using a multi-resolution IRLS deconvolution engine with DFT-based matrix multiplication, a high-throughput image correlator and a high-speed selective update based gradient projection solver, achieves a 78x reduction in kernel estimation runtime, and a 56x reduction in total deblurring time for a 1920 x 1080 image enabling quick feedback to the user. Configurability in kernel size and number of iterations gives up to 10x energy scalability, allowing the system to trade-off runtime with image quality. The test chip, fabricated in 40nm CMOS, consumes 105mJ for kernel estimation running at 83MHz and 0.9V, making it suitable for integration into mobile devices.
 
 #### Publications and Talks
-* P. Raina, M. Tikekar, and A. P. Chandrakasan, "An energy-scalable accelerator for blind image deblurring," in IEEE Journal of Solid-State Circuits (JSSC) - ESSCIRC Special Issue, July 2017. (Invited)
-* P. Raina, M. Tikekar, and A. P. Chandrakasan, "An energy-scalable accelerator for blind image deblurring," in IEEE European Solid-State Circuits Conference (ESSCIRC), Sep 2016, pp. 113-116.
+* P. Raina, M. Tikekar, and A. P. Chandrakasan, "An energy-scalable accelerator for blind image deblurring," in IEEE Journal of Solid-State Circuits (JSSC) - ESSCIRC Special Issue, July 2017. (Invited) [Paper](https://ieeexplore.ieee.org/document/7891902)
+* P. Raina, M. Tikekar, and A. P. Chandrakasan, "An energy-scalable accelerator for blind image deblurring," in IEEE European Solid-State Circuits Conference (ESSCIRC), Sep 2016, pp. 113-116. [Paper](https://ieeexplore.ieee.org/document/7598255)
 * P. Raina, M. Tikekar, A. P. Chandrakasan, "An Energy-Scalable Co-processor for Blind Image Deblurring," presented at IEEE International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP) Poster Session, Feb. 2016. Received the 2016 ISSCC Student Research Preview Award.
 
 * * *
@@ -187,11 +187,11 @@ This work presents the first hardware accelerator for kernel estimation for imag
 **People: Rahul Rithe, Priyanka Raina, Nathan Ickes, S. V. Tenneti, Fredo Durand, Anantha Chandrakasan** 
 Computational photography refers to a wide range of image capture and processing techniques that extend the capabilities of digital photography and allow users to take photographs that could not have been taken by a traditional camera. Since its inception less than a decade ago, the field today encompasses a wide range of techniques including high dynamic range (HDR) imaging, low light enhancement, panorama stitching, image deblurring and light field photography. These techniques have so far been software based, which leads to high energy consumption and typically no support for real-time processing.
 
-This work focuses on a hardware accelerator for bilateral filtering which is commonly used in computational photography applications. Specifically, the 40 nm CMOS test chip performs HDR imaging, low light enhancement and glare reduction while operating from 98 MHz at 0.9 V to 25 MHz at 0.9 V. It processes 13 megapixels/s while consuming 17.8 mW at 98 MHz and 0.9 V, achieving significant energy reduction compared to previous CPU/GPU implementations, enabling real-time computational photography applications on mobile devices. Live demonstration at the ISSCC Demo Session. [video]
+This work focuses on a hardware accelerator for bilateral filtering which is commonly used in computational photography applications. Specifically, the 40 nm CMOS test chip performs HDR imaging, low light enhancement and glare reduction while operating from 98 MHz at 0.9 V to 25 MHz at 0.9 V. It processes 13 megapixels/s while consuming 17.8 mW at 98 MHz and 0.9 V, achieving significant energy reduction compared to previous CPU/GPU implementations, enabling real-time computational photography applications on mobile devices. Live demonstration at the ISSCC Demo Session. [Video](http://player.vimeo.com/video/70417371)
 
 #### Publications and Talks
-* R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan, "Reconfigurable Processor for Energy-Efficient Computational Photography," IEEE Journal of Solid-State Circuits (JSSC), vol. 48, no. 11, pp. 2908-2919, Nov. 2013. [paper]
-* R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan, "Reconfigurable Processor for Energy-Scalable Computational Photography," IEEE International Solid-State Circuits Conference (ISSCC), 164-165, February 2013. [paper]
+* R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan, "Reconfigurable Processor for Energy-Efficient Computational Photography," IEEE Journal of Solid-State Circuits (JSSC), vol. 48, no. 11, pp. 2908-2919, Nov. 2013. [Paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6623206)
+* R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan, "Reconfigurable Processor for Energy-Scalable Computational Photography," IEEE International Solid-State Circuits Conference (ISSCC), 164-165, February 2013. [Paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6487683)
 
 #### In the News
 * Picture Perfect: Quick, efficient chip cleans up common flaws in amateur photographs. ([MIT News](http://web.mit.edu/newsoffice/2013/computational-photography-chip-0219.html))
@@ -203,18 +203,21 @@ This work focuses on a hardware accelerator for bilateral filtering which is com
 * * * 
 
 ### A 3D Vision Processor for a Navigation Device for the Visually Challenged (MIT)
+
+**People: Dongsuk Jeon, Nathan Ickes, Priyanka Raina, H. C. Wang, Anantha Chandrakasan**
+
 3D imaging devices, such as stereo and time-of-flight (ToF) cameras, measure distances to the observed points and generate a depth image where each pixel represents a distance to the corresponding location. The depth image can be converted into a 3D point cloud using simple linear operations. This spatial information provides detailed understanding of the environment and is currently employed in a wide range of applications such as human motion capture. However, its distinct characteristics from conventional color images necessitate different approaches to efficiently extract useful information.
 
 This chip is a low-power vision processor for processing such 3D image data. The processor achieves high energy-efficiency through a parallelized reconfigurable architecture and hardware-oriented algorithmic optimizations. The processor will be used as a part of a navigation device for the visually impaired. This handheld or body-worn device is designed to detect safe areas and obstacles and provide feedback to a user. We employ a ToF camera as the main sensor in this system since it has a small form factor and requires relatively low computational complexity.
 
 #### Publications and Talks
-* D. Jeon, N. Ickes, P. Raina, H. C. Wang, A. P. Chandrakasan, "24.1 A 0.6V 8mW 3D vision processor for a navigation device for the visually impaired," IEEE International Solid-State Circuits Conference (ISSCC), Feb. 2016. [paper]
+* D. Jeon, N. Ickes, P. Raina, H. C. Wang, A. P. Chandrakasan, "24.1 A 0.6V 8mW 3D vision processor for a navigation device for the visually impaired," IEEE International Solid-State Circuits Conference (ISSCC), Feb. 2016. [Paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7418084)
 
 #### In the News
 
-* A virtual “guide dog” for navigation. (MIT News)
-* MIT researchers have developed a ‘virtual guide dog’. (boston.com)
-* Wearable with 3D camera to guide visually impaired. (Pune Mirror)
+* A virtual “guide dog” for navigation. ([MIT News](http://news.mit.edu/2016/virtual-guide-dog-wearable-device-0202#.VrHZj9k0f5g))
+* MIT researchers have developed a ‘virtual guide dog’. ([boston.com](https://www.boston.com/news/local-news/2016/02/03/mit-researchers-have-developed-a-virtual-guide-dog))
+* Wearable with 3D camera to guide visually impaired. ([Pune Mirror](http://www.punemirror.in/others/scitech/Wearable-with-3D-camera-to-guide-visually-impaired/articleshow/50855649.cms))
 
 More details about Priyanka's PhD work are on [Priyanka's MIT webpage](http://web.mit.edu/~praina/www/index.html).
 
