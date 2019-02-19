@@ -164,7 +164,7 @@ We propose the development and clinical evaluation of a fully-automated computer
 Tensorloop is an infrastructure for evaluating and exploring the architecture design space of deep neural network (DNN) accelerators. Timeloop uses a concise and unified representation of the key architecture and implementation attributes of  DNN accelerators to describe a broad space of hardware topologies. It can then emulate those topologies to generate an   accurate projection of performance and energy efficiency for a DNN workload through a mapper that finds the best way to  schedule operations and stage data on the specified architecture. This enables fair comparisons across different architectures and makes DNN accelerator design more systematic. 
 
 #### Publications
-* A. Parashar, P. Raina, S. Shao, A. Mukkara, V. A. Ying, R. Venkatesan, Y. H. Chen, B. Khailany, S. Keckler, J. Emer, "Tensorloop: A Systematic Approach to DNN Accelerator Evaluation", to be presented in ISPASS 2019.
+* A. Parashar, P. Raina, S. Shao, A. Mukkara, V. A. Ying, R. Venkatesan, Y. H. Chen, B. Khailany, S. Keckler, J. Emer, "Tensorloop: A Systematic Approach to DNN Accelerator Evaluation", to be presented at ISPASS 2019.
 
 * * * 
 
