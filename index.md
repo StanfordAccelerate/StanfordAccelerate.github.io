@@ -3,7 +3,7 @@
 
 | | Priyanka Raina |
 |:-------------|:------------------|
-| Email            | praina@stanford.edu |
+| Email            | praina AT stanford DOT edu |
 | Contact          | Allen Building - Room 114, (617) 899-3791 |
 | About            | Priyanka Raina is an Assistant Professor in Electrical Engineering at Stanford University. Previously, she was a Visiting Research Scientist in the Architecture Research Group at NVIDIA Corporation. She received her Ph.D. degree in 2018 and S.M. degree in 2013 in EECS from MIT and her B.Tech. degree in EE from IIT Delhi in 2011. |
 | Research Summary | Priyanka's research group works in three areas 1. High performance and energy-efficient digital hardware accelerators for applications such as computational imaging, vision and machine learning. 2. Accelerator architectures that leverage the unique physical characteristics of emerging non-volatile memory technologies. 3. Agile hardware design to improving design productivity. We are creating generators and architectures for reconfigurable accelerators and their compiler toolchains. |
@@ -12,7 +12,7 @@
 
 | | Julie Kline |
 |:-------------|:------------------|
-| Email            | klinej@stanford.edu |
+| Email            | klinej AT stanford DOT edu |
 | Contact          | Packard Building - Room 359, (650) 723-4539 |
 
 
@@ -21,7 +21,7 @@
 
 |              | Haitong Li            |
 |:-------------|:----------------------|
-| Email        | haitongl@stanford.edu |
+| Email        | haitongl AT stanford DOT edu |
 | Webpage      | <https://www.linkedin.com/in/haitongli/> |
 | About        | Haitong Li is an EE Ph.D. candidate at Stanford University, supervised by Prof. H.-S. Philip Wong and co-advised by Prof. Priyanka Raina. Previously, he was a Research Intern in the Device, Circuit and System (DCS) Group at Arm. He received M.S. in electrical engineering from Stanford University in 2017, and B.S. in microelectronics from Peking University, China, in 2015. He is a recipient of 2016 IEEE EDS Masters Student Fellowship. |
 | Research     | My research is focused on in-memory computing enabled by emerging non-volatile memory technologies. The application space ranges from deep learning inference to hyper-dimensional computing for cognitive applications, while leveraging the unique physical characteristics of emerging devices (e.g., stochasticity, 3D vertical connectivity). I also collaborate closely with Prof. Subhasish Mitra (Stanford) and Prof. Jan Rabaey (UC Berkeley). For more details, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=0zX2pcwAAAAJ&hl=en). |
@@ -29,7 +29,7 @@
 
 |              | Weier Wan             |
 |:-------------|:----------------------|
-| Email        | weierwan@stanford.edu |
+| Email        | weierwan AT stanford DOT edu |
 | Webpage      | |
 | About        | |
 | Research     | |
@@ -38,14 +38,15 @@
 
 |              | Akash Levy           |
 |:-------------|:----------------------|
-| Email        | akashl@stanford.edu |
+| Email        | akashl AT stanford DOT edu |
 | Webpage      | <https://www.linkedin.com/in/akashlevy/> |
 | About        | Akash Levy is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. Previously, he was a Research Intern at Amazon Lab126 and Amazon Web Services. He received a B.S.E. degree in electrical engineering from Princeton University in 2018, with certificates in Applications of Computing and Engineering Physics. He is a recipient of the 2018 NSF Graduate Research Fellowship.|
 | Research     | My current research is focused on improving the efficiency of reconfigurable logic devices (such as FPGAs and CGRAs) through the use of 3D integration with emerging nanotechnologies. In particular, I am developing a hybrid design that makes use of both resistive random access memory (RRAM) and nanoelectromechanical (NEM) relays to implement reconfigurable switching in the back-end-of-line for reduced reconfigurability overhead. My ultimate goal is to enable reconfigurable logic devices to become more competitive with ASICs in terms of power, area, and performance. My pre-PhD research involved a broad range of subjects, ranging from physics to computer security. For more details, please refer to my [Academia.edu portfolio](https://stanford.academia.edu/AkashLevy) and my [Google Scholar profile](https://scholar.google.com/citations?user=0zX2pcwAAAAJ&hl=en). |
 
+
 |              | Fei Huang             |
 |:-------------|:----------------------|
-| Email        | feihuang@stanford.edu |
+| Email        | feihuang AT stanford DOT edu |
 | Webpage      | |
 | About        | |
 | Research     | |
@@ -54,7 +55,7 @@
 
 |              | Kartik Prabhu         |
 |:-------------|:----------------------|
-| Email        | kprabhu7@stanford.edu |
+| Email        | kprabhu7 AT stanford DOT edu |
 | Webpage      | |
 | About        | |
 | Research     | |
