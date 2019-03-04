@@ -38,9 +38,10 @@ Stanford accelerate group works in three areas:
 |              | Weier Wan             |
 |:-------------|:----------------------|
 | Email        | weierwan AT stanford DOT edu |
-| Webpage      | |
-| About        | |
-| Research     | |
+| Webpage      | <https://www.linkedin.com/in/weier-wan/> |
+| About        | Weier Wan is an EE Ph.D. candidate at Stanford University, supervised by Prof. H.-S. Philip Wong and co-advised by Prof. Priyanka Raina. Previously, he was a Research Intern at Google X. He received M.S. in electrical engineering from Stanford University in 2017, and B.S. in Electrical Enginnering and Computer Science and B.A. in Physics from UC Berkeley, in 2015. |
+| Research     | My research focuses on using resistive memory (RRAM) based analog in-memory computing to enable energy and area-efficient machine learning. Recently I designed and taped-out (and currently testing) a fully-integrated mixed-signal chip with RRAM synapses
+monolithically integrated with CMOS neurons. The chip implements inference and training for Restricted Boltzmann Machine, a type of probablistic graphical model, as well as inference for MLPs and RNNs. The project is a collaborative effort with Prof. Gert Cauwenberghs (UCSD) and Prof. Huaqiang Wu (Tsinghua University). I also studied novel techniques for quantizing deep neural networks (https://github.com/google-research/google-research/tree/master/cnn_quantization)|
 
 ### PhD Rotation Students
 
