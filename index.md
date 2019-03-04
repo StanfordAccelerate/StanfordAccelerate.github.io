@@ -51,13 +51,12 @@ Stanford accelerate group works in three areas:
 | About        | Akash Levy is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. Previously, he was a Research Intern at Amazon Lab126 and Amazon Web Services. He received a B.S.E. degree in electrical engineering from Princeton University in 2018, with certificates in Applications of Computing and Engineering Physics. He is a recipient of the 2018 NSF Graduate Research Fellowship.|
 | Research     | My current research is focused on improving the efficiency of reconfigurable logic devices (such as FPGAs and CGRAs) through the use of 3D integration with emerging nanotechnologies. In particular, I am developing a hybrid design that makes use of both resistive random access memory (RRAM) and nanoelectromechanical (NEM) relays to implement reconfigurable switching in the back-end-of-line for reduced reconfigurability overhead. My ultimate goal is to enable reconfigurable logic devices to become more competitive with ASICs in terms of power, area, and performance. My pre-PhD research involved a broad range of subjects, ranging from physics to computer security. For more details, please refer to my [Academia.edu portfolio](https://stanford.academia.edu/AkashLevy) and my [Google Scholar profile](https://scholar.google.com/citations?user=A0Auh6EAAAAJ&hl=en). |
 
-
 |              | Fei Huang             |
 |:-------------|:----------------------|
 | Email        | feihuang AT stanford DOT edu |
-| Webpage      | |https://www.linkedin.com/in/fei-huang-72177797/
-| About        | |Fei Huang is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. He received M.S. and B.S. degree in Electrical Materials & Devices from University of Electronic Science and Technology of China in 2018 and 2015, respectively.
-| Research     | |My current research is focused on reducing the latency in telecommunication system through the use of hardware accelerator. In particular, I am focusing on the resource allocation problem and MIMO decoding problem.
+| Webpage      | <https://www.linkedin.com/in/fei-huang-72177797/> |
+| About        | Fei Huang is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. He received M.S. and B.S. degree in Electrical Materials & Devices from University of Electronic Science and Technology of China in 2018 and 2015 respectively. |
+| Research     | My current research is focused on reducing the latency in telecommunication system through the use of hardware accelerators. In particular, I am focusing on the resource allocation problem and MIMO decoding problem in 5G wireless systems. |
 
 ### Masters Students
 
