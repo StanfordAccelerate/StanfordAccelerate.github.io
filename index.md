@@ -27,12 +27,12 @@ Stanford accelerate group works in three areas:
 ## Students
 ### PhD Students
 
-|              | Haitong Li            |
+|![Haitong](img/haitong.jpg)| Haitong Li |
 |:-------------|:----------------------|
 | Email        | haitongl AT stanford DOT edu |
 | Webpage      | <https://www.linkedin.com/in/haitongli/> |
 | About        | Haitong Li is an EE Ph.D. candidate at Stanford University, supervised by Prof. H.-S. Philip Wong and co-advised by Prof. Priyanka Raina. Previously, he was a Research Intern in the Device, Circuit and System (DCS) Group at Arm. He received M.S. in electrical engineering from Stanford University in 2017, and B.S. in microelectronics from Peking University, China, in 2015. He is a recipient of 2016 IEEE EDS Masters Student Fellowship. |
-| Research     | My research is focused on in-memory computing enabled by emerging non-volatile memory technologies. The application space ranges from deep learning inference to hyper-dimensional computing for cognitive applications, while leveraging the unique physical characteristics of emerging devices (e.g., stochasticity, 3D vertical connectivity). I also collaborate closely with Prof. Subhasish Mitra (Stanford) and Prof. Jan Rabaey (UC Berkeley). For more details, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=0zX2pcwAAAAJ&hl=en). |
+| Research     | My research is focused on in-memory computing enabled by emerging non-volatile memory technologies. The application space ranges from deep learning inference (DAC'19) to hyper-dimensional computing (IEDM'16, ISSCC'18) for cognitive applications, while leveraging the unique physical characteristics of emerging devices (e.g., stochasticity, 3D vertical connectivity). I also collaborate closely with Prof. Subhasish Mitra (Stanford) and Prof. Jan Rabaey (UC Berkeley). For more details, please refer to this [Google Scholar profile](https://scholar.google.com/citations?user=0zX2pcwAAAAJ&hl=en). |
 
 
 |![Weier](img/weier.jpeg)| Weier Wan             |
@@ -99,6 +99,12 @@ More information about the project can be found on the [project webpage](https:/
 ### In-Memory Compute Architecture for One-Shot Learning Applications
 
 **People: Haitong Li, Philip Wong, Priyanka Raina**
+
+Machine and deep learning workloads have been moving from cloud to edge, due to the real-time requirement, bandwidth challenges, and privacy concerns. Today's edge computing solutions are mainly providing inference capabilities. Yet, more complicated and realistic scnearios require 'learning' capabilities to meet the fast-changing environments at the user ends. Towards the goal of delivering such machine inteligence at edge, we plan to explore the opportunies of one-shot and few-shot learning, which essentially represent an online learning scenario with rapid acquisition of few unseen examples. 
+
+State-of-the-art memory-augmented neural networks combine the best characteristics of parametric models (e.g., CNN/LSTM) and non-parametric models (e.g., nearest neighbors). The idea is that features extracted by front-end NNs can be stored in an associative memory, inspired by human's working memory, where similarity measurement is key to enable rapid recall & reasoning for one/few-shot learning. 
+
+With the increasing complexity in feature space from multi-media data, hardware acceleration opportunities arise for efficient implementations of associative memories. Our approach is to explore in-memory computing architectures enabled by emerging non-volatile memory (NVM) technologies (e.g., resistive RAM). The unique capability is doing in-situ distance comparison in a non-volatile fashion. At architecture level, we're exploring the design spaces of the front-end feature extrator and the associative memories with realistic NVM characteristics, aimed at providing energy efficiency benefits for large-scale datasets. 
 
 * * *
 
