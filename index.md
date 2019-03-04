@@ -9,33 +9,37 @@ Stanford accelerate group works in three areas:
 
 # People
 ## Faculty
+![Priyanka](img/priyanka.jpg)
 
-|![Priyanka](img/priyanka.jpg)| Priyanka Raina |
-|:-------------|:------------------|
-| Email            | praina AT stanford DOT edu |
-| Contact          | Allen Building - Room 114, (617) 899-3791 |
-| About            | Priyanka Raina is an Assistant Professor in Electrical Engineering at Stanford University. Previously, she was a Visiting Research Scientist in the Architecture Research Group at NVIDIA Corporation. She received her Ph.D. degree in 2018 and S.M. degree in 2013 in EECS from MIT and her B.Tech. degree in EE from IIT Delhi in 2011. |
-| Teaching         | Priyanka teaches [EE271: Introduction to VLSI Systems](http://web.stanford.edu/class/ee271/) in the Fall and EE272: Design Projects in VLSI Systems in the Winter. |
+| Priyanka Raina | |
+|:---------------|:------------------|
+| Email          | praina AT stanford DOT edu |
+| Contact        | Allen Building - Room 114, (617) 899-3791 |
+| About          | Priyanka Raina is an Assistant Professor in Electrical Engineering at Stanford University. Previously, she was a Visiting Research Scientist in the Architecture Research Group at NVIDIA Corporation. She received her Ph.D. degree in 2018 and S.M. degree in 2013 in EECS from MIT and her B.Tech. degree in EE from IIT Delhi in 2011. |
+| Teaching       | Priyanka teaches [EE271: Introduction to VLSI Systems](http://web.stanford.edu/class/ee271/) in the Fall and EE272: Design Projects in VLSI Systems in the Winter. |
 
 ## Administrator
 
-| | Julie Kline |
+| Julie Kline  | |
 |:-------------|:------------------|
-| Email            | klinej AT stanford DOT edu |
-| Contact          | Packard Building - Room 359, (650) 723-4539 |
+| Email        | klinej AT stanford DOT edu |
+| Contact      | Packard Building - Room 359, (650) 723-4539 |
 
 ## Students
 ### PhD Students
 
-|![Haitong](img/haitong.jpg)| Haitong Li |
+![Haitong](img/haitong.jpg)
+
+| Haitong Li   | |
 |:-------------|:----------------------|
 | Email        | haitongl AT stanford DOT edu |
 | Webpage      | <https://www.linkedin.com/in/haitongli/> |
 | About        | Haitong Li is an EE Ph.D. candidate at Stanford University, supervised by Prof. H.-S. Philip Wong and co-advised by Prof. Priyanka Raina. Previously, he was a Research Intern in the Device, Circuit and System (DCS) Group at Arm. He received M.S. in electrical engineering from Stanford University in 2017, and B.S. in microelectronics from Peking University, China, in 2015. He is a recipient of 2016 IEEE EDS Masters Student Fellowship. |
 | Research     | My research is focused on in-memory computing enabled by emerging non-volatile memory technologies. The application space ranges from deep learning inference (DAC'19) to hyper-dimensional computing (IEDM'16, ISSCC'18) for cognitive applications, while leveraging the unique physical characteristics of emerging devices (e.g., stochasticity, 3D vertical connectivity). I also collaborate closely with Prof. Subhasish Mitra (Stanford) and Prof. Jan Rabaey (UC Berkeley). For more details, please refer to this [Google Scholar profile](https://scholar.google.com/citations?user=0zX2pcwAAAAJ&hl=en). |
 
+![Weier](img/weier.jpeg)
 
-|![Weier](img/weier.jpeg)| Weier Wan             |
+| Weier Wan    | |
 |:-------------|:----------------------|
 | Email        | weierwan AT stanford DOT edu |
 | Webpage      | <https://www.linkedin.com/in/weier-wan/> |
@@ -44,14 +48,16 @@ Stanford accelerate group works in three areas:
 
 ### PhD Rotation Students
 
-|![Akash](img/akash.jpg)| Akash Levy           |
+![Akash](img/akash.jpg)
+
+| Akash Levy   | |
 |:-------------|:----------------------|
 | Email        | akashl AT stanford DOT edu |
 | Webpage      | <https://www.linkedin.com/in/akashlevy/> |
 | About        | Akash Levy is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. Previously, he was a Research Intern at Amazon Lab126 and Amazon Web Services. He received a B.S.E. degree in electrical engineering from Princeton University in 2018, with certificates in Applications of Computing and Engineering Physics. He is a recipient of the 2018 NSF Graduate Research Fellowship.|
 | Research     | My current research is focused on improving the efficiency of reconfigurable logic devices (such as FPGAs and CGRAs) through the use of 3D integration with emerging nanotechnologies. In particular, I am developing a hybrid design that makes use of both resistive random access memory (RRAM) and nanoelectromechanical (NEM) relays to implement reconfigurable switching in the back-end-of-line for reduced reconfigurability overhead. My ultimate goal is to enable reconfigurable logic devices to become more competitive with ASICs in terms of power, area, and performance. My pre-PhD research involved a broad range of subjects, ranging from physics to computer security. For more details, please refer to my [Academia.edu portfolio](https://stanford.academia.edu/AkashLevy) and my [Google Scholar profile](https://scholar.google.com/citations?user=A0Auh6EAAAAJ&hl=en). |
 
-|              | Fei Huang             |
+| Fei Huang    | |
 |:-------------|:----------------------|
 | Email        | feihuang AT stanford DOT edu |
 | Webpage      | <https://www.linkedin.com/in/fei-huang-72177797/> |
@@ -60,12 +66,14 @@ Stanford accelerate group works in three areas:
 
 ### Masters Students
 
-|![Kartik](img/kartik.jpg)| Kartik Prabhu         |
-|:-------------|:----------------------|
-| Email        | kprabhu7 AT stanford DOT edu |
-| Webpage      | <https://linkedin.com/in/kprabhu7/> |
-| About        | Kartik Prabhu is an EE M.S. student at Stanford University. Previously, he was a software engineering intern at Cisco. He received a B.S. degree in Computer Engineering from Georgia Institute of Technology in 2018. |
-| Research     | My current research involves creating generators for DNN accelerators. The generator is written using high-level synthesis (HLS) to enable for the creation of a DNN accelerator given a set of parameters, and can generate many of the architectures that have been proposed. |
+![Kartik](img/kartik.jpg)
+
+| Kartik Prabhu | |
+|:--------------|:----------------------|
+| Email         | kprabhu7 AT stanford DOT edu |
+| Webpage       | <https://linkedin.com/in/kprabhu7/> |
+| About         | Kartik Prabhu is an EE M.S. student at Stanford University. Previously, he was a software engineering intern at Cisco. He received a B.S. degree in Computer Engineering from Georgia Institute of Technology in 2018. |
+| Research      | My current research involves creating generators for DNN accelerators. The generator is written using high-level synthesis (HLS) to enable for the creation of a DNN accelerator given a set of parameters, and can generate many of the architectures that have been proposed. |
 
 # Research
 ## Current Projects
