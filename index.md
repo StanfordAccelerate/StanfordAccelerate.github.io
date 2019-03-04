@@ -1,4 +1,10 @@
 ![Group Photo from Mar 1, 2019](img/group_photo_mar_1_2019_small.jpg)
+# Research Summary
+
+Stanford accelerate group works in three areas 
+1. High performance and energy-efficient digital hardware accelerators for applications such as computational imaging, vision and machine learning. 
+2. Accelerator architectures that leverage the unique physical characteristics of emerging non-volatile memory technologies. 
+3. Agile hardware design to improving design productivity. We are creating generators and architectures for reconfigurable accelerators and their compiler toolchains.
 
 # People
 ## Faculty
@@ -8,7 +14,6 @@
 | Email            | praina AT stanford DOT edu |
 | Contact          | Allen Building - Room 114, (617) 899-3791 |
 | About            | Priyanka Raina is an Assistant Professor in Electrical Engineering at Stanford University. Previously, she was a Visiting Research Scientist in the Architecture Research Group at NVIDIA Corporation. She received her Ph.D. degree in 2018 and S.M. degree in 2013 in EECS from MIT and her B.Tech. degree in EE from IIT Delhi in 2011. |
-| Research Summary | Priyanka's research group works in three areas 1. High performance and energy-efficient digital hardware accelerators for applications such as computational imaging, vision and machine learning. 2. Accelerator architectures that leverage the unique physical characteristics of emerging non-volatile memory technologies. 3. Agile hardware design to improving design productivity. We are creating generators and architectures for reconfigurable accelerators and their compiler toolchains. |
 
 ## Adminitrator
 
