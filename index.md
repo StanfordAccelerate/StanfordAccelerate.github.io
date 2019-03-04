@@ -242,4 +242,4 @@ More details about Priyanka's PhD work are on [Priyanka's MIT webpage](http://we
 
 ## Previous Students
 ### PhD Rotation Students
-* Raman Vilkhu (vilkhu@stanford.edu), Autumn 2018
+* Raman Vilkhu (vilkhu AT stanford DOT edu), Autumn 2018
