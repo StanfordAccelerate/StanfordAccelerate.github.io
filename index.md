@@ -3,7 +3,7 @@
 # People
 ## Faculty
 
-| | Priyanka Raina |
+|![Priyanka](img/priyanka.jpg)| Priyanka Raina |
 |:-------------|:------------------|
 | Email            | praina AT stanford DOT edu |
 | Contact          | Allen Building - Room 114, (617) 899-3791 |
