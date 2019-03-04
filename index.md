@@ -9,12 +9,20 @@ Stanford accelerate group works in three areas:
 
 # People
 ## Faculty
-![Priyanka](img/priyanka.jpg)
 
-| Priyanka Raina | |
+### Priyanka Raina 
+
+<table width="100%" height="100%" border="0">
+<tr>
+<td> <img src="img/priyanka.jpg" width="200px" /> </td>
+<td valign="bottom">
+  <h3>Priyanka Raina</h3> <br> Email: praina AT stanford DOT edu <br> Contact: Allen Building - Room 114, (617) 899-3791
+</td>
+</tr>
+</table>
+
+| | |
 |:---------------|:------------------|
-| Email          | praina AT stanford DOT edu |
-| Contact        | Allen Building - Room 114, (617) 899-3791 |
 | About          | Priyanka Raina is an Assistant Professor in Electrical Engineering at Stanford University. Previously, she was a Visiting Research Scientist in the Architecture Research Group at NVIDIA Corporation. She received her Ph.D. degree in 2018 and S.M. degree in 2013 in EECS from MIT and her B.Tech. degree in EE from IIT Delhi in 2011. |
 | Teaching       | Priyanka teaches [EE271: Introduction to VLSI Systems](http://web.stanford.edu/class/ee271/) in the Fall and EE272: Design Projects in VLSI Systems in the Winter. |
 
