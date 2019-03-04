@@ -2,7 +2,7 @@
 Group photo from March 1, 2019. From left to right: Kartik Prabhu, Fei Huang, Akash Levy, Priyanka Raina, Haitong Li and Weier Wan.
 # Research Summary
 
-Stanford accelerate group works in three areas 
+Stanford accelerate group works in three areas:
 1. High performance and energy-efficient digital hardware accelerators for applications such as computational imaging, vision and machine learning. 
 2. Accelerator architectures that leverage the unique physical characteristics of emerging non-volatile memory technologies. 
 3. Agile hardware design to improving design productivity. We are creating generators and architectures for reconfigurable accelerators and their compiler toolchains.
