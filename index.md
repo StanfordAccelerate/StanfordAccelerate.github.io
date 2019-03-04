@@ -45,7 +45,7 @@ Stanford accelerate group works in three areas:
 
 ### PhD Rotation Students
 
-|              | Akash Levy           |
+|![Akash](img/akash.jpg)| Akash Levy           |
 |:-------------|:----------------------|
 | Email        | akashl AT stanford DOT edu |
 | Webpage      | <https://www.linkedin.com/in/akashlevy/> |
