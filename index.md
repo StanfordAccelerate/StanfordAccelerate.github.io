@@ -109,6 +109,7 @@ More information about the project can be found on the [project webpage](https:/
 * A global buffer that can be configured as a double buffer to support neural networks efficiently. 
 * Support for fast reconfiguration.
 * Configurable power domains for saving power by turning off unused portions of the CGRA.
+
 **Code:** [Garnet](https://github.com/StanfordAHA/garnet)
 
 #### 2. Peak - PE Generation DSL and Lassen - PE for Garnet CGRA 
