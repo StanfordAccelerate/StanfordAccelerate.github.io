@@ -35,7 +35,7 @@ Stanford accelerate group works in three areas:
 | Research     | My research is focused on in-memory computing enabled by emerging non-volatile memory technologies. The application space ranges from deep learning inference to hyper-dimensional computing for cognitive applications, while leveraging the unique physical characteristics of emerging devices (e.g., stochasticity, 3D vertical connectivity). I also collaborate closely with Prof. Subhasish Mitra (Stanford) and Prof. Jan Rabaey (UC Berkeley). For more details, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=0zX2pcwAAAAJ&hl=en). |
 
 
-|              | Weier Wan             |
+|![Weier](img/weier.jpeg)| Weier Wan             |
 |:-------------|:----------------------|
 | Email        | weierwan AT stanford DOT edu |
 | Webpage      | <https://www.linkedin.com/in/weier-wan/> |
