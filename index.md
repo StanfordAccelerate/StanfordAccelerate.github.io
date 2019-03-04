@@ -104,7 +104,7 @@ More information about the project can be found on the [project webpage](https:/
     * Passes can transform RTL to make it amenable to other portions of the design flow.
     * Passes can generate collateral for other portions of the design flow (like physical design, verification).
 
-**Garnet** is our second generation CGRA. Compared the Jade, the first generation CGRA, garnet has several new features:
+**Garnet** is our second generation CGRA. Compared to Jade, the first generation CGRA, garnet has several new features:
 * A new PE, Lassen, that supports BFloat and transcendental operations.
 * A global buffer that can be configured as a double buffer to support neural networks efficiently. 
 * Support for fast reconfiguration.
