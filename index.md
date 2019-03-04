@@ -130,7 +130,7 @@ Machine and deep learning workloads have been moving from cloud to edge, due to 
 
 State-of-the-art memory-augmented neural networks (NNs) combine the best characteristics of parametric models (e.g., CNN/LSTM) and non-parametric models (e.g., nearest neighbors). The idea is that features extracted by front-end NNs can be stored in an associative memory, inspired by human's working memory, where similarity measurement is the key to enabling rapid recall and reasoning for one/few-shot learning. 
 
-With the increasing complexity in feature space from multi-media data, hardware acceleration opportunities arise for efficient implementations of associative memories. Our approach is to explore in-memory computing architectures enabled by emerging non-volatile memory (NVM) technologies (e.g., resistive RAM). The unique capability is doing in-situ distance comparison in a non-volatile fashion. At the architecture level, we're exploring the design spaces of the front-end feature extrator and the associative memories with realistic NVM characteristics, aimed at providing energy efficiency benefits for large-scale datasets. 
+With the increasing complexity in feature space from multi-media data, hardware acceleration opportunities arise for efficient implementations of associative memories. Our approach is to explore in-memory computing architectures enabled by emerging non-volatile memory (NVM) technologies (e.g., resistive RAM). The unique capability is doing in-situ distance comparison in a non-volatile fashion. At the architecture level, we're exploring the design spaces of the front-end feature extractor and the associative memories with realistic NVM characteristics, aimed at providing energy efficiency benefits for large-scale datasets. 
 
 * * *
 
