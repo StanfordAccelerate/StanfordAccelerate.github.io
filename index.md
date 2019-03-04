@@ -35,12 +35,12 @@ Stanford accelerate group works in three areas:
 | Research     | My research is focused on in-memory computing enabled by emerging non-volatile memory technologies. The application space ranges from deep learning inference to hyper-dimensional computing for cognitive applications, while leveraging the unique physical characteristics of emerging devices (e.g., stochasticity, 3D vertical connectivity). I also collaborate closely with Prof. Subhasish Mitra (Stanford) and Prof. Jan Rabaey (UC Berkeley). For more details, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=0zX2pcwAAAAJ&hl=en). |
 
 
-|              | Weier Wan             |
+|![Weier](img/weier.jpeg)| Weier Wan             |
 |:-------------|:----------------------|
 | Email        | weierwan AT stanford DOT edu |
-| Webpage      | |
-| About        | |
-| Research     | |
+| Webpage      | <https://www.linkedin.com/in/weier-wan/> |
+| About        | Weier Wan is an EE Ph.D. candidate at Stanford University, supervised by Prof. H.-S. Philip Wong and co-advised by Prof. Priyanka Raina. Previously, he was a Research Intern at Google X. He received M.S. in electrical engineering from Stanford University in 2017, and B.S. in Electrical Enginnering and Computer Science and B.A. in Physics from UC Berkeley, in 2015. |
+| Research     | My research focuses on using resistive memory (RRAM) based analog in-memory computing to enable energy and area-efficient machine learning. Recently I designed and taped-out (and currently testing) a fully-integrated mixed-signal chip with RRAM synapses monolithically integrated with CMOS neurons. The chip implements inference and training for Restricted Boltzmann Machine, a type of probablistic graphical model, as well as inference for MLPs and RNNs. The project is a collaborative effort with Prof. Gert Cauwenberghs (UCSD) and Prof. Huaqiang Wu (Tsinghua University). I also studied novel techniques for quantizing deep neural networks (https://github.com/google-research/google-research/tree/master/cnn_quantization)|
 
 ### PhD Rotation Students
 
@@ -126,9 +126,13 @@ In this project, we propose the use of two emerging nanotechnologies in PLD desi
 
 * * *
 
-### RBM Accelerator
+### RBM In-Memory Accelerator
 
 **People: Weier Wan**
+
+![RBM](img/rbm.png)
+
+The project aims at realizing a fully integrated neuromorphic hardware with RRAM crossbar synapses array monolithically integrated with 130nm CMOS circuits to perform on-chip RBM inference and training. The entire chip consists of in total 48 cores, 3 million RRAM synapses and 12 thousand neurons. The architecture design aims at achieving maximum configurability and testability in an area-efficient and routable fashion. The goal is made possible by the neuron-synapse interconnect topology design. In contrast to previous neuromorphic hardware, where neurons are usually located at the side of synaptic array, in our design neurons and synapses are co-located in a distributed fashion, which is more similar to biological neural systems. Within one neural-synaptic core that consists of 256 neurons and 65K RRAM synapses, each neuron is connected with 1 row and 1 column of the synaptic crossbar and uses the same wire for receiving and firing spikes. The connection can be selectively turned on or off during different operations. Such topology not only allows the neuronal spikes to be sent in both crossbar row-to-column and column-to-row directions, which enables back-and-forth Gibbs sampling during the contrastive divergence training of RBM, but also enables recurrent connections. The combination of different operating modes enable a variety of models besides RBM, such as Multi-Layer Perceptron (MLP) and Recurrent Neural Network (RNN). Due to the close integration and excellent connectivity between neurons and synapse and the efficient analog computation of RRAM synapses, simulation shows that the design is able to achieve <1pJ per synaptic event energy efficiency. The chip is currently under testing.
 
 * * *
 
