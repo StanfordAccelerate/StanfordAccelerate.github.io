@@ -1,4 +1,5 @@
 ![Group Photo from Mar 1, 2019](img/group_photo_mar_1_2019_small.jpg)
+Group photo from March 1, 2019. From left to right: Kartik Prabhu, Fei Huang, Akash Levy, Priyanka Raina, Haitong Li, Weier Wan.
 # Research Summary
 
 Stanford accelerate group works in three areas 
