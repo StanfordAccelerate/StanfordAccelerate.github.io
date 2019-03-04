@@ -74,11 +74,11 @@ Stanford accelerate group works in three areas:
 ### Agile Hardware (AHA)
 **Faculty: Priyanka Raina, Mark Horowitz, Pat Hanrahan, Clark Barrett, Kayvon Fatahalian**
 
-![AHA](img/aha.png)
-
 The goals of the agile hardware project are
 1. To create a programmable platform (a coarse grained reconfigurable array or CGRA and its programming toolchain) tuned to running specific applications (such as neural networks and image processing pipelines) efficiently. 
 2. To use and develop agile techniques in the design of platform itself. 
+
+![AHA](img/aha.png)
 
 More information about the project can be found on the [project webpage](https://aha.stanford.edu). All the hardware designed in the project and its programming toolchain are open-source and can be found on the project [github](https://github.com/StanfordAHA). There are multiple faculty and students working on different parts of the project; described below are the parts that Priyanka is actively involved in:
 
