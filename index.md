@@ -61,12 +61,12 @@ Stanford accelerate group works in three areas:
 
 ### Masters Students
 
-|              | Kartik Prabhu         |
+|![Kartik](img/kartik.jpg)| Kartik Prabhu         |
 |:-------------|:----------------------|
 | Email        | kprabhu7 AT stanford DOT edu |
-| Webpage      | |
-| About        | |
-| Research     | |
+| Webpage      | <https://linkedin.com/in/kprabhu7/> |
+| About        | Kartik Prabhu is an EE M.S. student at Stanford University. Previously, he was a software engineering intern at Cisco. He received a B.S. degree in Computer Engineering from Georgia Institute of Technology in 2018. |
+| Research     | My current research involves creating generators for DNN accelerators. The generator is written using high-level synthesis (HLS) to enable for the creation of a DNN accelerator given a set of parameters, and can generate many of the architectures that have been proposed. |
 
 # Research
 ## Current Projects
