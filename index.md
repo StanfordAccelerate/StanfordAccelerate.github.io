@@ -1,3 +1,5 @@
+![Group Photo from Mar 1, 2019](img/group_photo_mar_1_2019_small.jpg)
+
 # People
 ## Faculty
 
