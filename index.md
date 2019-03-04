@@ -185,6 +185,14 @@ Tensorloop is an infrastructure for evaluating and exploring the architecture de
 
 * * * 
 
+### Motion Magnification Accelerator (MIT)
+
+**People: Priyanka Raina, Bill Freeman, Fredo Durand, Anantha Chandrakasan**
+
+![Motion Magnification](img/motion.png)
+
+* * * 
+
 ### An Energy-Scalable Accelerator for Blind Image Deblurring (MIT)
 
 **People: Priyanka Raina, Mehul Tikekar, Bill Freeman, Fredo Durand, Anantha Chandrakasan**
@@ -205,6 +213,8 @@ This work presents the first hardware accelerator for kernel estimation for imag
 ### Reconfigurable Processor for Computational Photography (MIT)
 
 **People: Rahul Rithe, Priyanka Raina, Nathan Ickes, S. V. Tenneti, Fredo Durand, Anantha Chandrakasan** 
+
+![HDR](img/hdr.png)
 
 Computational photography refers to a wide range of image capture and processing techniques that extend the capabilities of digital photography and allow users to take photographs that could not have been taken by a traditional camera. Since its inception less than a decade ago, the field today encompasses a wide range of techniques including high dynamic range (HDR) imaging, low light enhancement, panorama stitching, image deblurring and light field photography. These techniques have so far been software based, which leads to high energy consumption and typically no support for real-time processing.
 
