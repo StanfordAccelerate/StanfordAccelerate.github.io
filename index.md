@@ -146,21 +146,21 @@ In this project, we propose the use of two emerging nanotechnologies in PLD desi
 
 * * *
 
-### Emerging Non Volatile Memory - Centric Accelerator for Deep Neural Network Inference and Training in 5G Applications
+### Emerging Non Volatile Memory - Based Hardware Accelerator for 5G Wireless Applications
 
 **People: Fei Huang, John Cioffi, Priyanka Raina**
 
 * * *
 
-### NVM-Based Neural Network Accelerators
+### Distributed NVM-Based Digital and Analog Neural Network Accelerators
 
-**People: Fei Huang, Daniel Bankman, Robert M. Radway, Jonas Messner, Kartik Prabhu, Binh Q. Le, Priyanka Raina, Subhasish Mitra, Boris Murmann**
+**People: Daniel Bankman, Robert M. Radway, Jonas Messner, Kartik Prabhu, Binh Q. Le, Priyanka Raina, Subhasish Mitra, Boris Murmann**
 
 * * *
 
-### RBM In-Memory Accelerator
+### RRAM-Based In-Memory Computing Accelerator for Restricted Boltzmann Machines (RBMs)
 
-**People: Weier Wan**
+**People: Weier Wan, Gert Cauwenberghs (UCSD), Huaqiang Wu (Tsinghua University), H.-S. Philip Wong**
 
 ![RBM](img/rbm.png)
 
