@@ -71,6 +71,8 @@ Stanford accelerate group works in three areas:
 | About        | Fei Huang is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. He received M.S. and B.S. degree in Electrical Materials & Devices from University of Electronic Science and Technology of China in 2018 and 2015 respectively. |
 | Research     | My current research is focused on reducing the latency and energy in telecommunication systems through the use of hardware accelerators. In particular, I am focusing on the resource allocation problem and MIMO decoding problem in 5G wireless systems. |
 
+test
+
 ### Masters Students
 
 ### Kartik Prabhu
