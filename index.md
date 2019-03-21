@@ -10,94 +10,127 @@ Stanford accelerate group works in three areas:
 # People
 ## Faculty
 
-|![Priyanka](img/priyanka.jpg)| Priyanka Raina |
+### Priyanka Raina 
+
+![Priyanka](img/priyanka.jpg)
+
+| Email          | praina AT stanford DOT edu |
+|:---------------|:------------------|
+| Contact        | Allen Building - Room 114, (617) 899-3791 |
+| About          | Priyanka Raina is an Assistant Professor in Electrical Engineering at Stanford University. Previously, she was a Visiting Research Scientist in the Architecture Research Group at NVIDIA Corporation. She received her Ph.D. degree in 2018 and S.M. degree in 2013 in EECS from MIT and her B.Tech. degree in EE from IIT Delhi in 2011. |
+| Teaching       | Priyanka teaches [EE271: Introduction to VLSI Systems](http://web.stanford.edu/class/ee271/) in the Fall and EE272: Design Projects in VLSI Systems in the Winter. |
+
+## Administrator
+
+### Julie Kline
+
+| Email        | klinej AT stanford DOT edu |
 |:-------------|:------------------|
-| Email            | praina AT stanford DOT edu |
-| Contact          | Allen Building - Room 114, (617) 899-3791 |
-| About            | Priyanka Raina is an Assistant Professor in Electrical Engineering at Stanford University. Previously, she was a Visiting Research Scientist in the Architecture Research Group at NVIDIA Corporation. She received her Ph.D. degree in 2018 and S.M. degree in 2013 in EECS from MIT and her B.Tech. degree in EE from IIT Delhi in 2011. |
-| Teaching         | Priyanka teaches [EE271: Introduction to VLSI Systems](http://web.stanford.edu/class/ee271/) in the Fall and EE272: Design Projects in VLSI Systems in the Winter. |
-
-## Adminitrator
-
-| | Julie Kline |
-|:-------------|:------------------|
-| Email            | klinej AT stanford DOT edu |
-| Contact          | Packard Building - Room 359, (650) 723-4539 |
-
+| Contact      | Packard Building - Room 359, (650) 723-4539 |
 
 ## Students
 ### PhD Students
 
-|              | Haitong Li            |
-|:-------------|:----------------------|
+### Haitong Li
+
+![Haitong](img/haitong.jpg)
+
 | Email        | haitongl AT stanford DOT edu |
-| Webpage      | <https://www.linkedin.com/in/haitongli/> |
-| About        | Haitong Li is an EE Ph.D. candidate at Stanford University, supervised by Prof. H.-S. Philip Wong and co-advised by Prof. Priyanka Raina. Previously, he was a Research Intern in the Device, Circuit and System (DCS) Group at Arm. He received M.S. in electrical engineering from Stanford University in 2017, and B.S. in microelectronics from Peking University, China, in 2015. He is a recipient of 2016 IEEE EDS Masters Student Fellowship. |
-| Research     | My research is focused on in-memory computing enabled by emerging non-volatile memory technologies. The application space ranges from deep learning inference to hyper-dimensional computing for cognitive applications, while leveraging the unique physical characteristics of emerging devices (e.g., stochasticity, 3D vertical connectivity). I also collaborate closely with Prof. Subhasish Mitra (Stanford) and Prof. Jan Rabaey (UC Berkeley). For more details, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=0zX2pcwAAAAJ&hl=en). |
-
-
-|              | Weier Wan             |
 |:-------------|:----------------------|
+| Webpage      | <https://www.linkedin.com/in/haitongli/> |
+| About        | Haitong Li is an EE Ph.D. candidate at Stanford University, supervised by Prof. H.-S. Philip Wong and co-advised by Prof. Priyanka Raina. Previously, he was a Research Intern in the Device, Circuit and System (DCS) Group at Arm. He received M.S. in Electrical Engineering from Stanford University in 2017, and B.S. in Microelectronics from Peking University, China, in 2015. He is a recipient of 2016 IEEE EDS Masters Student Fellowship. |
+| Research     | My research is focused on in-memory computing enabled by emerging non-volatile memory technologies. The application space ranges from deep learning inference (DAC'19) to hyper-dimensional computing (IEDM'16, ISSCC'18) for cognitive applications, while leveraging the unique physical characteristics of emerging devices (e.g., stochasticity, 3D vertical connectivity). I also collaborate closely with Prof. Subhasish Mitra (Stanford) and Prof. Jan Rabaey (UC Berkeley). For more details, please refer to this [Google Scholar profile](https://scholar.google.com/citations?user=0zX2pcwAAAAJ&hl=en). |
+
+### Weier Wan
+
+![Weier](img/weier.jpeg)
+
 | Email        | weierwan AT stanford DOT edu |
-| Webpage      | |
-| About        | |
-| Research     | |
+|:-------------|:----------------------|
+| Webpage      | <https://www.linkedin.com/in/weier-wan/> |
+| About        | Weier Wan is an EE Ph.D. candidate at Stanford University, supervised by Prof. H.-S. Philip Wong and co-advised by Prof. Priyanka Raina. Previously, he was a Research Intern at Google X. He received M.S. in Electrical Engineering from Stanford University in 2017, and B.S. in Electrical Enginnering and Computer Science and B.A. in Physics from UC Berkeley, in 2015. |
+| Research     | My research focuses on using resistive memory (RRAM) based analog in-memory computing to enable energy and area-efficient machine learning. Recently I designed and taped-out (and currently testing) a fully-integrated mixed-signal chip with RRAM synapses monolithically integrated with CMOS neurons. The chip implements inference and training for Restricted Boltzmann Machine, a type of probablistic graphical model, as well as inference for MLPs and RNNs. The project is a collaborative effort with Prof. Gert Cauwenberghs (UCSD) and Prof. Huaqiang Wu (Tsinghua University). I also studied novel techniques for quantizing deep neural networks (<https://github.com/google-research/google-research/tree/master/cnn_quantization>) |
 
 ### PhD Rotation Students
 
-|![Akash](img/akash.jpg)| Akash Levy           |
-|:-------------|:----------------------|
+### Akash Levy 
+
+![Akash](img/akash.jpg)
+
 | Email        | akashl AT stanford DOT edu |
+|:-------------|:----------------------|
 | Webpage      | <https://www.linkedin.com/in/akashlevy/> |
-| About        | Akash Levy is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. Previously, he was a Research Intern at Amazon Lab126 and Amazon Web Services. He received a B.S.E. degree in electrical engineering from Princeton University in 2018, with certificates in Applications of Computing and Engineering Physics. He is a recipient of the 2018 NSF Graduate Research Fellowship.|
+| About        | Akash Levy is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. Previously, he was a Research Intern at Amazon Lab126 and Amazon Web Services. He received a B.S.E. degree in Electrical Engineering from Princeton University in 2018, with certificates in Applications of Computing and Engineering Physics. He is a recipient of the 2018 NSF Graduate Research Fellowship.|
 | Research     | My current research is focused on improving the efficiency of reconfigurable logic devices (such as FPGAs and CGRAs) through the use of 3D integration with emerging nanotechnologies. In particular, I am developing a hybrid design that makes use of both resistive random access memory (RRAM) and nanoelectromechanical (NEM) relays to implement reconfigurable switching in the back-end-of-line for reduced reconfigurability overhead. My ultimate goal is to enable reconfigurable logic devices to become more competitive with ASICs in terms of power, area, and performance. My pre-PhD research involved a broad range of subjects, ranging from physics to computer security. For more details, please refer to my [Academia.edu portfolio](https://stanford.academia.edu/AkashLevy) and my [Google Scholar profile](https://scholar.google.com/citations?user=A0Auh6EAAAAJ&hl=en). |
 
+### Fei Huang
 
-|              | Fei Huang             |
-|:-------------|:----------------------|
 | Email        | feihuang AT stanford DOT edu |
-| Webpage      | |
-| About        | |
-| Research     | |
+|:-------------|:-----------------------------|
+| Webpage      | <https://www.linkedin.com/in/fei-huang-72177797/> |
+| About        | Fei Huang is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. He received M.S. and B.S. degree in Electrical Materials & Devices from University of Electronic Science and Technology of China in 2018 and 2015 respectively. |
+| Research     | My current research is focused on reducing the latency and energy in telecommunication systems through the use of hardware accelerators. In particular, I am focusing on the resource allocation problem and MIMO decoding problem in 5G wireless systems. |
 
 ### Masters Students
 
-|              | Kartik Prabhu         |
-|:-------------|:----------------------|
-| Email        | kprabhu7 AT stanford DOT edu |
-| Webpage      | |
-| About        | |
-| Research     | |
+### Kartik Prabhu
+
+![Kartik](img/kartik.jpg)
+
+| Email         | kprabhu7 AT stanford DOT edu |
+|:--------------|:-----------------------------|
+| Webpage       | <https://linkedin.com/in/kprabhu7/> |
+| About         | Kartik Prabhu is an EE M.S. student at Stanford University. Previously, he was a software engineering intern at Cisco. He received a B.S. degree in Computer Engineering from Georgia Institute of Technology in 2018. |
+| Research      | My current research involves creating generators for DNN accelerators. The generator is written using high-level synthesis (HLS) to enable for the creation of a DNN accelerator given a set of parameters, and can generate many of the architectures that have been proposed. |
 
 # Research
 ## Current Projects
 
 ### Agile Hardware (AHA)
-**Faculty: Priyanka Raina, Mark Horowitz, Pat Hanrahan, Clark Barrett, Kayvon Fatahalian**
+**People: Faculty - Priyanka Raina, Mark Horowitz, Pat Hanrahan, Clark Barrett, Kayvon Fatahalian, and many students advised by these faculty**
 
 The goals of the agile hardware project are
-1. To create a programmable platform (a coarse grained reconfigurable array or CGRA and its compiler toolchain) tuned to running specific applications (such as neural networks and image processing pipelines) efficiently. 
+1. To create a programmable platform (a coarse grained reconfigurable array or CGRA and its programming toolchain) tuned to running specific applications (such as neural networks and image processing pipelines) efficiently. 
 2. To use and develop agile techniques in the design of platform itself. 
 
-More information about the project can be found on the [project webpage](https://aha.stanford.edu). All the hardware designed in the project and its compiler toolchain are open-source and can be found on the project [github](https://github.com/StanfordAHA). There are multiple faculty and students working on different parts of the project; described below are the parts that Priyanka is actively involved in:
+![AHA](img/aha.png)
 
-#### Peak
+More information about the project can be found on the [project webpage](https://aha.stanford.edu). All the hardware designed in the project and its programming toolchain are open-source and can be found on the project [github](https://github.com/StanfordAHA). There are multiple faculty and students working on different parts of the project; described below are the parts that Priyanka is actively involved in:
 
-#### Gemstone
+#### 1. Gemstone - CGRA Generator and Garnet - The second generation CGRA
+**Gemstone** is a CGRA generation infrastructure that comprises
+* Library of reusable CGRA components written in [Magma](https://github.com/phanrahan/magma) such as PE core, Memory core and Interconnect. These components will be eventually generated using their own DSLs (such as peak below), and gemstone will contain all of the glue that is needed to put these components together to create a CGRA.
+* Methods that enable you to write passes on the RTL - 
+    * Passes can transform RTL to make it amenable to other portions of the design flow.
+    * Passes can generate collateral for other portions of the design flow (like physical design, verification).
 
-#### Whitney
+**Garnet** is our second generation CGRA. Compared to Jade, the first generation CGRA, garnet has several new features:
+* A new PE, Lassen, that supports BFloat and transcendental operations.
+* A global buffer that can be configured as a double buffer to support neural networks efficiently. 
+* Support for fast reconfiguration.
+* Configurable power domains for saving power by turning off unused portions of the CGRA.
 
-#### Garnet: The second generation Coarse Grained Reconfigurable Array (CGRA) Architecture optimized for neural networks and image processing applications
+**Code:** [Garnet](https://github.com/StanfordAHA/garnet)
 
-#### SoC
-* ARM Based
-* RISC-V Based
+#### 2. Peak - PE Generation DSL and Lassen - PE for Garnet CGRA 
+**Peak** is a domain specific language (DSL) embedded in python that we have designed to specify the processing element (PE) of our CGRA. The goal is to have the PE specification be the single source of truth, and have peak automatically generate RTL, testbench, mapper and documentation for the PE from it. **Code:** [Peak](https://github.com/phanrahan/peak)
+
+**Lassen** is our second generation PE. Compared to the first generation PE, Diablo, Lassen has several new features including support for BFloat add and multiply, and instructions that allow multiple PE and MEM tiles to be grouped to support transcendental functions such as div, log, e^x, sin and pow. **Code:** [Lassen](https://github.com/StanfordAHA/whitney)
+
+#### 3. SoC 
+In addition to the new CGRA, our next chip will have the first version of our SoC with a control processor and a flexible interconnect. We are invesitigating both ARM and RISC-V based designs.
 
 * * *
 
 ### In-Memory Compute Architecture for One-Shot Learning Applications
 
 **People: Haitong Li, Philip Wong, Priyanka Raina**
+
+Machine and deep learning workloads have been moving from cloud to edge, due to real-time requirements, bandwidth challenges, and privacy concerns. Today's edge computing solutions mainly provide inference capabilities. Yet, more complicated and realistic scnearios require 'learning' capabilities to meet the fast-changing environments at the user's end. To realize this goal of delivering machine inteligence at edge, we plan to explore one-shot and few-shot learning, which essentially represent an online learning scenario with rapid acquisition of few unseen examples. 
+
+State-of-the-art memory-augmented neural networks (NNs) combine the best characteristics of parametric models (e.g., CNN/LSTM) and non-parametric models (e.g., nearest neighbors). The idea is that features extracted by front-end NNs can be stored in an associative memory, inspired by human's working memory, where similarity measurement is the key to enabling rapid recall and reasoning for one/few-shot learning. 
+
+With the increasing complexity in feature space from multi-media data, hardware acceleration opportunities arise for efficient implementations of associative memories. Our approach is to explore in-memory computing architectures enabled by emerging non-volatile memory (NVM) technologies (e.g., resistive RAM). The unique capability is doing in-situ distance comparison in a non-volatile fashion. At the architecture level, we're exploring the design spaces of the front-end feature extractor and the associative memories with realistic NVM characteristics, aimed at providing energy efficiency benefits for large-scale datasets. 
 
 * * *
 
@@ -113,21 +146,25 @@ In this project, we propose the use of two emerging nanotechnologies in PLD desi
 
 * * *
 
-### Emerging Non Volatile Memory - Centric Accelerator for Deep Neural Network Inference and Training in 5G Applications
+### Emerging Non Volatile Memory - Based Hardware Accelerator for 5G Wireless Applications
 
 **People: Fei Huang, John Cioffi, Priyanka Raina**
 
 * * *
 
-### NVM-Based Neural Network Accelerators
+### Distributed NVM-Based Digital and Analog Neural Network Accelerators
 
-**People: Fei Huang, Daniel Bankman, Robert M. Radway, Jonas Messner, Kartik Prabhu, Binh Q. Le, Priyanka Raina, Subhasish Mitra, Boris Murmann**
+**People: Daniel Bankman, Robert M. Radway, Jonas Messner, Kartik Prabhu, Binh Q. Le, Priyanka Raina, Subhasish Mitra, Boris Murmann**
 
 * * *
 
-### RBM Accelerator
+### RRAM-Based In-Memory Computing Accelerator for Restricted Boltzmann Machines (RBMs)
 
-**People: Weier Wan**
+**People: Weier Wan, Gert Cauwenberghs (UCSD), Huaqiang Wu (Tsinghua University), H.-S. Philip Wong**
+
+![RBM](img/rbm.png)
+
+The project aims at realizing a fully integrated neuromorphic hardware with RRAM crossbar synapses array monolithically integrated with 130nm CMOS circuits to perform on-chip RBM inference and training. The entire chip consists of in total 48 cores, 3 million RRAM synapses and 12 thousand neurons. The architecture design aims at achieving maximum configurability and testability in an area-efficient and routable fashion. The goal is made possible by the neuron-synapse interconnect topology design. In contrast to previous neuromorphic hardware, where neurons are usually located at the side of synaptic array, in our design neurons and synapses are co-located in a distributed fashion, which is more similar to biological neural systems. Within one neural-synaptic core that consists of 256 neurons and 65K RRAM synapses, each neuron is connected with 1 row and 1 column of the synaptic crossbar and uses the same wire for receiving and firing spikes. The connection can be selectively turned on or off during different operations. Such topology not only allows the neuronal spikes to be sent in both crossbar row-to-column and column-to-row directions, which enables back-and-forth Gibbs sampling during the contrastive divergence training of RBM, but also enables recurrent connections. The combination of different operating modes enable a variety of models besides RBM, such as Multi-Layer Perceptron (MLP) and Recurrent Neural Network (RNN). Due to the close integration and excellent connectivity between neurons and synapse and the efficient analog computation of RRAM synapses, simulation shows that the design is able to achieve <1pJ per synaptic event energy efficiency. The chip is currently under testing.
 
 * * *
 
