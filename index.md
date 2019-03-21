@@ -138,6 +138,11 @@ With the increasing complexity in feature space from multi-media data, hardware 
 
 **People: Akash Levy, Priyanka Raina**
 
+<p align="center">
+  <img src="/img/hybrid_layout.png" height="300" />
+  <img src="/img/hybrid_xbar_1bit.png" height="300" />
+</p>
+
 Field-programmable gate arrays (FPGAs) are programmable logic devices (PLDs) that enable rapid prototyping of digital circuits and provide an alternative to the expensive application-specific integrated circuit (ASIC) design process today. However, when compared with ASICs performing the same function, SRAM-based FPGAs typically have 10-40 times lower logic density, 3-4 times higher delay, and 5-12 times higher dynamic power dissipation. This is because reconfigurable components incur large overhead---instead of being packed tightly, configurable logic blocks (CLBs) in FPGAs are laid out relatively far apart to make space for routing components, resulting in greater interconnect delay, power dissipation, and chip area. The disparity in the performance of FPGAs and ASICs provides motivation to find ways to reduce reconfigurability overhead, so that ultimately PLDs can become competitive with ASICs at manufacturing scale. Possible solutions lie with PLD designs that trade off fine-grained CLBs with more specialized blocks e.g. coarse-grained reconfigurable arrays (CGRAs), or with emerging nanotechnologies that enable novel design strategies in the space of reconfigurable semiconductor devices (to be discussed later).
 
 Another topic of interest in semiconductor design today is "normally off, instantly on" device operation, which is critical for devices with weak, unreliable, or intermittent power sources. Energy-harvesting devices, wearables, and low-power nodes in the Internet of Things (IoT) will need to be able to operate in this mode to prevent unnecessary power dissipation between periods of action. Today, FPGAs need to load their configuration from off-chip memory into SRAM on startup. This has motivated the development of integrated non-volatile memory (NVM) that can replace (or work well in conjunction with) on-chip SRAMs to enable intermittent computing.
