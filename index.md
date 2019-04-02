@@ -29,6 +29,7 @@ Stanford accelerate group works in three areas:
 | Email        | klinej AT stanford DOT edu |
 |:-------------|:------------------|
 | Contact      | Packard Building - Room 359, (650) 723-4539 |
+| About        | Julie Kline is a Faculty Administrator at Stanford, and she supports several Electrical Engineering professors and their research teams. She holds a master’s degree in English from San Jose State University, and prior to her work at Stanford, she spent several years teaching academic writing and rhetoric at De Anza College in Cupertino. Julie is an active member at Coastal Repertory Theatre in Half Moon Bay, where in addition to acting, directing, and producing, she serves on several committees and the Board of Directors.             
 
 ## Students
 ### PhD Students
