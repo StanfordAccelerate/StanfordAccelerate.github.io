@@ -66,6 +66,13 @@ Stanford accelerate group works in three areas:
 | About        | Akash Levy is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. Previously, he was a Research Intern at Amazon Lab126 and Amazon Web Services. He received a B.S.E. degree in Electrical Engineering from Princeton University in 2018, with certificates in Applications of Computing and Engineering Physics. He is a recipient of the 2018 NSF Graduate Research Fellowship.|
 | Research     | My current research is focused on improving the efficiency of reconfigurable logic devices (such as FPGAs and CGRAs) through the use of 3D integration with emerging nanotechnologies. In particular, I am developing a hybrid design that makes use of both resistive random access memory (RRAM) and nanoelectromechanical (NEM) relays to implement reconfigurable switching in the back-end-of-line for reduced reconfigurability overhead. My ultimate goal is to enable reconfigurable logic devices to become more competitive with ASICs in terms of power, area, and performance. My pre-PhD research involved a broad range of subjects, ranging from physics to computer security. For more details, please refer to my [Academia.edu portfolio](https://stanford.academia.edu/AkashLevy) and my [Google Scholar profile](https://scholar.google.com/citations?user=A0Auh6EAAAAJ&hl=en). |
 
+![Kathleen](img/kathleen.jpg)
+
+| Email        | kzf AT stanford DOT edu |
+|:-------------|:----------------------|
+| About        | Kathleen Feng is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. She received a B.S.E. degree in Electrical Engineering from Princeton University in 2018, with certificates in Applications of Computing and Robotics and Intelligent Systems. She is a recipient of the NDSEG Fellowship.|
+| Research     | My current research focuses on accelerating deep image processing pipelines (ISPs) on reconfigurable hardware. Deep ISPs combine low-level image processing techniques with high-level image classification, allowing for a more robust process. More generally, I am interested in designing and developing new computer architectures for computer graphics, vision, and related applications.|
+
 ### Fei Huang
 
 | Email        | feihuang AT stanford DOT edu |
