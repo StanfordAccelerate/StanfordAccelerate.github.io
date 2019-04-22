@@ -75,14 +75,6 @@ Stanford accelerate group works in three areas:
 | About        | Kathleen Feng is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. She received a B.S.E. degree in Electrical Engineering from Princeton University in 2018, with certificates in Applications of Computing and Robotics and Intelligent Systems. She is a recipient of the NDSEG Fellowship.|
 | Research     | My current research focuses on accelerating deep image processing pipelines (ISPs) on reconfigurable hardware. Deep ISPs combine low-level image processing techniques with high-level image classification, allowing for a more robust process. More generally, I am interested in designing and developing new computer architectures for computer graphics, vision, and related applications.|
 
-### Fei Huang
-
-| Email        | feihuang AT stanford DOT edu |
-|:-------------|:-----------------------------|
-| Webpage      | <https://www.linkedin.com/in/fei-huang-72177797/> |
-| About        | Fei Huang is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. He received M.S. and B.S. degree in Electrical Materials & Devices from University of Electronic Science and Technology of China in 2018 and 2015 respectively. |
-| Research     | My current research is focused on reducing the latency and energy in telecommunication systems through the use of hardware accelerators. In particular, I am focusing on the resource allocation problem and MIMO decoding problem in 5G wireless systems. |
-
 ### Masters Students
 
 ### Kartik Prabhu
@@ -163,15 +155,9 @@ In this project, we propose the use of two emerging nanotechnologies in PLD desi
 
 * * *
 
-### Emerging Non Volatile Memory - Based Hardware Accelerator for 5G Wireless Applications
-
-**People: Fei Huang, John Cioffi, Priyanka Raina**
-
-* * *
-
 ### Distributed NVM-Based Digital and Analog Neural Network Accelerators
 
-**People: Daniel Bankman, Robert M. Radway, Jonas Messner, Kartik Prabhu, Binh Q. Le, Priyanka Raina, Subhasish Mitra, Boris Murmann**
+**People: Jung-Soo Ko, Daniel Bankman, Robert M. Radway, Jonas Messner, Kartik Prabhu, Binh Q. Le, Priyanka Raina, Subhasish Mitra, Boris Murmann**
 
 * * *
 
@@ -197,12 +183,8 @@ Deep neural networks require custom accelerators in order to run with high perfo
 
 * * * 
 
-## Upcoming Projects
-
 ### Optimizing Computer Vision Performance with Energy-Efficient Deep ISPs
-**People: Gordon Wetzstein, Priyanka Raina**
-
-**We are looking for graduate students to work on this project! Please email Priyanka if you are interested.**
+**People: Kathleen Feng, Chris Metzler, Gordon Wetzstein, Priyanka Raina**
 
 The capacity of imaging systems must continue to expand in order to keep pace with rapidly increasing, application-specific demands in robotic and machine vision, consumer photography, autonomous driving, surveillance and machine learning. State-of-the-art imaging systems optimize the image processing pipeline (ISP) for image quality as perceived by a human observer and they treat different stages of the ISP as separate blocks, which leads to sub-optimal performance. In particular, sensor noise, defocus and motion blur, as well as other imperfections in the image formation, especially in low-light environments, are fundamental challenges for achieving state of the art performance of computer vision algorithms, such as image classification and object detection with current ISPs. 
 
@@ -215,9 +197,7 @@ In this project, we will design an end-to-end ISP pipeline for computer vision t
 * * *
 
 ### Objective Body Surface Area Determination for the Investigation of Vitiligo Clinical Outcomes
-**People: Dr. Victor Huang (UC Davis), Priyanka Raina**
-
-**We are looking for students to work on this project! Please email Priyanka if you are interested.**
+**People: Makena Low, Dr. Victor Huang (UC Davis), Priyanka Raina**
 
 Vitiligo is an autoimmune condition that targets melanocytes, the pigment producing cells of the skin, and results in large patches of skin losing their color. It affects approximately 1% of the population and has significant negative effects on the quality of life of patients. Vitiligo progresses over the course of months to years and response to treatment may, similarly, require months to years to become apparent. This is a significant hurdle as selecting an optimal treatment strategy such as immune suppression versus surgical approaches hinges on being able to accurately assess residual disease activity. However, there is no sensitive and objective outcome measure to characterize the spread of the disease, and this has been a major hurdle for optimizing clinical care as well as for development of clinical trials for vitiligo.
 
@@ -226,6 +206,14 @@ To assess the spread of vitiligo, a clinician commonly performs a visual examina
 We propose the development and clinical evaluation of a fully-automated computer-assisted system that quantitatively and accurately assesses 3D BSA using depth and color imaging and machine learning based vision algorithms. The greater sensitivity of this method will detect currently sub- clinical changes, which can be clinically significant in defining disease activity and predicting both initial response and durability of response to treatment. In addition, this technology can be later adapted for analysis of any skin condition for which BSA is an outcome measure of interest, such as psoriasis, melanoma, dermatological reactions to drugs and wounds.
 
 * * * 
+
+## Upcoming Porjects
+
+### Emerging Non Volatile Memory - Based Hardware Accelerator for 5G Wireless Applications
+
+**People: Ali Hashemi, John Cioffi, Subhasish Mitra, Priyanka Raina**
+
+**We are for students interested in working on this project. Please send Priyanka an email if you are interested.**
 
 ## Previous Projects
 ### Tensorloop: A Systematic Approach to DNN Accelerator Evaluation (Nvidia)
@@ -306,8 +294,4 @@ This chip is a low-power vision processor for processing such 3D image data. The
 
 More details about Priyanka's PhD work are on [Priyanka's MIT webpage](http://web.mit.edu/~praina/www/index.html).
 
-* * *
 
-## Previous Students
-### PhD Rotation Students
-* Raman Vilkhu (vilkhu AT stanford DOT edu), Autumn 2018
