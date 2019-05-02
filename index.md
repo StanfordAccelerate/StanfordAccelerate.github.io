@@ -124,6 +124,9 @@ More information about the project can be found on the [project webpage](https:/
 #### 3. SoC 
 In addition to the new CGRA, our next chip will have the first version of our SoC with a control processor and a flexible interconnect. We are invesitigating both ARM and RISC-V based designs.
 
+#### Publications
+* R. Bahr, C. Barrett, N. Bhagdikar, A. Carsello, N. Chizgi, R. G. Daly, C. Donovick, D. Durst, K. Fatahalian, P. Hanrahan, T. Hofstee, M. Horowitz, D. Huff, T. Kong, Q. Liu, M. Mann, A. Nayak, A. Niemetz, G. Nyengele, P. Raina, S. Richardson, R. Setaluri, J. Setter, D. Stanley, M. Strange, J. Thomas, L. Truong, X. Yang, K. Zhang, "Creating An Agile Hardware Flow", to be presented at HotChips 2019.
+
 * * *
 
 ### In-Memory Compute Architecture for One-Shot Learning Applications
@@ -216,6 +219,16 @@ We propose the development and clinical evaluation of a fully-automated computer
 **We are for students interested in working on this project. Please send Priyanka an email if you are interested.**
 
 ## Previous Projects
+
+### A Scalable Multi-Chip-Module-based Deep Neural Network Accelerator Designed with a High-Productivity VLSI Methodology (Nvidia)
+**People: Brucek Khailany, Rangharajan Venkatesan†, Yakun Sophia Shao, Brian Zimmer, Jason Clemons, Matthew Fojtik, Nan Jiang, Ben Keller, Alicia Klinefelter, Nathaniel Pinckney, Priyanka Raina, Stephen G. Tell, Yanqing Zhang, William J. Dally, Joel S. Emer†, C. Thomas Gray, Stephen W. Keckler**
+
+In this work, a scalable deep neural network (DNN) inference accelerator consisting of 36 small chips connected in a mesh network on a multi-chip-module (MCM) was designed. The accelerator enables flexible scaling for efficient inference on a wide range of DNNs, from mobile to data center domains. The chip was implemented using a novel high-productivity VLSI methodology, fully designed in C++ using High-Level Synthesis (HLS) tools and leveraged an agile VLSI design flow. The 6 mm2 chip was implemented in 16nm technology and achieves 1.29 TOPS/mm2, 0.11 pJ/op energy effi- ciency, 4 TOPS peak performance on 1 chip, and 128 peak TOPS and 2,615 images/s ResNet-50 inference in a 36-chip MCM.
+
+#### Publications
+
+
+
 ### Tensorloop: A Systematic Approach to DNN Accelerator Evaluation (Nvidia)
 
 **People: Angshuman Parashar, Priyanka Raina, Sophia Shao, Rangharajan Venkatesan, Yu-Hsin Chen, Brucek Khailany, Stephen W. Keckler, Joel Emer**
