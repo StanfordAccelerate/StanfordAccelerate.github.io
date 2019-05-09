@@ -77,12 +77,12 @@ Stanford accelerate group works in three areas:
 
 ### Jung-Soo Ko
 
-
+<img src="./img/jungsoo.jpg" width="250" height="250">
 
 | Email        | jsko9327 AT stanford DOT edu |
 |:-------------|:----------------------|
 | About        | Jung-Soo Ko is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. He received a B.S. degree in Electrical and Electronic Engineering from Yonsei University, Korea in 2018 and graduated with high honors.|
-| Research     | My current research involves using resistive RAM(RRAM) in DNN accelerators to find energy-efficient architecture model. Emerging non-volatile memory technology have advantages over volatile memories in energy and area efficiency. I am interested in using RRAM in neural network accelerator chips to investigate benefits of replacing volatile memories with NVM. |
+| Research     | My current research involves leveraging embedded non-volatile memories such as resistive RAM (RRAM) to create energy- and area-efficient DNN accelerator architectures. |
 
 ### Masters Students
 
@@ -95,6 +95,19 @@ Stanford accelerate group works in three areas:
 | Webpage       | <https://linkedin.com/in/kprabhu7/> |
 | About         | Kartik Prabhu is an EE M.S. student at Stanford University. Previously, he was a software engineering intern at Cisco. He received a B.S. degree in Computer Engineering from Georgia Institute of Technology in 2018. |
 | Research      | My current research involves creating generators for DNN accelerators. The generator is written using high-level synthesis (HLS) to enable for the creation of a DNN accelerator given a set of parameters, and can generate many of the architectures that have been proposed. |
+
+### Undergraduate Students
+
+### Makena Low
+
+![Kartik](img/makena.png)
+
+| Email         | makenal AT stanford DOT edu |
+|:--------------|:-----------------------------|
+| Webpage       | |
+| About         | Makena Low is an EE undergraduate student at Stanford University. |
+| Research      | My research is developing machine learning algorithms for dermatological image segmentation and area determination for diseases such as vitiligo and melanoma. |
+
 
 # Research
 ## Current Projects
