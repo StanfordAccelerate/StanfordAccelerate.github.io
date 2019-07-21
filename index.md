@@ -75,14 +75,7 @@ Stanford accelerate group works in three areas:
 | About        | Kathleen Feng is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. She received a B.S.E. degree in Electrical Engineering from Princeton University in 2018, with certificates in Applications of Computing and Robotics and Intelligent Systems. She is a recipient of the NDSEG Fellowship.|
 | Research     | My current research focuses on accelerating deep image processing pipelines (ISPs) on reconfigurable hardware. Deep ISPs combine low-level image processing techniques with high-level image classification, allowing for a more robust process. More generally, I am interested in designing and developing new computer architectures for computer graphics, vision, and related applications.|
 
-### Jung-Soo Ko
-
-<img src="./img/jungsoo.jpg" width="250" height="250">
-
-| Email        | jsko9327 AT stanford DOT edu |
-|:-------------|:----------------------|
-| About        | Jung-Soo Ko is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. He received a B.S. degree in Electrical and Electronic Engineering from Yonsei University, Korea in 2018 and graduated with high honors.|
-| Research     | My current research involves leveraging embedded non-volatile memories such as resistive RAM (RRAM) to create energy- and area-efficient DNN accelerator architectures. |
+### Rohan Doshi
 
 ### Masters Students
 
