@@ -101,6 +101,13 @@ Stanford accelerate group works in three areas:
 | About         | Makena Low is an EE undergraduate student at Stanford University. |
 | Research      | My research is developing machine learning algorithms for dermatological image segmentation and area determination for diseases such as vitiligo and melanoma. |
 
+### Charles Tsao
+
+### Zheng Liang
+
+### High-School Students
+
+### Akhilesh Balasingam
 
 # Research
 ## Current Projects
