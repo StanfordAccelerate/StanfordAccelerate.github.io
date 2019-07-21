@@ -163,6 +163,14 @@ With the increasing complexity in feature space from multi-media data, hardware 
 
 * * *
 
+### Chimera: Compute (Immersed) In Memory with Embedded Resistive Arrays
+
+**People: Massimo Giordano, Rohan Doshi, Kartik Prabhu, Paul Chettupuzha Jolly, Robert M. Radway, Luke Upton, Binh Q. Le, Daniel Bankman, Subhasish Mitra, Boris Murmann, Priyanka Raina**
+
+The scale of deep neural networks (DNNs) trained on increasingly large datasets has rapidly outpaced the amount of memory that can be densely integrated on the same die as compute in conventional CMOS technology. This has created an energy and performance bottleneck at the interface with off-chip DRAM. With a theoretically 12F2 1T1R cell, multi-level capability, and the promise of monolithic 3D integration, resistive RAM (RRAM) offers a new, orthogonal path to significant strides in energy-efficiency and performance of DNN hardware. Driven bottom-up by this emerging technology, we propose a set of DNN hardware architectures which leverage the density of RRAM in both the near-memory, digital and in-memory, mixed-signal computing contexts.
+
+* * *
+
 ### Hybrid RRAM/NEMS-Based 3D Interconnect Design for Programmable Logic Devices
 
 **People: Akash Levy, Priyanka Raina**
@@ -177,12 +185,6 @@ Field-programmable gate arrays (FPGAs) are programmable logic devices (PLDs) tha
 Another topic of interest in semiconductor design today is "normally off, instantly on" device operation, which is critical for devices with weak, unreliable, or intermittent power sources. Energy-harvesting devices, wearables, and low-power nodes in the Internet of Things (IoT) will need to be able to operate in this mode to prevent unnecessary power dissipation between periods of action. Today, FPGAs need to load their configuration from off-chip memory into SRAM on startup. This has motivated the development of integrated non-volatile memory (NVM) that can replace (or work well in conjunction with) on-chip SRAMs to enable intermittent computing.
 
 In this project, we propose the use of two emerging nanotechnologies in PLD design for bridging the gap between PLDs and ASICs: resistive random access memory (RRAM) and nanoelectromechanical (NEM) relays. We describe a hybrid RRAM-NEM-based design for implementing PLDs with both "normally off, instantly on" device operation and low-overhead reconfigurable routing components. We exploit the properties of RRAM and NEM relays in a synergistic fashion to develop a novel NV-SRAM-based router that has all of its read circuitry implemented in back-end-of-line (BEOL), with RRAM cells directly controlling gate voltage of hysteretic NEM relays that behave as routers. We compare the design of a CGRA developed using the techniques described here versus designs that use (1) NEM relays only, (2) RRAM only, and (3) standard CMOS technologies (baseline).
-
-* * *
-
-### Distributed NVM-Based Digital and Analog Neural Network Accelerators
-
-**People: Jung-Soo Ko, Daniel Bankman, Robert M. Radway, Jonas Messner, Kartik Prabhu, Binh Q. Le, Priyanka Raina, Subhasish Mitra, Boris Murmann**
 
 * * *
 
