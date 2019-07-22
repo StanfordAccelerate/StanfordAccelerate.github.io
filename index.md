@@ -107,7 +107,7 @@ Stanford accelerate group works in three areas:
 
 | Email         | chtsao AT stanford DOT edu |
 |:--------------|:-----------------------------|
-| Webpage       | https://www.linkedin.com/in/chtsao/ |
+| Webpage       | <https://www.linkedin.com/in/chtsao/> |
 | About         | Charles Tsao is an EE undergraduate student at Stanford University. |
 | Research      | My current research is focused on building a pipeline from common neural network frameworks to Halide,thus  allowing end-to-end functionality on the CGRA. This pipeline utilizes Onnx, an open source format for AI models (ex. PyTorch->Onnx->Halide). |
 
