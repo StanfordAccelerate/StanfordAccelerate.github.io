@@ -196,16 +196,6 @@ In this project, we propose the use of two emerging nanotechnologies in PLD desi
 
 * * *
 
-### RRAM-Based In-Memory Computing Accelerator for Restricted Boltzmann Machines (RBMs)
-
-**People: Weier Wan, Gert Cauwenberghs (UCSD), Huaqiang Wu (Tsinghua University), H.-S. Philip Wong**
-
-![RBM](img/rbm.png)
-
-The project aims at realizing a fully integrated neuromorphic hardware with RRAM crossbar synapses array monolithically integrated with 130nm CMOS circuits to perform on-chip RBM inference and training. The entire chip consists of in total 48 cores, 3 million RRAM synapses and 12 thousand neurons. The architecture design aims at achieving maximum configurability and testability in an area-efficient and routable fashion. The goal is made possible by the neuron-synapse interconnect topology design. In contrast to previous neuromorphic hardware, where neurons are usually located at the side of synaptic array, in our design neurons and synapses are co-located in a distributed fashion, which is more similar to biological neural systems. Within one neural-synaptic core that consists of 256 neurons and 65K RRAM synapses, each neuron is connected with 1 row and 1 column of the synaptic crossbar and uses the same wire for receiving and firing spikes. The connection can be selectively turned on or off during different operations. Such topology not only allows the neuronal spikes to be sent in both crossbar row-to-column and column-to-row directions, which enables back-and-forth Gibbs sampling during the contrastive divergence training of RBM, but also enables recurrent connections. The combination of different operating modes enable a variety of models besides RBM, such as Multi-Layer Perceptron (MLP) and Recurrent Neural Network (RNN). Due to the close integration and excellent connectivity between neurons and synapse and the efficient analog computation of RRAM synapses, simulation shows that the design is able to achieve <1pJ per synaptic event energy efficiency. The chip is currently under testing.
-
-* * *
-
 ### HLS-Based Framework for Generating Deep Neural Network Accelerators
 
 **People: Kartik Prabhu, Xuan Yang, Mark Horowitz, Priyanka Raina**
