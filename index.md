@@ -93,7 +93,7 @@ Stanford accelerate group works in three areas:
 
 ### Michael Oduoza
 
-![Michael](img/Michael.png)
+![Michael](img/Michael.jpg)
 
 | Email         | mcoduoza AT stanford DOT edu |
 |:--------------|:-----------------------------|
