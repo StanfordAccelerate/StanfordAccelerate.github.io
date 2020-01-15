@@ -91,6 +91,16 @@ Stanford accelerate group works in three areas:
 
 ### Undergraduate Students
 
+### Michael Oduoza
+
+![Michael](img/Michael.jpg)
+
+| Email         | mcoduoza AT stanford DOT edu |
+|:--------------|:-----------------------------|
+| Webpage       |<https://linkedin.com/in/michael-oduoza/>|
+| About         | Michael Oduoza is an EE co-term student at Stanford University. |
+| Research      | My current research is in the 3D integration of resistive random access memory (RRAM) and nanoelectromechanical (NEM) relays to create a hybrid CGRA design. This hybrid design has promise for reducing the reconfigurability overhead in programmable logic devices. |
+
 ### Makena Low
 
 ![Kartik](img/makena.png)
@@ -181,7 +191,7 @@ The scale of deep neural networks (DNNs) trained on increasingly large datasets 
 
 ### Hybrid RRAM/NEMS-Based 3D Interconnect Design for Programmable Logic Devices
 
-**People: Akash Levy, Priyanka Raina**
+**People: Akash Levy, Michael Oduoza, Priyanka Raina**
 
 <p align="center">
   <img src="/img/hybrid_layout.png" height="300" />
