@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Priyanka Raina"
+title                    : "Stanford Accelerate"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Priyanka Raina"
-description              : "Priyanka Raina's personal website."
+name                     : "Stanford Accelerate"
+description              : "Priyanka Raina's research group website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Priyanka Raina"
+  name             : "Stanford Accelerate"
   avatar           : "/assets/images/priyanka.jpg"
-  bio              : "Assistant Professor, Electrical Engineering, Stanford University"
-  location         : Allen Building - Room 114
+  bio              : "Electrical Engineering, Stanford University"
+  location         : Allen Building
   email            : praina@stanford.edu
   links:
     - label: "Email"
