@@ -78,9 +78,10 @@ Stanford accelerate group works in three areas:
 | About        | Kathleen Feng is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. She received a B.S.E. degree in Electrical Engineering from Princeton University in 2018, with certificates in Applications of Computing and Robotics and Intelligent Systems. She is a recipient of the NDSEG Fellowship.|
 | Research     | My current research focuses on accelerating deep image processing pipelines (ISPs) on reconfigurable hardware. Deep ISPs combine low-level image processing techniques with high-level image classification, allowing for a more robust process. More generally, I am interested in designing and developing new computer architectures for computer graphics, vision, and related applications.|
 
-### PhD Rotation Students
+- Jackson Melchert
+- Kalhan Koul
 
-### Rohan Doshi
+
 
 ### Masters Students
 
@@ -126,7 +127,11 @@ Stanford accelerate group works in three areas:
 | About         | Charles Tsao is an EE undergraduate student at Stanford University. |
 | Research      | My current research is focused on building a pipeline from common neural network frameworks to Halide,thus  allowing end-to-end functionality on the CGRA. This pipeline utilizes Onnx, an open source format for AI models (ex. PyTorch->Onnx->Halide). |
 
-### Zheng Liang
+### Isabela David Rodrigues
+
+### Hongjie Wang
+
+### Denisse Ventura
 
 ### High-School Students
 
