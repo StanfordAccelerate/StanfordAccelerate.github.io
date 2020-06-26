@@ -11,16 +11,6 @@ docs:
         url: /previous-projects/
       - title: "Publications"
         url: /publications/
-      - title: "Presentations"
-        url: /presentations/
-        
-  - title: Teaching
-    url: /teaching/
-    children:
-      - title: "EE 271"
-        url: /ee271/
-      - title: "EE 272"
-        url: /ee272/
 
   - title: Students
     url: /current-students/
@@ -29,9 +19,3 @@ docs:
         url: /current-students/
       - title: "Previous Students"
         url: /previous-students/
-        
-  - title: "Awards"
-    url: /awards/
-    
-  - title: "Service"
-    url: /service/
