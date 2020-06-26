@@ -1,7 +1,11 @@
 docs:
   - title: About
     url: /
-    
+    children:
+      - title: "Current Students"
+        url: /
+      - title: "Previous Students"
+        url: /previous-students/
   - title: Research
     url: /current-projects/
     children:
@@ -11,11 +15,3 @@ docs:
         url: /previous-projects/
       - title: "Publications"
         url: /publications/
-
-  - title: Students
-    url: /current-students/
-    children:
-      - title: "Current Students"
-        url: /current-students/
-      - title: "Previous Students"
-        url: /previous-students/
