@@ -3,7 +3,7 @@ classes: wide
 permalink: /
 ---
 
-![Group Photo from Mar 1, 2019](img/group_photo_mar_1_2019_small.jpg)
+![Group Photo from Mar 1, 2019](/assets/images/group_photo_mar_1_2019_small.jpg)
 Group photo from March 1, 2019. From left to right: Kartik Prabhu, Fei Huang, Akash Levy, Priyanka Raina, Haitong Li and Weier Wan.
 # Research Summary
 
@@ -17,7 +17,7 @@ Stanford accelerate group works in three areas:
 
 ### Priyanka Raina 
 
-![Priyanka](img/priyanka.jpg)
+![Priyanka](/assets/images/priyanka.jpg)
 
 | Email          | praina AT stanford DOT edu |
 |:---------------|:------------------|
@@ -29,7 +29,7 @@ Stanford accelerate group works in three areas:
 
 ### Julie Kline
 
-![Julie](img/julie.jpg)
+![Julie](/assets/images/julie.jpg)
 
 | Email        | klinej AT stanford DOT edu |
 |:-------------|:------------------|
@@ -41,7 +41,7 @@ Stanford accelerate group works in three areas:
 
 ### Haitong Li
 
-![Haitong](img/haitong.jpg)
+![Haitong](/assets/images/haitong.jpg)
 
 | Email        | haitongl AT stanford DOT edu |
 |:-------------|:----------------------|
@@ -51,7 +51,7 @@ Stanford accelerate group works in three areas:
 
 ### Weier Wan
 
-![Weier](img/weier.jpeg)
+![Weier](/assets/images/weier.jpeg)
 
 | Email        | weierwan AT stanford DOT edu |
 |:-------------|:----------------------|
@@ -61,7 +61,7 @@ Stanford accelerate group works in three areas:
 
 ### Akash Levy 
 
-![Akash](img/akash.jpg)
+![Akash](/assets/images/akash.jpg)
 
 | Email        | akashl AT stanford DOT edu |
 |:-------------|:----------------------|
@@ -71,23 +71,22 @@ Stanford accelerate group works in three areas:
 
 ### Kathleen Feng
 
-<img src="./img/kathleen.jpg" width="250" height="250">
+<img src="/assets/images/kathleen.jpg" width="250" height="250">
 
 | Email        | kzf AT stanford DOT edu |
 |:-------------|:----------------------|
 | About        | Kathleen Feng is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. She received a B.S.E. degree in Electrical Engineering from Princeton University in 2018, with certificates in Applications of Computing and Robotics and Intelligent Systems. She is a recipient of the NDSEG Fellowship.|
 | Research     | My current research focuses on accelerating deep image processing pipelines (ISPs) on reconfigurable hardware. Deep ISPs combine low-level image processing techniques with high-level image classification, allowing for a more robust process. More generally, I am interested in designing and developing new computer architectures for computer graphics, vision, and related applications.|
 
-- Jackson Melchert
-- Kalhan Koul
+### Jackson Melchert
 
-
+### Kalhan Koul
 
 ### Masters Students
 
 ### Kartik Prabhu
 
-![Kartik](img/kartik.jpg)
+![Kartik](/assets/images/kartik.jpg)
 
 | Email         | kprabhu7 AT stanford DOT edu |
 |:--------------|:-----------------------------|
@@ -99,7 +98,7 @@ Stanford accelerate group works in three areas:
 
 ### Michael Oduoza
 
-![Michael](img/Michael.jpg)
+![Michael](/assets/images/Michael.jpg)
 
 | Email         | mcoduoza AT stanford DOT edu |
 |:--------------|:-----------------------------|
@@ -109,7 +108,7 @@ Stanford accelerate group works in three areas:
 
 ### Makena Low
 
-![Kartik](img/makena.png)
+![Kartik](/assets/images/makena.png)
 
 | Email         | makenal AT stanford DOT edu |
 |:--------------|:-----------------------------|
@@ -119,7 +118,7 @@ Stanford accelerate group works in three areas:
 
 ### Charles Tsao
 
-![Charles](img/charles.png)
+![Charles](/assets/images/charles.png)
 
 | Email         | chtsao AT stanford DOT edu |
 |:--------------|:-----------------------------|
