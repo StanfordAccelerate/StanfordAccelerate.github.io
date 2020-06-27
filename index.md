@@ -16,7 +16,10 @@ Stanford accelerate group works in three areas:
 ## Faculty
 
 ### Priyanka Raina 
-![Priyanka](/assets/images/priyanka.jpg){: .width-fifteen-percent}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/priyanka.jpg){: .align-left} Priyanka Raina
+
+Email: praina AT stanford DOT edu
+Contact: Allen Building - Room 114, (857) 209-8205
 
 | Email          | praina AT stanford DOT edu |
 |:---------------|:------------------|
