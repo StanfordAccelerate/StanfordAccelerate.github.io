@@ -16,7 +16,7 @@ Stanford accelerate group works in three areas:
 ## Faculty
 
 ### Priyanka Raina 
-![Priyanka](/assets/images/priyanka.jpg){: .align-right .width-fifteen-percent}
+![Priyanka](/assets/images/priyanka.jpg){: .width-fifteen-percent}
 
 | Email          | praina AT stanford DOT edu |
 |:---------------|:------------------|
