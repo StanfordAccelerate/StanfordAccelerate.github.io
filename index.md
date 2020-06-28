@@ -70,6 +70,10 @@ Stanford accelerate group works in three areas:
 ### Jackson Melchert
 
 ### Kalhan Koul
+**Email:** kkoul AT stanford DOT edu
+**Webpage:** <https://www.linkedin.com/in/kalhan-koul-290b2487>
+**About:** Kalhan Koul is an EE Ph.D. student at Stanford University supervised by Prof. Priyanka Raina. Previously, he was a Digital Design Intern at Micron and Silicon Labs. He received a B.S. in Electrical Engineering Honors and a B.A. in Plan II Honors (Liberal Arts) from The University of Texas in 2018. 
+**Research:** My current research focuses on automatically mapping applications, ranging from machine learning to image processing, onto reconfigurable logic devices (CGRAs). Previously, I helped design and tape-out a DNN accelerator utilizing resistive memory (RRAM) for low-energy inference and training. This chip exploited the low read cost and non-volatility of RRAM to store the weights of a DNN model, providing a low energy solution for edge and IoT devices. Broadly speaking, I am interested in improving the hardware design flow and developing highly performant and flexible hardware. 
 
 ## Masters Students
 
