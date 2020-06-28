@@ -102,6 +102,8 @@ Stanford accelerate group works in three areas:
 **About:** I am an EE undergraduate student at Stanford University.  
 **Research:** My research is developing machine learning algorithms for dermatological image segmentation and area determination for diseases such as vitiligo and melanoma.
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ***
 
