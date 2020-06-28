@@ -104,6 +104,7 @@ Stanford accelerate group works in three areas:
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ***
 
@@ -113,6 +114,7 @@ Stanford accelerate group works in three areas:
 **Webpage:** <https://www.linkedin.com/in/chtsao/>  
 **About:** I am an EE undergraduate student at Stanford University.  
 **Research:** My current research is focused on building a pipeline from common neural network frameworks to Halide, to allow running end-to-end applications on the AHa! CGRA. This pipeline utilizes onnx, an open source format for AI models (ex. PyTorch->Onnx->Halide).  
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 ***
