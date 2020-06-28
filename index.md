@@ -116,6 +116,6 @@ Stanford accelerate group works in three areas:
 
 ### Denisse Ventura
 
-### High-School Students
+## High-School Students
 
 ### Akhilesh Balasingam
