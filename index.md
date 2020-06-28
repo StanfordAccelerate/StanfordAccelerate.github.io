@@ -88,7 +88,9 @@ Stanford accelerate group works in three areas:
 **Webpage:** <https://linkedin.com/in/michael-oduoza/>  
 **About:** I am an EE co-term student at Stanford University.  
 **Research:** My current research is in the 3D integration of resistive random access memory (RRAM) and nanoelectromechanical (NEM) relays to create a hybrid CGRA design. This hybrid design has promise for reducing the reconfigurability overhead in programmable logic devices.
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 ***
 
 ### Makena Low
