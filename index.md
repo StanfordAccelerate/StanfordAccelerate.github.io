@@ -93,6 +93,7 @@ Stanford accelerate group works in three areas:
 **About:** I am an EE co-term student at Stanford University.  
 **Research:** My current research is in the 3D integration of resistive random access memory (RRAM) and nanoelectromechanical (NEM) relays to create a hybrid CGRA design. This hybrid design has promise for reducing the reconfigurability overhead in programmable logic devices.
 <p>&nbsp;</p>
+
 ***
 
 ### Makena Low
@@ -100,6 +101,7 @@ Stanford accelerate group works in three areas:
 **Email:** mcoduoza AT stanford DOT edu     
 **About:** I am an EE undergraduate student at Stanford University.  
 **Research:** My research is developing machine learning algorithms for dermatological image segmentation and area determination for diseases such as vitiligo and melanoma.
+<p>&nbsp;</p>
 
 ***
 
@@ -109,6 +111,7 @@ Stanford accelerate group works in three areas:
 **Webpage:** <https://www.linkedin.com/in/chtsao/>  
 **About:** I am an EE undergraduate student at Stanford University.  
 **Research:** My current research is focused on building a pipeline from common neural network frameworks to Halide, to allow running end-to-end applications on the AHa! CGRA. This pipeline utilizes onnx, an open source format for AI models (ex. PyTorch->Onnx->Halide).  
+<p>&nbsp;</p>
 
 ***
 
