@@ -16,7 +16,7 @@ Stanford accelerate group works in three areas:
 ## Faculty
 
 ### Priyanka Raina 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/priyanka.jpg){: .align-left} ### Priyanka Raina  
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/priyanka.jpg){: .align-left} 
 **Email:** praina AT stanford DOT edu  
 **Contact:** Allen Building - Room 114, (857) 209-8205  
 **About:** Priyanka Raina is an Assistant Professor in Electrical Engineering at Stanford University. Previously, she was a Visiting Research Scientist in the Architecture Research Group at NVIDIA Corporation. She received her Ph.D. degree in 2018 and S.M. degree in 2013 in EECS from MIT and her B.Tech. degree in EE from IIT Delhi in 2011.  
@@ -25,26 +25,21 @@ Stanford accelerate group works in three areas:
 ## Administrator
 
 ### Julie Kline
-
-![Julie](/assets/images/julie.jpg)
-
-| Email        | klinej AT stanford DOT edu |
-|:-------------|:------------------|
-| Contact      | Packard Building - Room 359, (650) 723-4539 |
-| About        | Julie Kline is a Faculty Administrator at Stanford, and she supports several Electrical Engineering professors and their research teams. She holds a master’s degree in English from San Jose State University, and prior to her work at Stanford, she spent several years teaching academic writing and rhetoric at De Anza College in Cupertino. Julie is an active member at Coastal Repertory Theatre in Half Moon Bay, where in addition to acting, directing, and producing, she serves on several committees and the Board of Directors. |             
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/julie.jpg){: .align-left} 
+**Email:** klinej AT stanford DOT edu  
+**Contact:** Packard Building - Room 359, (650) 723-4539  
+**About:** Julie Kline is a Faculty Administrator at Stanford, and she supports several Electrical Engineering professors and their research teams. She holds a master’s degree in English from San Jose State University, and prior to her work at Stanford, she spent several years teaching academic writing and rhetoric at De Anza College in Cupertino. Julie is an active member at Coastal Repertory Theatre in Half Moon Bay, where in addition to acting, directing, and producing, she serves on several committees and the Board of Directors.  
 
 ## Students
 ### PhD Students
 
 ### Haitong Li
-
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/haitong.jpg){: .align-left} 
+**Email:** haitongl AT stanford DOT edu  
+**Webpage:** <https://web.stanford.edu/~haitongl>  
+**About:** Haitong Li is an EE Ph.D. candidate at Stanford University, supervised by Prof. H.-S. Philip Wong and co-advised by Prof. Priyanka Raina. Previously, he was a Research Intern in the Device, Circuit and System (DCS) Group at Arm. He received M.S. in Electrical Engineering from Stanford University in 2017, and B.S. in Microelectronics from Peking University, China, in 2015. He is a recipient of 2016 IEEE EDS Masters Student Fellowship.  
+**Research:** My research is focused on in-memory computing enabled by emerging non-volatile memory technologies. The application space ranges from deep learning inference (DAC'19) to hyper-dimensional computing (IEDM'16, ISSCC'18) for cognitive applications, while leveraging the unique physical characteristics of emerging devices (e.g., stochasticity, 3D vertical connectivity). I also collaborate closely with Prof. Subhasish Mitra (Stanford) and Prof. Jan Rabaey (UC Berkeley). For more details, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=0zX2pcwAAAAJ&hl=en).  
 ![Haitong](/assets/images/haitong.jpg)
-
-| Email        | haitongl AT stanford DOT edu |
-|:-------------|:----------------------|
-| Webpage      | <https://web.stanford.edu/~haitongl> |
-| About        | Haitong Li is an EE Ph.D. candidate at Stanford University, supervised by Prof. H.-S. Philip Wong and co-advised by Prof. Priyanka Raina. Previously, he was a Research Intern in the Device, Circuit and System (DCS) Group at Arm. He received M.S. in Electrical Engineering from Stanford University in 2017, and B.S. in Microelectronics from Peking University, China, in 2015. He is a recipient of 2016 IEEE EDS Masters Student Fellowship. |
-| Research     | My research is focused on in-memory computing enabled by emerging non-volatile memory technologies. The application space ranges from deep learning inference (DAC'19) to hyper-dimensional computing (IEDM'16, ISSCC'18) for cognitive applications, while leveraging the unique physical characteristics of emerging devices (e.g., stochasticity, 3D vertical connectivity). I also collaborate closely with Prof. Subhasish Mitra (Stanford) and Prof. Jan Rabaey (UC Berkeley). For more details, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=0zX2pcwAAAAJ&hl=en). |
 
 ### Weier Wan
 
