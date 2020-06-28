@@ -20,7 +20,7 @@ Stanford accelerate group works in three areas:
 **Email:** praina AT stanford DOT edu  
 **Contact:** Allen Building - Room 114, (857) 209-8205  
 **About:** Priyanka Raina is an Assistant Professor in Electrical Engineering at Stanford University. Previously, she was a Visiting Research Scientist in the Architecture Research Group at NVIDIA Corporation. She received her Ph.D. degree in 2018 and S.M. degree in 2013 in EECS from MIT and her B.Tech. degree in EE from IIT Delhi in 2011.  
-**Teaching:** Priyanka teaches [EE271: Introduction to VLSI Systems](http://web.stanford.edu/class/ee271/) in the Fall and EE272: Design Projects in VLSI Systems in the Winter.  
+**Teaching:** Priyanka teaches [EE271: Introduction to VLSI Systems](http://web.stanford.edu/class/ee271/) in the Fall and EE272: Design Projects in VLSI Systems in the Winter.    
 
 ## Administrator
 
@@ -57,7 +57,7 @@ Stanford accelerate group works in three areas:
 ![image-left]({{ site.url }}{{ site.baseurl }}<img src="/assets/images/kathleen.jpg" width="250" height="250">){: .align-left} 
 **Email:** kzf AT stanford DOT edu  
 **About:** Kathleen Feng is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. She received a B.S.E. degree in Electrical Engineering from Princeton University in 2018, with certificates in Applications of Computing and Robotics and Intelligent Systems. She is a recipient of the NDSEG Fellowship.     
-**Research:** My current research focuses on accelerating deep image processing pipelines (ISPs) on reconfigurable hardware. Deep ISPs combine low-level image processing techniques with high-level image classification, allowing for a more robust process. More generally, I am interested in designing and developing new computer architectures for computer graphics, vision, and related applications..  
+**Research:** My current research focuses on accelerating deep image processing pipelines (ISPs) on reconfigurable hardware. Deep ISPs combine low-level image processing techniques with high-level image classification, allowing for a more robust process. More generally, I am interested in designing and developing new computer architectures for computer graphics, vision, and related applications.  
 
 ### Jackson Melchert
 
@@ -75,34 +75,24 @@ Stanford accelerate group works in three areas:
 ## Undergraduate Students
 
 ### Michael Oduoza
-
-![Michael](/assets/images/Michael.jpg)
-
-| Email         | mcoduoza AT stanford DOT edu |
-|:--------------|:-----------------------------|
-| Webpage       |<https://linkedin.com/in/michael-oduoza/>|
-| About         | Michael Oduoza is an EE co-term student at Stanford University. |
-| Research      | My current research is in the 3D integration of resistive random access memory (RRAM) and nanoelectromechanical (NEM) relays to create a hybrid CGRA design. This hybrid design has promise for reducing the reconfigurability overhead in programmable logic devices. |
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Michael.jpg){: .align-left} 
+**Email:** mcoduoza AT stanford DOT edu     
+**Webpage:** <https://linkedin.com/in/michael-oduoza/>  
+**About:** I am an EE co-term student at Stanford University.  
+**Research:** My current research is in the 3D integration of resistive random access memory (RRAM) and nanoelectromechanical (NEM) relays to create a hybrid CGRA design. This hybrid design has promise for reducing the reconfigurability overhead in programmable logic devices.
 
 ### Makena Low
-
-![Kartik](/assets/images/makena.png)
-
-| Email         | makenal AT stanford DOT edu |
-|:--------------|:-----------------------------|
-| Webpage       | |
-| About         | Makena Low is an EE undergraduate student at Stanford University. |
-| Research      | My research is developing machine learning algorithms for dermatological image segmentation and area determination for diseases such as vitiligo and melanoma. |
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/makena.png){: .align-left} 
+**Email:** mcoduoza AT stanford DOT edu     
+**About:** I am an EE undergraduate student at Stanford University.  
+**Research:** My research is developing machine learning algorithms for dermatological image segmentation and area determination for diseases such as vitiligo and melanoma.
 
 ### Charles Tsao
-
-![Charles](/assets/images/charles.png)
-
-| Email         | chtsao AT stanford DOT edu |
-|:--------------|:-----------------------------|
-| Webpage       | <https://www.linkedin.com/in/chtsao/> |
-| About         | Charles Tsao is an EE undergraduate student at Stanford University. |
-| Research      | My current research is focused on building a pipeline from common neural network frameworks to Halide,thus  allowing end-to-end functionality on the CGRA. This pipeline utilizes Onnx, an open source format for AI models (ex. PyTorch->Onnx->Halide). |
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/charles.png){: .align-left} 
+**Email:** chtsao AT stanford DOT edu     
+**Webpage:** <https://www.linkedin.com/in/chtsao/>  
+**About:** I am an EE undergraduate student at Stanford University.  
+**Research:** My current research is focused on building a pipeline from common neural network frameworks to Halide, to allow running end-to-end applications on the AHa! CGRA. This pipeline utilizes onnx, an open source format for AI models (ex. PyTorch->Onnx->Halide).  
 
 ### Isabela David Rodrigues
 
