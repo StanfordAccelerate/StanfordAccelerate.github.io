@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 locale                   : "en-US"
 title                    : "Stanford Accelerate"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Priyanka Raina's research group."
 name                     : "Stanford Accelerate"
 description              : "Priyanka Raina's research group website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
