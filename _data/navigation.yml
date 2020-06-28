@@ -6,6 +6,8 @@ docs:
         url: /
       - title: "Previous Students"
         url: /previous-students/
+      - title: "Group Photos"
+        url: /group-photos/
   - title: Research
     url: /current-projects/
     children:
