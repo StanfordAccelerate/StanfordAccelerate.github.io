@@ -39,12 +39,16 @@ Stanford accelerate group works in three areas:
 **About:** Haitong Li is an EE Ph.D. candidate at Stanford University, supervised by Prof. H.-S. Philip Wong and co-advised by Prof. Priyanka Raina. Previously, he was a Research Intern in the Device, Circuit and System (DCS) Group at Arm. He received M.S. in Electrical Engineering from Stanford University in 2017, and B.S. in Microelectronics from Peking University, China, in 2015. He is a recipient of 2016 IEEE EDS Masters Student Fellowship.  
 **Research:** My research is focused on in-memory computing enabled by emerging non-volatile memory technologies. The application space ranges from deep learning inference (DAC'19) to hyper-dimensional computing (IEDM'16, ISSCC'18) for cognitive applications, while leveraging the unique physical characteristics of emerging devices (e.g., stochasticity, 3D vertical connectivity). I also collaborate closely with Prof. Subhasish Mitra (Stanford) and Prof. Jan Rabaey (UC Berkeley). For more details, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=0zX2pcwAAAAJ&hl=en).  
 
+##
+
 ### Weier Wan
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/weier.jpeg){: .align-left} 
 **Email:** weierwan AT stanford DOT edu  
 **Webpage:** <https://www.linkedin.com/in/weier-wan/>  
 **About:** Weier Wan is an EE Ph.D. candidate at Stanford University, supervised by Prof. H.-S. Philip Wong and co-advised by Prof. Priyanka Raina. Previously, he was a Research Intern at Google X. He received M.S. in Electrical Engineering from Stanford University in 2017, and B.S. in Electrical Enginnering and Computer Science and B.A. in Physics from UC Berkeley, in 2015.  
 **Research:** My research focuses on using resistive memory (RRAM) based analog in-memory computing to enable energy and area-efficient machine learning. Recently I designed and taped-out (and currently testing) a fully-integrated mixed-signal chip with RRAM synapses monolithically integrated with CMOS neurons. The chip implements inference and training for Restricted Boltzmann Machine, a type of probablistic graphical model, as well as inference for MLPs and RNNs. The project is a collaborative effort with Prof. Gert Cauwenberghs (UCSD) and Prof. Huaqiang Wu (Tsinghua University). I also studied novel techniques for quantizing deep neural networks (<https://github.com/google-research/google-research/tree/master/cnn_quantization>).  
+
+##
 
 ### Akash Levy 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/akash.jpg){: .align-left} 
@@ -53,11 +57,15 @@ Stanford accelerate group works in three areas:
 **About:** Akash Levy is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. Previously, he was a Research Intern at Amazon Lab126 and Amazon Web Services. He received a B.S.E. degree in Electrical Engineering from Princeton University in 2018, with certificates in Applications of Computing and Engineering Physics. He is a recipient of the 2018 NSF Graduate Research Fellowship.  
 **Research:** My current research is focused on improving the efficiency of reconfigurable logic devices (such as FPGAs and CGRAs) through the use of 3D integration with emerging nanotechnologies. In particular, I am developing a hybrid design that makes use of both resistive random access memory (RRAM) and nanoelectromechanical (NEM) relays to implement reconfigurable switching in the back-end-of-line for reduced reconfigurability overhead. My ultimate goal is to enable reconfigurable logic devices to become more competitive with ASICs in terms of power, area, and performance. My pre-PhD research involved a broad range of subjects, ranging from physics to computer security. For more details, please refer to my [Academia.edu portfolio](https://stanford.academia.edu/AkashLevy) and my [Google Scholar profile](https://scholar.google.com/citations?user=A0Auh6EAAAAJ&hl=en).  
 
+##
+
 ### Kathleen Feng
 ![image-left]({{ site.url }}{{ site.baseurl }}<img src="/assets/images/kathleen.jpg" width="250" height="250">){: .align-left} 
 **Email:** kzf AT stanford DOT edu  
 **About:** Kathleen Feng is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. She received a B.S.E. degree in Electrical Engineering from Princeton University in 2018, with certificates in Applications of Computing and Robotics and Intelligent Systems. She is a recipient of the NDSEG Fellowship.     
 **Research:** My current research focuses on accelerating deep image processing pipelines (ISPs) on reconfigurable hardware. Deep ISPs combine low-level image processing techniques with high-level image classification, allowing for a more robust process. More generally, I am interested in designing and developing new computer architectures for computer graphics, vision, and related applications.  
+
+##
 
 ### Jackson Melchert
 
@@ -72,6 +80,8 @@ Stanford accelerate group works in three areas:
 **About:** Kartik Prabhu is an EE M.S. student at Stanford University. Previously, he was a software engineering intern at Cisco. He received a B.S. degree in Computer Engineering from Georgia Institute of Technology in 2018.  
 **Research:** My current research involves creating generators for DNN accelerators. The generator is written using high-level synthesis (HLS) to enable for the creation of a DNN accelerator given a set of parameters, and can generate many of the architectures that have been proposed.  
 
+##
+
 ## Undergraduate Students
 
 ### Michael Oduoza
@@ -81,8 +91,7 @@ Stanford accelerate group works in three areas:
 **About:** I am an EE co-term student at Stanford University.  
 **Research:** My current research is in the 3D integration of resistive random access memory (RRAM) and nanoelectromechanical (NEM) relays to create a hybrid CGRA design. This hybrid design has promise for reducing the reconfigurability overhead in programmable logic devices.
 
-
-
+##
 
 ### Makena Low
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/makena.png){: .align-left} 
@@ -90,8 +99,7 @@ Stanford accelerate group works in three areas:
 **About:** I am an EE undergraduate student at Stanford University.  
 **Research:** My research is developing machine learning algorithms for dermatological image segmentation and area determination for diseases such as vitiligo and melanoma.
 
-
-
+##
 
 ### Charles Tsao
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/charles.png){: .align-left} 
@@ -99,6 +107,8 @@ Stanford accelerate group works in three areas:
 **Webpage:** <https://www.linkedin.com/in/chtsao/>  
 **About:** I am an EE undergraduate student at Stanford University.  
 **Research:** My current research is focused on building a pipeline from common neural network frameworks to Halide, to allow running end-to-end applications on the AHa! CGRA. This pipeline utilizes onnx, an open source format for AI models (ex. PyTorch->Onnx->Halide).  
+
+##
 
 ### Isabela David Rodrigues
 
