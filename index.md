@@ -85,7 +85,7 @@ Stanford accelerate group works on creating high performance and energy-efficien
 ## Undergraduate Students
 
 ### Michael Oduoza
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/michael.jpg){: .align-left} 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Michael.jpg){: .align-left} 
 **Email:** mcoduoza AT stanford DOT edu     
 **Webpage:** <https://linkedin.com/in/michael-oduoza/>  
 **About:** I am an EE co-term student at Stanford University.  
