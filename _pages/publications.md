@@ -82,7 +82,7 @@ R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan
 
 **Reconfigurable Processor for Energy-Scalable Computational Photography**  
 R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan  
-*International Solid-State Circuits Conference (ISSCC)*, February 2013. [Paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6487683)
+*International Solid-State Circuits Conference (ISSCC)*, February 2013. [Paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6487683), [Demo](http://player.vimeo.com/video/70417371)
 
 ## Patents
 
