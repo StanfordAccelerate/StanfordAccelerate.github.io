@@ -33,6 +33,16 @@ B. Zimmer, R. Venkatesan, Y. S. Shao, J. Clemons, M. Fojtik, N. Jiang, B. Keller
 
 * * *
 
+### Automating Vitiligo Skin Lesion Segmentation Using Convolutional Neural Networks
+
+The measurement of several skin conditions' progression and severity relies on the accurate segmentation (border detection) of lesioned skin images. One such condition is vitiligo. Existing methods for vitiligo image segmentation require manual intervention, which is time and labor-intensive, as well as irreproducible between physicians. We introduce a convolutional neural network (CNN) that quickly and robustly performs such segmentations without manual intervention. We use the U-Net with a modified contracting path to generate an initial segmentation of the lesion. Then, we run the segmentation through the watershed algorithm using high-confidence pixels as “seeds.” We train the network on 247 images with a variety of lesion sizes, complexities, and anatomical sites. Our network noticeably outperforms the state-of-the-art U-Net - scoring a Jaccard Index (JI) of 73.6% (compared to 36.7%). Segmentation occurs in a few seconds, which is a substantial improvement from the previously proposed semiautonomous watershed approach (2–29 minutes per image).
+
+**Publications:**
+
+**Automating Vitiligo Skin Lesion Segmentation Using Convolutional Neural Networks**  
+
+* * *
+
 ### Timeloop: A Systematic Approach to DNN Accelerator Evaluation
 
 Timeloop is an infrastructure for evaluating and exploring the architecture design space of deep neural network (DNN) accelerators. Timeloop uses a concise and unified representation of the key architecture and implementation attributes of DNN accelerators to describe a broad space of hardware topologies. It can then emulate those topologies to generate an accurate projection of performance and energy efficiency for a DNN workload through a mapper that finds the best way to schedule operations and stage data on the specified architecture. This enables fair comparisons across different architectures and makes DNN accelerator design more systematic. 
