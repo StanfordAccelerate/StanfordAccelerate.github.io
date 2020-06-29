@@ -3,8 +3,9 @@ classes: wide
 permalink: /
 ---
 
-![Group Photo from June 26, 2020](/assets/images/group_photo_jun_29_2020.png)
-Group photo from June 26, 2020. From left to right, top to bottom: Kartik Prabhu, Fei Huang, Akash Levy, Priyanka Raina, Haitong Li and Weier Wan.
+![Group Photo from June 26, 2020](/assets/images/group_photo_jun_26_2020.png)
+Group photo from June 26, 2020. From left to right, top to bottom: Julie Kline, Priyanka Raina, Kartik Prabhu, Kathleen Feng, Kalhan Koul, Michael Oduoza, Haitong Li, Hongjie Wang, Isabela David Rodrigues, Charles Tsao, Denisse Ventura, Jackson Melchert, Akash Levy and Weier Wan.
+
 # Research Summary
 
 Stanford accelerate group works on creating high performance and energy-efficient architectures and design methodology for domain-specific hardware accelerators in existing and emerging technologies.
