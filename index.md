@@ -57,7 +57,7 @@ Stanford accelerate group works on creating high performance and energy-efficien
 ***
 
 ### Kathleen Feng
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/kathleen.jpg>){: .align-left} 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/kathleen.jpg){: .align-left} 
 **Email:** kzf AT stanford DOT edu  
 **About:** Kathleen Feng is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. She received a B.S.E. degree in Electrical Engineering from Princeton University in 2018, with certificates in Applications of Computing and Robotics and Intelligent Systems. She is a recipient of the NDSEG Fellowship.     
 **Research:** My current research focuses on accelerating deep image processing pipelines (ISPs) on reconfigurable hardware. Deep ISPs combine low-level image processing techniques with high-level image classification, allowing for a more robust process. More generally, I am interested in designing and developing new computer architectures for computer graphics, vision, and related applications.  
@@ -67,7 +67,7 @@ Stanford accelerate group works on creating high performance and energy-efficien
 ### Jackson Melchert
 
 ### Kalhan Koul  
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/kalhan.jpg){: .align-left}   
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/kalhan.jpg){: .align-left} 
 **Email:** kkoul AT stanford DOT edu  
 **Webpage:** <https://www.linkedin.com/in/kalhan-koul-290b2487>  
 **About:** Kalhan Koul is an EE Ph.D. student at Stanford University supervised by Prof. Priyanka Raina. Previously, he was a Digital Design Intern at Micron and Silicon Labs. He received a B.S. in Electrical Engineering Honors and a B.A. in Plan II Honors (Liberal Arts) from The University of Texas in 2018.  
