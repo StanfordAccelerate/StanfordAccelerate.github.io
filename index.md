@@ -93,8 +93,6 @@ Stanford accelerate group works on creating high performance and energy-efficien
 **Research:** My current research is in the 3D integration of resistive random access memory (RRAM) and nanoelectromechanical (NEM) relays to create a hybrid CGRA design. This hybrid design has promise for reducing the reconfigurability overhead in programmable logic devices.
 <p>&nbsp;</p>
 
-***
-
 ### Charles Tsao
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/charles.png){: .align-left} 
 **Email:** chtsao AT stanford DOT edu     
@@ -103,8 +101,6 @@ Stanford accelerate group works on creating high performance and energy-efficien
 **Research:** My current research is focused on building a pipeline from common neural network frameworks to Halide, to allow running end-to-end applications on the AHa! CGRA. This pipeline utilizes onnx, an open source format for AI models (ex. PyTorch->Onnx->Halide).  
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
-***
 
 ### Isabela David Rodrigues
 
