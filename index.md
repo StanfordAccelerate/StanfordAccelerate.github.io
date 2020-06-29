@@ -95,17 +95,6 @@ Stanford accelerate group works on creating high performance and energy-efficien
 
 ***
 
-### Makena Low
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/makena.png){: .align-left} 
-**Email:** mcoduoza AT stanford DOT edu     
-**About:** I am an EE undergraduate student at Stanford University.  
-**Research:** My research is developing machine learning algorithms for dermatological image segmentation and area determination for diseases such as vitiligo and melanoma.
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-***
-
 ### Charles Tsao
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/charles.png){: .align-left} 
 **Email:** chtsao AT stanford DOT edu     
