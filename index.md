@@ -39,7 +39,7 @@ Stanford accelerate group works on creating high performance and energy-efficien
 ***
 
 ### Weier Wan
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/weier.jpeg){: .align-left} 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/weier.jpg){: .align-left} 
 **Email:** weierwan AT stanford DOT edu  
 **Webpage:** <https://www.linkedin.com/in/weier-wan/>  
 **About:** Weier Wan is an EE Ph.D. candidate at Stanford University, supervised by Prof. H.-S. Philip Wong and co-advised by Prof. Priyanka Raina. Previously, he was a Research Intern at Google X. He received M.S. in Electrical Engineering from Stanford University in 2017, and B.S. in Electrical Enginnering and Computer Science and B.A. in Physics from UC Berkeley, in 2015.  
@@ -84,7 +84,7 @@ Stanford accelerate group works on creating high performance and energy-efficien
 ## Undergraduate Students
 
 ### Michael Oduoza
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Michael.jpg){: .align-left} 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/michael.jpg){: .align-left} 
 **Email:** mcoduoza AT stanford DOT edu     
 **Webpage:** <https://linkedin.com/in/michael-oduoza/>  
 **About:** I am an EE co-term student at Stanford University.  
