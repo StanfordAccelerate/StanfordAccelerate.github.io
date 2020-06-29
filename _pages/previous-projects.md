@@ -40,6 +40,8 @@ The measurement of several skin conditions' progression and severity relies on t
 **Publications:**
 
 **Automating Vitiligo Skin Lesion Segmentation Using Convolutional Neural Networks**  
+M. Low, V. Huang, P. Raina  
+*IEEE International Symposium on Biomedical Imaging (ISBI)*, April 2020. [Paper](https://ieeexplore.ieee.org/abstract/document/9098682)
 
 * * *
 
