@@ -26,7 +26,7 @@ X. Yang, M. Gao, Q. Liu, J. Pu, A. Nayak, J. Setter, S. Bell, K. Cao, H. Ha, P. 
 
 **A Framework for Adding Low-Overhead, Fine-Grained Power Domains to CGRAs**  
 A. Nayak, K. Zhang, R. Setaluri, A. Carsello, M. Mann, S. Richardson, R. Bahr, P. Hanrahan, M. Horowitz, P. Raina  
-*Design, Automation and Test in Europe Conference (DATE)*, March 2020. **([Best Paper Award Nominee](https://www.date-conference.com))**
+*Design, Automation and Test in Europe Conference (DATE)*, March 2020. [Paper](https://ieeexplore.ieee.org/document/9116477/authors#authors) **([Best Paper Award Nominee](https://www.date-conference.com))**
 
 **A 74TMACS/W CMOS-ReRAM Neurosynaptic Core with Dynamically Reconfigurable Dataflow and In-Situ Transposable Weights for Probabilistic Graphical Models**  
 W. Wan, R. Kubendran, S. B. Eryilmaz, W. Zhang, Y. Liao, D. Wu, S. Deiss, B. Gao, P. Raina, S. Joshi, H. Wu, G. Cauwenberghs, H.-S.P. Wong  
