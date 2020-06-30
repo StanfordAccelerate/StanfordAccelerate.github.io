@@ -19,6 +19,7 @@ Stanford accelerate group works on creating high performance and energy-efficien
 **Contact:** Allen Building - Room 114, (857) 209-8205  
 **About:** Priyanka Raina is an Assistant Professor in Electrical Engineering at Stanford University. Previously, she was a Visiting Research Scientist in the Architecture Research Group at NVIDIA Corporation. She received her Ph.D. degree in 2018 and S.M. degree in 2013 in EECS from MIT and her B.Tech. degree in EE from IIT Delhi in 2011.  
 **Teaching:** Priyanka teaches [EE271: Introduction to VLSI Systems](http://web.stanford.edu/class/ee271/) in the Fall and EE272: Design Projects in VLSI Systems in the Winter.    
+<p>&nbsp;</p>
 
 ## Administrator
 
@@ -37,16 +38,12 @@ Stanford accelerate group works on creating high performance and energy-efficien
 **About:** Haitong Li is an EE Ph.D. candidate at Stanford University, supervised by Prof. H.-S. Philip Wong and co-advised by Prof. Priyanka Raina. Previously, he was a Research Intern in the Device, Circuit and System (DCS) Group at Arm. He received M.S. in Electrical Engineering from Stanford University in 2017, and B.S. in Microelectronics from Peking University, China, in 2015. He is a recipient of 2016 IEEE EDS Masters Student Fellowship.  
 **Research:** My research is focused on in-memory computing enabled by emerging non-volatile memory technologies. The application space ranges from deep learning inference (DAC'19) to hyper-dimensional computing (IEDM'16, ISSCC'18) for cognitive applications, while leveraging the unique physical characteristics of emerging devices (e.g., stochasticity, 3D vertical connectivity). I also collaborate closely with Prof. Subhasish Mitra (Stanford) and Prof. Jan Rabaey (UC Berkeley). For more details, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=0zX2pcwAAAAJ&hl=en).  
 
-***
-
 ### Weier Wan
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/weier.jpg){: .align-left} 
 **Email:** weierwan AT stanford DOT edu  
 **Webpage:** <https://www.linkedin.com/in/weier-wan/>  
 **About:** Weier Wan is an EE Ph.D. candidate at Stanford University, supervised by Prof. H.-S. Philip Wong and co-advised by Prof. Priyanka Raina. Previously, he was a Research Intern at Google X. He received M.S. in Electrical Engineering from Stanford University in 2017, and B.S. in Electrical Enginnering and Computer Science and B.A. in Physics from UC Berkeley, in 2015.  
 **Research:** My research focuses on using resistive memory (RRAM) based analog in-memory computing to enable energy and area-efficient machine learning. Recently I designed and taped-out (and currently testing) a fully-integrated mixed-signal chip with RRAM synapses monolithically integrated with CMOS neurons. The chip implements inference and training for Restricted Boltzmann Machine, a type of probablistic graphical model, as well as inference for MLPs and RNNs. The project is a collaborative effort with Prof. Gert Cauwenberghs (UCSD) and Prof. Huaqiang Wu (Tsinghua University). I also studied novel techniques for quantizing deep neural networks (<https://github.com/google-research/google-research/tree/master/cnn_quantization>).  
-
-***
 
 ### Akash Levy 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/akash.jpg){: .align-left} 
@@ -55,15 +52,11 @@ Stanford accelerate group works on creating high performance and energy-efficien
 **About:** Akash Levy is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. Previously, he was a Research Intern at Amazon Lab126 and Amazon Web Services. He received a B.S.E. degree in Electrical Engineering from Princeton University in 2018, with certificates in Applications of Computing and Engineering Physics. He is a recipient of the 2018 NSF Graduate Research Fellowship.  
 **Research:** My current research is focused on improving the efficiency of reconfigurable logic devices (such as FPGAs and CGRAs) through the use of 3D integration with emerging nanotechnologies. In particular, I am developing a hybrid design that makes use of both resistive random access memory (RRAM) and nanoelectromechanical (NEM) relays to implement reconfigurable switching in the back-end-of-line for reduced reconfigurability overhead. My ultimate goal is to enable reconfigurable logic devices to become more competitive with ASICs in terms of power, area, and performance. My pre-PhD research involved a broad range of subjects, ranging from physics to computer security. For more details, please refer to my [Academia.edu portfolio](https://stanford.academia.edu/AkashLevy) and my [Google Scholar profile](https://scholar.google.com/citations?user=A0Auh6EAAAAJ&hl=en).  
 
-***
-
 ### Kathleen Feng
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/kathleen.jpg){: .align-left} 
 **Email:** kzf AT stanford DOT edu  
 **About:** Kathleen Feng is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. She received a B.S.E. degree in Electrical Engineering from Princeton University in 2018, with certificates in Applications of Computing and Robotics and Intelligent Systems. She is a recipient of the NDSEG Fellowship.     
 **Research:** My current research focuses on accelerating deep image processing pipelines (ISPs) on reconfigurable hardware. Deep ISPs combine low-level image processing techniques with high-level image classification, allowing for a more robust process. More generally, I am interested in designing and developing new computer architectures for computer graphics, vision, and related applications.  
-
-***
 
 ### Jackson Melchert
 
