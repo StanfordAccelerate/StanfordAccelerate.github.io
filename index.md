@@ -100,7 +100,6 @@ Stanford accelerate group works on creating high performance and energy-efficien
 **About:** I am an EE undergraduate student at Stanford University.  
 **Research:** My current research is focused on building a pipeline from common neural network frameworks to Halide, to allow running end-to-end applications on the AHa! CGRA. This pipeline utilizes onnx, an open source format for AI models (ex. PyTorch->Onnx->Halide).  
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 ### Denisse Ventura
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/denisse.png){: .align-left} 
@@ -108,6 +107,7 @@ Stanford accelerate group works on creating high performance and energy-efficien
 **Webpage:** <https://www.linkedin.com/in/deventura/>  
 **About:** I am a CS + Math undergraduate student from the University of Florida. I am participating in the Stanford Engineering SURF 2020 Program.  
 **Research:** My current research focuses on one-shot learning and memory-augmented neural networks (MANNs). More specifically, I am investigating how to effectively map feature vectors of the neural networks onto RRAM-based associative memory.  
+<p>&nbsp;</p>
 
 ### Isabela David Rodrigues
 
