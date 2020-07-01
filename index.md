@@ -102,11 +102,17 @@ Stanford accelerate group works on creating high performance and energy-efficien
 **Research:** My current research focuses on one-shot learning and memory-augmented neural networks (MANNs). More specifically, I am investigating how to effectively map feature vectors of the neural networks onto RRAM-based associative memory.  
 <p>&nbsp;</p>
 
-### Isabela David Rodrigues
-
 ### Hongjie Wang
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/hongjie.png){: .align-left} 
+**Email:** hongjiew AT stanford DOT edu  
+**Webpage:** <https://www.linkedin.com/in/hongjie-wang-3b17a1182/>  
+**About:** I am a Physics undergraduate student from Peking University. I am participating in the Stanford Engineering UGVR 2020 Program.  
+**Research:** My current research focuses on the non-volatile memory (NVM) based neural network accelerator design, including the ReRAM-based in-memory computing architecture for one-shot learning applications and the MRAM-based neural network training acceleration with floating-point precision.  
+
+### Isabela David Rodrigues
 
 ## High-School Students
 
 ### Akhilesh Balasingam  
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/akhilesh.png){: .align-left}  
 **About:** I am a high school senior, gaining experience doing university-level research under the mentorship of Akash Levy. I am working on RRAM modeling, neuromorphic architectures, and nanoelectromechanical (NEM) relays. My hobbies include hiking, squash, and playing the mridangam.  
