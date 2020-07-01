@@ -108,4 +108,5 @@ Stanford accelerate group works on creating high performance and energy-efficien
 
 ## High-School Students
 
-### Akhilesh Balasingam
+### Akhilesh Balasingam  
+**About:** I am a high school senior, gaining experience doing university-level research under the mentorship of Akash Levy. I am working on RRAM modeling, neuromorphic architectures, and nanoelectromechanical (NEM) relays. My hobbies include hiking, squash, and playing the mridangam.  
