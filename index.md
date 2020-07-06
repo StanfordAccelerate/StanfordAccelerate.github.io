@@ -103,7 +103,7 @@ Stanford accelerate group works on creating high performance and energy-efficien
 <p>&nbsp;</p>
 
 ### Hongjie Wang
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/hongjie.png){: .align-left} 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/hongjie.jpg){: .align-left} 
 **Email:** hongjiew AT stanford DOT edu  
 **Webpage:** <https://www.linkedin.com/in/hongjie-wang-3b17a1182/>  
 **About:** I am a Physics undergraduate student from Peking University. I am participating in the Stanford Engineering UGVR 2020 Program.  
@@ -119,5 +119,5 @@ Stanford accelerate group works on creating high performance and energy-efficien
 ## High-School Students
 
 ### Akhilesh Balasingam  
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/akhilesh.png){: .align-left}  
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/akhilesh.jpg){: .align-left}  
 **About:** I am a high school senior, gaining experience doing university-level research under the mentorship of Akash Levy. I am working on RRAM modeling, neuromorphic architectures, and nanoelectromechanical (NEM) relays. My hobbies include hiking, squash, and playing the mridangam.  
