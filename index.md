@@ -108,6 +108,7 @@ Stanford accelerate group works on creating high performance and energy-efficien
 **Webpage:** <https://www.linkedin.com/in/hongjie-wang-3b17a1182/>  
 **About:** I am a Physics undergraduate student from Peking University. I am participating in the Stanford Engineering UGVR 2020 Program.  
 **Research:** My current research focuses on the non-volatile memory (NVM) based neural network accelerator design, including the ReRAM-based in-memory computing architecture for one-shot learning applications and the MRAM-based neural network training acceleration with floating-point precision.  
+<p>&nbsp;</p>  
 
 ### Isabela David Rodrigues
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/isabela.jpg){: .align-left}   
