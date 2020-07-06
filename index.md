@@ -110,6 +110,11 @@ Stanford accelerate group works on creating high performance and energy-efficien
 **Research:** My current research focuses on the non-volatile memory (NVM) based neural network accelerator design, including the ReRAM-based in-memory computing architecture for one-shot learning applications and the MRAM-based neural network training acceleration with floating-point precision.  
 
 ### Isabela David Rodrigues
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/isabela.png){: .align-left}   
+**Email:** isabdr AT stanford DOT edu  
+**Webpage:** <https://www.linkedin.com/in/isabdr/>  
+**About:** I am an international student from Brazil pursuing my B.S. degree in Electrical Engineering at Stanford University.  
+**Research:** FPGAs and CGRAs have fixed computation and memory resources, so large applications may not fit on them entirely. Moreover, compilation time also grows with the size of the application. My research focuses on creating a cost estimate function for application codes. With the cost estimate, we can optimally partition large applications on FPGAs and CGRAs to maximize their performance and reduce compilation time.  
 
 ## High-School Students
 
