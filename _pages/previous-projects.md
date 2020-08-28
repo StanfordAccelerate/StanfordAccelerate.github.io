@@ -61,9 +61,11 @@ A. Parashar, P. Raina, S. Shao, A. Mukkara, V. A. Ying, R. Venkatesan, Y. H. Che
 
 * * * 
 
-### An Energy-Efficient Accelerator for Real-Time Motion Magnification
+### A Low-Power Processor for Real-Time Motion Magnification in Videos
 
 ![](/assets/images/motion_chip.png){: .width-seventy-percent}
+
+Many phenomena around us exhibit small motions that are invisible to the naked eye. Recent research has shown that computational amplification can be used to reveal such motions. However, state of the art motion magnification algorithms are computationally intensive and achieve a throughput of only 0.23 frames/s while consuming 10.36μJ energy/pixel on mobile CPUs for FullHD video, which is 4 orders of magnitude higher than what is required for their energy-efficient mobile implementation. This work presents the first low-power processor to accelerate motion magnification that achieves real-time performance on FullHD video at 30 frames/s, while consuming only around 10nJ of energy/pixel. We achieve this using techniques such as compressing and caching of pipeline intermediates and active pixels detection with dynamic voltage and frequency scaling, enabling efficient integration of motion magnification technology into mobile devices.
 
 * * * 
 
