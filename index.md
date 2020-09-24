@@ -59,7 +59,7 @@ Stanford accelerate group works on creating high performance and energy-efficien
 **Research:** My current research focuses on accelerating deep image processing pipelines (ISPs) on reconfigurable hardware. Deep ISPs combine low-level image processing techniques with high-level image classification, allowing for a more robust process. More generally, I am interested in designing and developing new computer architectures for computer graphics, vision, and related applications.  
 
 ### Jackson Melchert
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/jack.jpg){: .align-left} 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/jack.jpg=250x250){: .align-left} 
 **Email:** melchert AT stanford DOT edu  
 **About:** Jackson Melchert is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. He received a B.S. in Electrical and Computer Engineering and Computer Science from the University of Wisconsin - Madison in 2019.  
 **Research:** My research is currently focused on how to generate an optimal coarse-grained reconfigurable array processing element architecture for a given application domain. I am developing tools to analyze the applications that are going to be run on the CGRA to identify interesting PE architectures to be evaluated. I am also developing a PE generator that takes a high level specification of a PE from the application analysis and produces the hardware description of the PE, along with functional and formal models used in the application mapping process. I am broadly interested in optimizing configurable hardware to approach the performance and efficiency of application specific accelerators.  
@@ -94,8 +94,8 @@ Stanford accelerate group works on creating high performance and energy-efficien
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/charles.png){: .align-left} 
 **Email:** chtsao AT stanford DOT edu     
 **Webpage:** <https://www.linkedin.com/in/chtsao/>  
-**About:** I am an EE undergraduate student at Stanford University.  
-**Research:** My current research is focused on building a pipeline from common neural network frameworks to Halide, to allow running end-to-end applications on the AHa! CGRA. This pipeline utilizes onnx, an open source format for AI models (ex. PyTorch->Onnx->Halide).  
+**About:** I am an EE co-term student at Stanford University.  
+**Research:** My current research focuses on the SoC side of the AHA Project. I'm currently focused on building architecture and software API to support end-to-end hardware reconfiguration and execution on various hardware targets at the press of a button. This software API, called the Reconfigurable Device Access Interface (RDAI) API, layers over hardware accelerator API to allow a Halide application to run end-to-end on a custom hardware accelerator (e.g. FPGA, CGRA).
 <p>&nbsp;</p>
 
 ### Denisse Ventura
