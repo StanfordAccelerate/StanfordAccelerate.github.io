@@ -118,8 +118,8 @@ Stanford accelerate group works in three areas:
 | Email         | chtsao AT stanford DOT edu |
 |:--------------|:-----------------------------|
 | Webpage       | <https://www.linkedin.com/in/chtsao/> |
-| About         | Charles Tsao is an EE undergraduate student at Stanford University. |
-| Research      | My current research is focused on building a pipeline from common neural network frameworks to Halide,thus  allowing end-to-end functionality on the CGRA. This pipeline utilizes Onnx, an open source format for AI models (ex. PyTorch->Onnx->Halide). |
+| About         | Charles Tsao is an EE co-term student at Stanford University. |
+| Research      | My current research focuses on the SoC side of the AHA Project. I'm currently focused on building architecture and software API to support end-to-end hardware reconfiguration and execution on various hardware targets at the press of a button. This software API, called the Reconfigurable Device Access Interface (RDAI) API, layers over hardware accelerator API to allow a Halide application to run end-to-end on a custom hardware accelerator (e.g. FPGA, CGRA). |
 
 ### Zheng Liang
 
