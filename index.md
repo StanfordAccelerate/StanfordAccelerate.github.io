@@ -59,7 +59,7 @@ Stanford accelerate group works on creating high performance and energy-efficien
 **Research:** My current research focuses on accelerating deep image processing pipelines (ISPs) on reconfigurable hardware. Deep ISPs combine low-level image processing techniques with high-level image classification, allowing for a more robust process. More generally, I am interested in designing and developing new computer architectures for computer graphics, vision, and related applications.  
 
 ### Jackson Melchert
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/jack.jpg=250x250){: .align-left} 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/jack.jpg){: .align-left height="250px" width="250px"}
 **Email:** melchert AT stanford DOT edu  
 **About:** Jackson Melchert is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. He received a B.S. in Electrical and Computer Engineering and Computer Science from the University of Wisconsin - Madison in 2019.  
 **Research:** My research is currently focused on how to generate an optimal coarse-grained reconfigurable array processing element architecture for a given application domain. I am developing tools to analyze the applications that are going to be run on the CGRA to identify interesting PE architectures to be evaluated. I am also developing a PE generator that takes a high level specification of a PE from the application analysis and produces the hardware description of the PE, along with functional and formal models used in the application mapping process. I am broadly interested in optimizing configurable hardware to approach the performance and efficiency of application specific accelerators.  
