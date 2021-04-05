@@ -11,6 +11,10 @@ To appear in *Symposium on VLSI Circuits (VLSIC)*, June 2021.
 H. Li, W.-C. Chen, A. Levy, C.-H. Wang, H. Wang, P. Chen, W. Wan, H.-S. P. Wong, P. Raina  
 To appear in *Symposium on VLSI Technology (VLSIT)*, June 2021.
 
+**Automated Codesign of Domain-Specific Hardware Accelerators and Compilers**  
+P. Raina, F. Kjolstad, M. Horowitz, P. Hanrahan, C. Barrett, K. Fatahalian  
+*ASCR Workshop on Reimagining Codesign*, March 2021. [Paper](https://custom.cvent.com/DCBD4ADAAD004096B1E4AD96F3C8049E/files/event/f64a4f28b4734808924cc8c3d9a2af63/d03b30a559d14c909dab4c8096d2f191.pdf) 
+
 **Monte Carlo Simulation of a Three-Terminal RRAM with Applications to Neuromorphic Computing**  
 A. Balasingam, A. Levy, H. Li, P. Raina  
 *International Conference on Simulation of Semiconductor Processes and Devices (SISPAD)*, September 2020. [Paper](https://ieeexplore.ieee.org/document/9241659)
