@@ -3,18 +3,29 @@ permalink: /publications/
 ---
 
 ## Publications
-  
+**CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2 MByte On-Chip Foundry Resistive RAM for Efficient Training and Inference**  
+M. Giordano, K. Prabhu, K. Koul, R. M. Radway, A. Gural, R. Doshi, Z. F. Khan, J. W. Kustin, T. Liu, G. B. Lopes, V. Turbiner, W.-S. Khwa, Y.-D. Chih, M.-F. Chang, G. Lallement, B. Murmann, S. Mitra, P. Raina  
+To appear in *Symposium on VLSI Circuits (VLSIC)*, June 2021.
+
+**One-Shot Learning with Memory-Augmented Neural Networks Using a 64-kbit, 118 GOPS/W RRAM-Based Non-Volatile Associative Memory**  
+H. Li, W.-C. Chen, A. Levy, C.-H. Wang, H. Wang, P. Chen, W. Wan, H.-S. P. Wong, P. Raina  
+To appear in *Symposium on VLSI Technology (VLSIT)*, June 2021.
+
+**Monte Carlo Simulation of a Three-Terminal RRAM with Applications to Neuromorphic Computing**  
+A. Balasingam, A. Levy, H. Li, P. Raina  
+*International Conference on Simulation of Semiconductor Processes and Devices (SISPAD)*, September 2020. [Paper](https://ieeexplore.ieee.org/document/9241659)
+
 **Creating an Agile Hardware Design Flow**  
 R. Bahr, C. Barrett, N. Bhagdikar, A. Carsello, R. Daly, C. Donovick, D. Durst, K. Fatahalian, K. Feng, P. Hanrahan, T. Hofstee, M. Horowitz, D. Huff, F. Kjolstad, T. Kong, Q. Liu, M. Mann, J. Melchert, A. Nayak, A. Niemetz, G. Nyengele, P. Raina, S. Richardson, R. Setaluri, J. Setter, K. Sreedhar, M. Strange, J. Thomas, C. Torng, L. Truong, N. Tsiskaridze, K. Zhang  
 *Design Automation Conference (DAC)*, July 2020. [Paper](https://stanford.box.com/s/lieh7jsdzhovw2e0j7amdre7sy8scp5j), [Video](https://stanford.box.com/s/6tv07vdy1s3ne2x6lrcj150m3fhubsaf), [Slides](https://stanford.box.com/s/crmvsvgtoser2oqvykex9t70g6ckpsdc)
 
 **A-QED Verification of Hardware Accelerators**  
-E. Singh, F. Lonsing, S. Chattopadhyay, M. Strange, P. Wei, X. Zhang, Y. Zhao, J. Cong, D. Chen, Z. Zhang, P. Raina, C. Barrett, S. Mitra  
-*Design Automation Conference (DAC)*, July 2020.
+E. Singh, F. Lonsing, S. Chattopadhyay, M. Strange, P. Wei, X. Zhang, Y. Zhao, D. Chen, J. Cong, P. Raina, Z. Zhang, C. Barrett, S. Mitra  
+*Design Automation Conference (DAC)*, July 2020. [Paper](https://ieeexplore.ieee.org/document/9218715)
 
 **A Voltage-Mode Sensing Scheme with Differential-Row Weight Mapping For Energy-Efficient RRAM-Based In-Memory Computing**  
 W. Wan, R. Kubendran, B. Gao, S. Joshi, P. Raina, H. Wu, G. Cauwenberghs, H.-S. P. Wong  
-*Symposium on VLSI Circuits (VLSIC)*, June 2020. [Video](https://stanford.box.com/s/n3pcrulsookozhpnxqwpkkbjhlaea1m3), [Slides](https://stanford.box.com/s/igmr2okv8ewdc4u4z1j92asb9fpozx56), [Demo](https://stanford.box.com/s/jgwhx5vszvxgijkh0xyen7q8dfmx7jue)
+*Symposium on VLSI Circuits (VLSIC)*, June 2020. [Paper](https://ieeexplore.ieee.org/document/9265066), [Video](https://stanford.box.com/s/n3pcrulsookozhpnxqwpkkbjhlaea1m3), [Slides](https://stanford.box.com/s/igmr2okv8ewdc4u4z1j92asb9fpozx56), [Demo](https://stanford.box.com/s/jgwhx5vszvxgijkh0xyen7q8dfmx7jue)
 
 **Automating Vitiligo Skin Lesion Segmentation Using Convolutional Neural Networks**  
 M. Low, V. Huang, P. Raina  
