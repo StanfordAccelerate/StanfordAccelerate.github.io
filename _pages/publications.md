@@ -9,11 +9,11 @@ J. Melchert, K. Feng, C. Donovick, R. Daly, C. Barrett, M. Horowitz, P. Hanrahan
 ## Publications
 **CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2 MByte On-Chip Foundry Resistive RAM for Efficient Training and Inference**  
 M. Giordano, K. Prabhu, K. Koul, R. M. Radway, A. Gural, R. Doshi, Z. F. Khan, J. W. Kustin, T. Liu, G. B. Lopes, V. Turbiner, W.-S. Khwa, Y.-D. Chih, M.-F. Chang, G. Lallement, B. Murmann, S. Mitra, P. Raina  
-To appear in *Symposium on VLSI Circuits (VLSIC)*, June 2021.
+To appear in *Symposium on VLSI Circuits (VLSI)*, June 2021.
 
 **One-Shot Learning with Memory-Augmented Neural Networks Using a 64-kbit, 118 GOPS/W RRAM-Based Non-Volatile Associative Memory**  
 H. Li, W.-C. Chen, A. Levy, C.-H. Wang, H. Wang, P. Chen, W. Wan, H.-S. P. Wong, P. Raina  
-To appear in *Symposium on VLSI Technology (VLSIT)*, June 2021.
+To appear in *Symposium on VLSI Technology (VLSI)*, June 2021.
 
 **Automated Codesign of Domain-Specific Hardware Accelerators and Compilers**  
 P. Raina, F. Kjolstad, M. Horowitz, P. Hanrahan, C. Barrett, K. Fatahalian  
@@ -33,7 +33,7 @@ E. Singh, F. Lonsing, S. Chattopadhyay, M. Strange, P. Wei, X. Zhang, Y. Zhao, D
 
 **A Voltage-Mode Sensing Scheme with Differential-Row Weight Mapping For Energy-Efficient RRAM-Based In-Memory Computing**  
 W. Wan, R. Kubendran, B. Gao, S. Joshi, P. Raina, H. Wu, G. Cauwenberghs, H.-S. P. Wong  
-*Symposium on VLSI Circuits (VLSIC)*, June 2020. [Paper](https://ieeexplore.ieee.org/document/9265066), [Video](https://stanford.box.com/s/n3pcrulsookozhpnxqwpkkbjhlaea1m3), [Slides](https://stanford.box.com/s/igmr2okv8ewdc4u4z1j92asb9fpozx56), [Demo](https://stanford.box.com/s/jgwhx5vszvxgijkh0xyen7q8dfmx7jue)
+*Symposium on Circuits (VLSI)*, June 2020. [Paper](https://ieeexplore.ieee.org/document/9265066), [Video](https://stanford.box.com/s/n3pcrulsookozhpnxqwpkkbjhlaea1m3), [Slides](https://stanford.box.com/s/igmr2okv8ewdc4u4z1j92asb9fpozx56), [Demo](https://stanford.box.com/s/jgwhx5vszvxgijkh0xyen7q8dfmx7jue)
 
 **Automating Vitiligo Skin Lesion Segmentation Using Convolutional Neural Networks**  
 M. Low, V. Huang, P. Raina  
