@@ -1,6 +1,10 @@
 ---
 permalink: /publications/
 ---
+## Preprints
+**Automated Design Space Exploration of CGRA Processing Element Architectures using Frequent Subgraph Analysis**  
+J. Melchert, K. Feng, C. Donovick, R. Daly, C. Barrett, M. Horowitz, P. Hanrahan, P. Raina  
+*arXiv*, April 2021. [Paper](https://arxiv.org/abs/2104.14155)
 
 ## Publications
 **CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2 MByte On-Chip Foundry Resistive RAM for Efficient Training and Inference**  
