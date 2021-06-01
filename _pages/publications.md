@@ -2,6 +2,10 @@
 permalink: /publications/
 ---
 ## Preprints
+**Compiling Halide Programs to Push-Memory Accelerators**  
+Q. Liu, D. Huff, J. Setter, M. Strange, K. Feng, K. Sreedhar, Z. Wang, K. Zhang, M. Horowitz, P. Raina, F. Kjolstad  
+*arXiv*, May 2021. [Paper](https://arxiv.org/abs/2105.12858)
+
 **Automated Design Space Exploration of CGRA Processing Element Architectures using Frequent Subgraph Analysis**  
 J. Melchert, K. Feng, C. Donovick, R. Daly, C. Barrett, M. Horowitz, P. Hanrahan, P. Raina  
 *arXiv*, April 2021. [Paper](https://arxiv.org/abs/2104.14155)
