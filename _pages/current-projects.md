@@ -1,8 +1,6 @@
 ---
-layout: page
-title: Page Title
-subtitle: Page Subtitle
-description: The pages meta description
+permalink: /current-projects/
+toc: true
 ---
 ## Current Projects
 
