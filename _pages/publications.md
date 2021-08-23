@@ -1,7 +1,11 @@
 ---
 permalink: /publications/
 ---
-## Preprints
+## Preprints   
+**Edge AI without Compromise: Efficient, Versatile and Accurate Neurocomputing in Resistive Random-Access Memory**   
+W. Wan, R. Kubendran, C. Schaefer, S. B. Eryilmaz, W. Zhang, D. Wu, S. Deiss, P. Raina, H. Qian, B. Gao, S. Joshi, H. Wu, H.-S. P. Wong, G. Cauwenberghs  
+*arXiv*, August 2021. [Paper](https://arxiv.org/abs/2108.07879)   
+
 **Compiling Halide Programs to Push-Memory Accelerators**  
 Q. Liu, D. Huff, J. Setter, M. Strange, K. Feng, K. Sreedhar, Z. Wang, K. Zhang, M. Horowitz, P. Raina, F. Kjolstad  
 *arXiv*, May 2021. [Paper](https://arxiv.org/abs/2105.12858)
