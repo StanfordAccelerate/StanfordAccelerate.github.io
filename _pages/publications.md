@@ -15,6 +15,10 @@ J. Melchert, K. Feng, C. Donovick, R. Daly, C. Barrett, M. Horowitz, P. Hanrahan
 *arXiv*, April 2021. [Paper](https://arxiv.org/abs/2104.14155)
 
 ## Publications
+**SAPIENS: A 64-Kbit RRAM-Based Non-Volatile Associative Memory for One-Shot Learning and Inference at the Edge**   
+H. Li, W.-C. Chen, A. Levy, C.-H. Wang, H. Wang, P. Chen, W. Wan, W.-S. Khwa, H. Chuang, Y.-D. Chih, M.-F. Chang, H.-S. P. Wong, P. Raina  
+To appear in *IEEE Transactions on Electron Devices (T-ED)*.   
+
 **RADAR: A Fast and Energy-Efficient Programming Technique for Multiple Bits-per-Cell RRAM Arrays**  
 B. Q. Le, A. Levy, T. F. Wu, R. M. Radway, E R. Hsieh, X. Zheng, M. Nelson, P. Raina, H.-S. P. Wong, S. Wong, S. Mitra  
 *IEEE Transactions on Electron Devices (T-ED)*, July 2021. [Paper](https://ieeexplore.ieee.org/document/9497347)  
