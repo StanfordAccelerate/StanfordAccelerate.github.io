@@ -15,6 +15,10 @@ J. Melchert, K. Feng, C. Donovick, R. Daly, C. Barrett, M. Horowitz, P. Hanrahan
 *arXiv*, April 2021. [Paper](https://arxiv.org/abs/2104.14155)
 
 ## Publications
+**Efficient Routing for Coarse-Grained Reconfigurable Arrays using Multi-Pole NEM Relays**  
+A. Levy, M. Oduoza, A. Balasingam, R. T. Howe, P. Raina  
+To appear in *IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)*, January 2022.    
+
 **SAPIENS: A 64-Kbit RRAM-Based Non-Volatile Associative Memory for One-Shot Learning and Inference at the Edge**   
 H. Li, W.-C. Chen, A. Levy, C.-H. Wang, H. Wang, P. Chen, W. Wan, W.-S. Khwa, H. Chuang, Y.-D. Chih, M.-F. Chang, H.-S. P. Wong, P. Raina  
 To appear in *IEEE Transactions on Electron Devices (T-ED)*.   
