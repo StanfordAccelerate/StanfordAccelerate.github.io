@@ -71,58 +71,9 @@ Stanford accelerate group works on creating high performance and energy-efficien
 **About:** Kalhan Koul is an EE Ph.D. student at Stanford University supervised by Prof. Priyanka Raina. Previously, he was a Digital Design Intern at Micron and Silicon Labs. He received a B.S. in Electrical Engineering Honors and a B.A. in Plan II Honors (Liberal Arts) from The University of Texas in 2018.  
 **Research:** My current research focuses on automatically mapping applications, ranging from machine learning to image processing, onto reconfigurable logic devices (CGRAs). Previously, I helped design and tape-out a DNN accelerator utilizing resistive memory (RRAM) for low-energy inference and training. This chip exploited the low read cost and non-volatility of RRAM to store the weights of a DNN model, providing a low energy solution for edge and IoT devices. Broadly speaking, I am interested in improving the hardware design flow and developing highly performant and flexible hardware.  
 
-## Masters Students
-
 ### Kartik Prabhu
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/kartik.jpg){: .align-left} 
 **Email:** kprabhu7 AT stanford DOT edu     
 **Webpage:** <https://linkedin.com/in/kprabhu7/>  
 **About:** Kartik Prabhu is an EE M.S. student at Stanford University. Previously, he was a software engineering intern at Cisco. He received a B.S. degree in Computer Engineering from Georgia Institute of Technology in 2018.  
 **Research:** My current research involves creating generators for DNN accelerators. The generator is written using high-level synthesis (HLS) to enable for the creation of a DNN accelerator given a set of parameters, and can generate many of the architectures that have been proposed.  
-
-## Undergraduate Students
-
-### Michael Oduoza
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/Michael.jpg){: .align-left} 
-**Email:** mcoduoza AT stanford DOT edu     
-**Webpage:** <https://linkedin.com/in/michael-oduoza/>  
-**About:** I am an EE co-term student at Stanford University.  
-**Research:** My current research is in the 3D integration of resistive random access memory (RRAM) and nanoelectromechanical (NEM) relays to create a hybrid CGRA design. This hybrid design has promise for reducing the reconfigurability overhead in programmable logic devices.
-<p>&nbsp;</p>
-
-### Charles Tsao
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/charles.png){: .align-left} 
-**Email:** chtsao AT stanford DOT edu     
-**Webpage:** <https://www.linkedin.com/in/chtsao/>  
-**About:** I am an EE co-term student at Stanford University.  
-**Research:** My current research focuses on the SoC side of the AHA Project. I'm currently focused on building architecture and software API to support end-to-end hardware reconfiguration and execution on various hardware targets at the press of a button. This software API, called the Reconfigurable Device Access Interface (RDAI) API, layers over hardware accelerator API to allow a Halide application to run end-to-end on a custom hardware accelerator (e.g. FPGA, CGRA).
-<p>&nbsp;</p>
-
-### Denisse Ventura
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/denisse.png){: .align-left} 
-**Email:** denissev AT stanford DOT edu     
-**Webpage:** <https://www.linkedin.com/in/deventura/>  
-**About:** I am a CS + Math undergraduate student from the University of Florida. I am participating in the Stanford Engineering SURF 2020 Program.  
-**Research:** My current research focuses on one-shot learning and memory-augmented neural networks (MANNs). More specifically, I am investigating how to effectively map feature vectors of the neural networks onto RRAM-based associative memory.  
-<p>&nbsp;</p>
-
-### Hongjie Wang
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/hongjie.jpg){: .align-left} 
-**Email:** hongjiew AT stanford DOT edu  
-**Webpage:** <https://www.linkedin.com/in/hongjie-wang-3b17a1182/>  
-**About:** I am a Physics undergraduate student from Peking University. I am participating in the Stanford Engineering UGVR 2020 Program.  
-**Research:** My current research focuses on the non-volatile memory (NVM) based neural network accelerator design, including the ReRAM-based in-memory computing architecture for one-shot learning applications and the MRAM-based neural network training acceleration with floating-point precision.  
-<p>&nbsp;</p>  
-
-### Isabela David Rodrigues
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/isabela.jpg){: .align-left}   
-**Email:** isabdr AT stanford DOT edu  
-**Webpage:** <https://www.linkedin.com/in/isabdr/>  
-**About:** I am an international student from Brazil pursuing my B.S. degree in Electrical Engineering at Stanford University.  
-**Research:** FPGAs and CGRAs have fixed computation and memory resources, so large applications may not fit on them entirely. Moreover, compilation time also grows with the size of the application. My research focuses on creating a cost estimate function for application codes. With the cost estimate, we can optimally partition large applications on FPGAs and CGRAs to maximize their performance and reduce compilation time.  
-
-## High-School Students
-
-### Akhilesh Balasingam  
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/akhilesh.jpg){: .align-left}  
-**About:** I am a high school senior, gaining experience doing university-level research under the mentorship of Akash Levy. I am working on RRAM modeling, neuromorphic architectures, and nanoelectromechanical (NEM) relays. My hobbies include hiking, squash, and playing the mridangam.  
