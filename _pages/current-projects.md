@@ -21,6 +21,10 @@ R. Bahr, C. Barrett, N. Bhagdikar, A. Carsello, R. Daly, C. Donovick, D. Durst, 
 P. Raina, F. Kjolstad, M. Horowitz, P. Hanrahan, C. Barrett, K. Fatahalian  
 *ASCR Workshop on Reimagining Codesign*, March 2021. [Paper](https://custom.cvent.com/DCBD4ADAAD004096B1E4AD96F3C8049E/files/event/f64a4f28b4734808924cc8c3d9a2af63/d03b30a559d14c909dab4c8096d2f191.pdf) 
 
+**Compiling Halide Programs to Push-Memory Accelerators**  
+Q. Liu, D. Huff, J. Setter, M. Strange, K. Feng, K. Sreedhar, Z. Wang, K. Zhang, M. Horowitz, P. Raina, F. Kjolstad  
+*arXiv*, May 2021. [Paper](https://arxiv.org/abs/2105.12858)  
+
 **A Framework for Adding Low-Overhead, Fine-Grained Power Domains to CGRAs**  
 A. Nayak, K. Zhang, R. Setaluri, A. Carsello, M. Mann, S. Richardson, R. Bahr, P. Hanrahan, M. Horowitz, P. Raina  
 *Design, Automation and Test in Europe Conference (DATE)*, March 2020. **([Best Paper Award Nominee](https://www.date-conference.com))** [Paper](https://ieeexplore.ieee.org/document/9116477/authors#authors)
@@ -59,6 +63,12 @@ X. Yang, M. Gao, Q. Liu, J. Pu, A. Nayak, J. Setter, S. Bell, K. Cao, H. Ha, P. 
 **Akash Levy, Michael Oduoza, Akhilesh Balasingam**  
 Programmable logic architectures such as FPGAs and CGRAs are extensively used in place of specialized ASICs to accelerate computationally-intensive algorithms. However, when compared with ASICs performing the same function, FPGAs typically have 10-40x lower logic density, 3-4x higher delay, and 5-12x higher dynamic power dissipation. Most of this overhead comes from the configurable interconnect. This work reduces this overhead by using RRAM-based configuration memory that actuates NEMS-based interconnect multiplexers, both of which can be integrated in 3D on top of silicon CMOS logic. This work also enables “normally off, instantly on” operation, which is critical for IoT devices with unreliable power sources. FPGAs need to load their configuration from off-chip memory on startup, which incurs a significant energy cost. This work leverages the non-volatility of RRAM to enable intermittent computing.
 
+**Publications:**
+
+**Efficient Routing for Coarse-Grained Reconfigurable Arrays using Multi-Pole NEM Relays**  
+A. Levy, M. Oduoza, A. Balasingam, R. T. Howe, P. Raina  
+To appear in *IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)*, January 2022.    
+
 * * *
 
 #### One-Shot Learning using RRAM-Based Associative Memory
@@ -69,7 +79,11 @@ Real-time learning from a few examples (one/few-shot learning) is a key challeng
 
 **One-Shot Learning with Memory-Augmented Neural Networks Using a 64-kbit, 118 GOPS/W RRAM-Based Non-Volatile Associative Memory**  
 H. Li, W.-C. Chen, A. Levy, C.-H. Wang, H. Wang, P. Chen, W. Wan, H.-S. P. Wong, P. Raina  
-*Symposium on VLSI Technology (VLSI)*, June 2021.
+*Symposium on VLSI Technology (VLSI)*, June 2021. [Paper](https://ieeexplore.ieee.org/abstract/document/9508761) 
+
+**SAPIENS: A 64-Kbit RRAM-Based Non-Volatile Associative Memory for One-Shot Learning and Inference at the Edge**   
+H. Li, W.-C. Chen, A. Levy, C.-H. Wang, H. Wang, P. Chen, W. Wan, W.-S. Khwa, H. Chuang, Y.-D. Chih, M.-F. Chang, H.-S. P. Wong, P. Raina  
+*IEEE Transactions on Electron Devices (T-ED)*, September 2021. [Paper](https://ieeexplore.ieee.org/document/9535369)  
 
 * * *
 
@@ -81,11 +95,12 @@ CHIMERA is the first non-volatile deep neural network (DNN) chip for edge AI tra
 
 **CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2 MByte On-Chip Foundry Resistive RAM for Efficient Training and Inference**  
 M. Giordano, K. Prabhu, K. Koul, R. M. Radway, A. Gural, R. Doshi, Z. F. Khan, J. W. Kustin, T. Liu, G. B. Lopes, V. Turbiner, W.-S. Khwa, Y.-D. Chih, M.-F. Chang, G. Lallement, B. Murmann, S. Mitra, P. Raina  
-*Symposium on VLSI Circuits (VLSI)*, June 2021.
+*Symposium on VLSI Circuits (VLSI)*, June 2021. [Paper](https://ieeexplore.ieee.org/abstract/document/9492347) 
 
 **In the News:**
 
 * New ‘AI-at-the-edge’ smartphone chip lives, and learns, close to home. ([Stanford Engineering](https://engineering.stanford.edu/magazine/article/new-ai-edge-smartphone-chip-lives-and-learns-close-home))
+
 * * *
 
 #### RRAM-Based In-Memory Computing Architecture for Probabilistic Graphical Models
@@ -102,3 +117,7 @@ W. Wan, R. Kubendran, B. Gao, S. Joshi, P. Raina, H. Wu, G. Cauwenberghs, H.-S. 
 **A 74TMACS/W CMOS-ReRAM Neurosynaptic Core with Dynamically Reconfigurable Dataflow and In-Situ Transposable Weights for Probabilistic Graphical Models**  
 W. Wan, R. Kubendran, S. B. Eryilmaz, W. Zhang, Y. Liao, D. Wu, S. Deiss, B. Gao, P. Raina, S. Joshi, H. Wu, G. Cauwenberghs, H.-S.P. Wong  
 *International Solid-State Circuits Conference (ISSCC)*, February 2020. [Paper](https://ieeexplore.ieee.org/document/9062979)
+
+**Edge AI without Compromise: Efficient, Versatile and Accurate Neurocomputing in Resistive Random-Access Memory**   
+W. Wan, R. Kubendran, C. Schaefer, S. B. Eryilmaz, W. Zhang, D. Wu, S. Deiss, P. Raina, H. Qian, B. Gao, S. Joshi, H. Wu, H.-S. P. Wong, G. Cauwenberghs  
+*arXiv*, August 2021. [Paper](https://arxiv.org/abs/2108.07879)  
