@@ -28,6 +28,7 @@ Stanford accelerate group works on creating high performance and energy-efficien
 **Email:** klinej AT stanford DOT edu  
 **Contact:** Packard Building - Room 359, (650) 723-4539  
 **About:** Julie Kline is a Faculty Administrator at Stanford, and she supports several Electrical Engineering professors and their research teams. She holds a master’s degree in English from San Jose State University, and prior to her work at Stanford, she spent several years teaching academic writing and rhetoric at De Anza College in Cupertino. Julie is an active member at Coastal Repertory Theatre in Half Moon Bay, where in addition to acting, directing, and producing, she serves on several committees and the Board of Directors.  
+<p>&nbsp;</p>
 
 ## PhD Students
 
@@ -77,3 +78,10 @@ Stanford accelerate group works on creating high performance and energy-efficien
 **Webpage:** <https://linkedin.com/in/kprabhu7/>  
 **About:** Kartik Prabhu is an EE M.S. student at Stanford University. Previously, he was a software engineering intern at Cisco. He received a B.S. degree in Computer Engineering from Georgia Institute of Technology in 2018.  
 **Research:** My current research involves creating generators for DNN accelerators. The generator is written using high-level synthesis (HLS) to enable for the creation of a DNN accelerator given a set of parameters, and can generate many of the architectures that have been proposed.  
+
+### Po-Han Chen
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/pohan.jpg){: .align-left} 
+**Email:** pohan AT stanford DOT edu     
+**Webpage:** <https://linkedin.com/in/po-han-chen/>  
+**About:** Po-Han Chen is an EE Ph.D. student at Stanford University supervised by Prof. Priyanka Raina. He received his B.S. in Electrical Engineering and Computer Science (EECS) and M.S. in Electrical Engineering from National Tsing Hua University (Taiwan) in 2016 and 2018 respectively. Before joining Stanford, he was a digital circuit designer at MediaTek where he worked on developing hardware architectures of image processing pipeline.   
+**Research:** I am generally interested in designing hardware accelerators. Most of my previous works were related to computational photography algorithms such as digital refocusing. Currently, my research focuses on analyzing and designing architecture of CGRAs to create high-performance, energy-efficient, and reconfigurable computing platforms.
