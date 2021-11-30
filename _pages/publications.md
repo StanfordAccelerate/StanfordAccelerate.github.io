@@ -2,6 +2,11 @@
 permalink: /publications/
 ---
 ## Preprints   
+
+**Enabling Reusable Physical Design Flows with Modular Flow Generators**  
+Alex Carsello, James Thomas, Ankita Nayak, Po-Han Chen, Mark Horowitz, Priyanka Raina, Christopher Torng  
+*arXiv*, November 2021. [Paper](https://arxiv.org/abs/2111.14535)
+
 **Edge AI without Compromise: Efficient, Versatile and Accurate Neurocomputing in Resistive Random-Access Memory**   
 W. Wan, R. Kubendran, C. Schaefer, S. B. Eryilmaz, W. Zhang, D. Wu, S. Deiss, P. Raina, H. Qian, B. Gao, S. Joshi, H. Wu, H.-S. P. Wong, G. Cauwenberghs  
 *arXiv*, August 2021. [Paper](https://arxiv.org/abs/2108.07879)   
