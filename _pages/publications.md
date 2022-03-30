@@ -26,7 +26,7 @@ Kartik Prabhu, Albert Gural, Zainab F. Khan, Robert M. Radway, Massimo Giordano,
 To appear in *Journal of Solid-State Circuits (JSSC)*.    
 
 **An Agile Approach to the Design of Hardware Accelerators and Adaptable Compilers**  
-Ross Daly, Jackson Melchert, Kalhan Koul, Raj Setaluri, Rick Bahr, Clark Barrett, Nikhil Bhagdikar, Alex Carsello, Caleb Donovick, David Durst, Kayvon Fatahalian, Kathleen Feng, Pat Hanrahan, Teguh Hofstee, Mark Horowitz, Dillon Huff, Fredrik Kjolstad, Taeyoung Kong, Qiaoyi Liu, Makai Mann, Ankita Nayak, Aina Niemetz, Gedeon Nyengele, Stephen Richardson, Jeff Setter, Kavya Sreedhar, Maxwell Strange, \\James Thomas, Christopher Torng, Leonard Truong, Nestan Tsiskaridze, Keyi Zhang, Priyanka Raina    
+Ross Daly, Jackson Melchert, Kalhan Koul, Raj Setaluri, Rick Bahr, Clark Barrett, Nikhil Bhagdikar, Alex Carsello, Caleb Donovick, David Durst, Kayvon Fatahalian, Kathleen Feng, Pat Hanrahan, Teguh Hofstee, Mark Horowitz, Dillon Huff, Fredrik Kjolstad, Taeyoung Kong, Qiaoyi Liu, Makai Mann, Ankita Nayak, Aina Niemetz, Gedeon Nyengele, Stephen Richardson, Jeff Setter, Kavya Sreedhar, Maxwell Strange, James Thomas, Christopher Torng, Leonard Truong, Nestan Tsiskaridze, Keyi Zhang, Priyanka Raina    
 *GOMACTech*, March 2022.      
 
 **Efficient Routing for Coarse-Grained Reconfigurable Arrays using Multi-Pole NEM Relays**  
