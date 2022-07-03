@@ -16,13 +16,22 @@ J. Melchert, K. Feng, C. Donovick, R. Daly, C. Barrett, M. Horowitz, P. Hanrahan
 *arXiv*, April 2021. [Paper](https://arxiv.org/abs/2104.14155)
 
 ## Publications    
+
+**AHA: An Agile Approach to the Design of Coarse-Grained Reconfigurable Accelerators and Compilers**    
+Kalhan Koul, Jackson Melchert, Kavya Sreedhar, Leonard Truong, Gedeon Nyengele, Keyi Zhang, Qiaoyi Liu, Jeff Setter, Po-Han Chen, Yuchen Mei, Maxwell Strange, Ross Daly, Caleb Donovick, Alex Carsello, Taeyoung Kong, Kathleen Feng, Dillon Huff, Ankita Nayak, Rajsekhar Setaluri, James Thomas, Nikhil Bhagdikar, David Durst, Zachary Myers, Nestan Tsiskaridze, Stephen Richardson, Rick Bahr, Kayvon Fatahalian, Pat Hanrahan, Clark Barrett, Mark Horowitz, Christopher Torng, Fredrik Kjolstad, Priyanka Raina    
+To appear in *ACM Transactions on Embedded Computing Systems (TECS)*, 2022.     
+
+**Amber: Coarse-Grained Reconfigurable Array-Based SoC for Dense Linear Algebra Acceleration**    
+Kathleen Feng, Alex Carsello, Taeyoung Kong, Kalhan Koul, Qiaoyi Liu, Jackson Melchert, Gedeon Nyengele, Maxwell Strange, Keyi Zhang, Ankita Nayak, Jeff Setter, James Thomas, Kavya Sreedhar, Po-Han Chen, Nikhil Bhagdikar, Zachary Myers, Brandon D'Agostino, Pranil Joshi, Stephen Richardson, Rick Bahr, Christopher Torng, Mark Horowitz, Priyanka Raina    
+To appear in *Hot Chips: A Symposium on High Performance Chips (HotChips)*, August 2022.     
+
 **Enabling Reusable Physical Design Flows with Modular Flow Generators**  
 Alex Carsello, James Thomas, Ankita Nayak, Po-Han Chen, Mark Horowitz, Priyanka Raina, Christopher Torng  
 To appear in *Design Automation Conference (DAC)*, July 2022. [Paper](https://arxiv.org/abs/2111.14535)
 
 **Amber: A 367 GOPS, 538 GOPS/W 16nm SoC with a Coarse-Grained Reconfigurable Array for Flexible Acceleration of Dense Linear Algebra**    
 Alex Carsello, Kathleen Feng, Taeyoung Kong, Kalhan Koul, Qiaoyi Liu, Jackson Melchert, Gedeon Nyengele, Maxwell Strange, Keyi Zhang, Ankita Nayak, Jeff Setter, James Thomas, Kavya Sreedhar, Po-Han Chen, Nikhil Bhagdikar, Zachary Myers, Brandon D'Agostino, Pranil Joshi, Stephen Richardson, Rick Bahr, Christopher Torng, Mark Horowitz, Priyanka Raina    
-To appear in the *Symposium on VLSI Circuits (VLSI)*, June 2022.    
+*IEEE Symposium on VLSI Technology & Circuits (VLSI)*, June 2022. **(Best Demo Paper Award)** [VLSI Demo Session] (https://mobile.twitter.com/VLSI_2022/status/1536825690196217856)        
 
 **An Agile Approach to the Design of Hardware Accelerators and Adaptable Compilers**  
 Ross Daly, Jackson Melchert, Kalhan Koul, Raj Setaluri, Rick Bahr, Clark Barrett, Nikhil Bhagdikar, Alex Carsello, Caleb Donovick, David Durst, Kayvon Fatahalian, Kathleen Feng, Pat Hanrahan, Teguh Hofstee, Mark Horowitz, Dillon Huff, Fredrik Kjolstad, Taeyoung Kong, Qiaoyi Liu, Makai Mann, Ankita Nayak, Aina Niemetz, Gedeon Nyengele, Stephen Richardson, Jeff Setter, Kavya Sreedhar, Maxwell Strange, James Thomas, Christopher Torng, Leonard Truong, Nestan Tsiskaridze, Keyi Zhang, Priyanka Raina    
@@ -34,7 +43,7 @@ Kartik Prabhu, Albert Gural, Zainab F. Khan, Robert M. Radway, Massimo Giordano,
 
 **Efficient Routing for Coarse-Grained Reconfigurable Arrays using Multi-Pole NEM Relays**  
 A. Levy, M. Oduoza, A. Balasingam, R. T. Howe, P. Raina  
-*IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)*, January 2022. 
+*IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)*, January 2022. [Paper](https://ieeexplore.ieee.org/document/9712515)        
 
 **SAPIENS: A 64-Kbit RRAM-Based Non-Volatile Associative Memory for One-Shot Learning and Inference at the Edge**   
 H. Li, W.-C. Chen, A. Levy, C.-H. Wang, H. Wang, P. Chen, W. Wan, W.-S. Khwa, H. Chuang, Y.-D. Chih, M.-F. Chang, H.-S. P. Wong, P. Raina  
