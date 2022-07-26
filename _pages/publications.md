@@ -11,10 +11,6 @@ W. Wan, R. Kubendran, C. Schaefer, S. B. Eryilmaz, W. Zhang, D. Wu, S. Deiss, P.
 Q. Liu, D. Huff, J. Setter, M. Strange, K. Feng, K. Sreedhar, Z. Wang, K. Zhang, M. Horowitz, P. Raina, F. Kjolstad  
 *arXiv*, May 2021. [Paper](https://arxiv.org/abs/2105.12858)
 
-**Automated Design Space Exploration of CGRA Processing Element Architectures using Frequent Subgraph Analysis**  
-J. Melchert, K. Feng, C. Donovick, R. Daly, C. Barrett, M. Horowitz, P. Hanrahan, P. Raina  
-*arXiv*, April 2021. [Paper](https://arxiv.org/abs/2104.14155)
-
 ## Publications    
 **Synthesizing Instruction Selection Rewrite Rules from RTL using SMT**    
 Ross Daly, Caleb Donovick, Jack Melchert, Raj Setaluri, Nestan Tsiskaridze, Priyanka Raina, Clark Barret, Pat Hanrahan    
@@ -24,7 +20,6 @@ To appear in *Formal Methods in Computer-Aided Design (FMCAD)*, 2022.
 Kalhan Koul, Jackson Melchert, Kavya Sreedhar, Leonard Truong, Gedeon Nyengele, Keyi Zhang, Qiaoyi Liu, Jeff Setter, Po-Han Chen, Yuchen Mei, Maxwell Strange, Ross Daly, Caleb Donovick, Alex Carsello, Taeyoung Kong, Kathleen Feng, Dillon Huff, Ankita Nayak, Rajsekhar Setaluri, James Thomas, Nikhil Bhagdikar, David Durst, Zachary Myers, Nestan Tsiskaridze, Stephen Richardson, Rick Bahr, Kayvon Fatahalian, Pat Hanrahan, Clark Barrett, Mark Horowitz, Christopher Torng, Fredrik Kjolstad, Priyanka Raina    
 To appear in *ACM Transactions on Embedded Computing Systems (TECS)*, 2022. [Paper](https://dl.acm.org/doi/10.1145/3534933)
      
-
 **Amber: Coarse-Grained Reconfigurable Array-Based SoC for Dense Linear Algebra Acceleration**    
 Kathleen Feng, Alex Carsello, Taeyoung Kong, Kalhan Koul, Qiaoyi Liu, Jackson Melchert, Gedeon Nyengele, Maxwell Strange, Keyi Zhang, Ankita Nayak, Jeff Setter, James Thomas, Kavya Sreedhar, Po-Han Chen, Nikhil Bhagdikar, Zachary Myers, Brandon D'Agostino, Pranil Joshi, Stephen Richardson, Rick Bahr, Christopher Torng, Mark Horowitz, Priyanka Raina    
 To appear in *Hot Chips: A Symposium on High Performance Chips (HotChips)*, August 2022.     
