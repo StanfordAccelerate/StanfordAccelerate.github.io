@@ -5,10 +5,6 @@ subtitle: Priyanka Raina's Research Group at Stanford University
 description: The pages meta description
 permalink: /
 ---
-
-![Group Photo from June 26, 2020](/assets/images/group_photo_jun_26_2020.png)
-Group photo from June 26, 2020. From left to right, top to bottom: Julie Kline, Priyanka Raina, Kartik Prabhu, Kathleen Feng, Kalhan Koul, Michael Oduoza, Haitong Li, Hongjie Wang, Isabela David Rodrigues, Charles Tsao, Denisse Ventura, Jackson Melchert, Akash Levy and Weier Wan.
-
 # Research Summary
 
 Stanford accelerate group works on creating high performance and energy-efficient architectures and design methodology for domain-specific hardware accelerators in existing and emerging technologies.
@@ -17,7 +13,7 @@ Stanford accelerate group works on creating high performance and energy-efficien
 ## Faculty
 
 ### Priyanka Raina 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/priyanka.jpg){: .align-left} 
+<img src="/assets/images/priyanka.jpg" width="400" align="left" style="padding-right: 30px; padding-bottom: 20px;">
 **Email:** praina AT stanford DOT edu  
 **Contact:** Allen Building - Room 114, (857) 209-8205  
 **About:** Priyanka Raina is an Assistant Professor in Electrical Engineering at Stanford University. Previously, she was a Visiting Research Scientist in the Architecture Research Group at NVIDIA Corporation. She received her Ph.D. degree in 2018 and S.M. degree in 2013 in EECS from MIT and her B.Tech. degree in EE from IIT Delhi in 2011.  
