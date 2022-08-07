@@ -1,8 +1,10 @@
 ---
+layout: page
 permalink: /previous-projects/
-toc: true
+title: Previous Research
+hide_hero: true
 ---
-## Previous Projects
+## Previous Research Projects
 
 ### A Scalable Multi-Chip-Module-based DNN Accelerator Designed with a High-Productivity VLSI Methodology
 ![](/assets/images/simba.png){: .align-right .width-fifty-percent}
