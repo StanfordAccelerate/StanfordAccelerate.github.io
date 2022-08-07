@@ -1,6 +1,8 @@
 ---
+layout: page
 permalink: /current-projects/
-toc: true
+title: Research
+hide_hero: true
 ---
 ## Current Projects
 
