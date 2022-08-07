@@ -1,13 +1,9 @@
-- name: About
-  link: /
 - name: Publications
   link: /publications/
 - name: Research
   link: /current-projects/
 - name: Previous Research
   link: /previous-projects/
-- name: Students
-  link: /
 - name: Previous Students
   link: /previous-students/
 - name: Group Photos
