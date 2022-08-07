@@ -13,7 +13,7 @@ Stanford accelerate group works on creating high performance and energy-efficien
 ## Faculty
 
 ### Priyanka Raina 
-<img src="/assets/images/priyanka.jpg" width="400" align="left" style="padding-right: 30px; padding-bottom: 20px;">
+<img src="/assets/images/priyanka.jpg" width="250" align="left" style="padding-right: 30px; padding-bottom: 20px;">
 **Email:** praina AT stanford DOT edu  
 **Contact:** Allen Building - Room 114, (857) 209-8205  
 **About:** Priyanka Raina is an Assistant Professor in Electrical Engineering at Stanford University. Previously, she was a Visiting Research Scientist in the Architecture Research Group at NVIDIA Corporation. She received her Ph.D. degree in 2018 and S.M. degree in 2013 in EECS from MIT and her B.Tech. degree in EE from IIT Delhi in 2011.  
