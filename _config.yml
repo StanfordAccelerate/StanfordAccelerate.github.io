@@ -18,11 +18,11 @@ remote_theme             : chrisrhymes/bulma-clean-theme
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Priyanka Raina"
+title                    : "Stanford Accelerate"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Priyanka Raina"
-description              : "Priyanka Raina's personal website."
+name                     : "Stanford Accelerate"
+description              : "Priyanka Raina's research group at Stanford University."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
