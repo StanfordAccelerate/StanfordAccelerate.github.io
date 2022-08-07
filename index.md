@@ -1,5 +1,8 @@
 ---
-classes: wide
+layout: page
+title: Stanford Accelerate
+subtitle: Priyanka Raina's Research Group at Stanford University
+description: The pages meta description
 permalink: /
 ---
 
