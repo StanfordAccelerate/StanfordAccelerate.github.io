@@ -1,6 +1,10 @@
 ---
+layout: page
 permalink: /publications/
+title: Publications
+hide_hero: true
 ---
+
 ## Preprints   
 
 **Edge AI without Compromise: Efficient, Versatile and Accurate Neurocomputing in Resistive Random-Access Memory**   
@@ -13,7 +17,7 @@ Q. Liu, D. Huff, J. Setter, M. Strange, K. Feng, K. Sreedhar, Z. Wang, K. Zhang,
 
 ## Publications    
 **Synthesizing Instruction Selection Rewrite Rules from RTL using SMT**    
-Ross Daly, Caleb Donovick, Jack Melchert, Raj Setaluri, Nestan Tsiskaridze, Priyanka Raina, Clark Barret, Pat Hanrahan    
+Ross Daly, Caleb Donovick, Jack Melchert, Raj Setaluri, Nestan Tsiskaridze, Priyanka Raina, Clark Barrett, Pat Hanrahan    
 To appear in *Formal Methods in Computer-Aided Design (FMCAD)*, 2022.    
 
 **AHA: An Agile Approach to the Design of Coarse-Grained Reconfigurable Accelerators and Compilers**    
@@ -26,7 +30,7 @@ To appear in *Hot Chips: A Symposium on High Performance Chips (HotChips)*, Augu
 
 **Enabling Reusable Physical Design Flows with Modular Flow Generators**  
 Alex Carsello, James Thomas, Ankita Nayak, Po-Han Chen, Mark Horowitz, Priyanka Raina, Christopher Torng  
-To appear in *Design Automation Conference (DAC)*, July 2022. [Paper](https://arxiv.org/abs/2111.14535)
+*Design Automation Conference (DAC)*, July 2022. [Paper](https://arxiv.org/abs/2111.14535)
 
 **Amber: A 367 GOPS, 538 GOPS/W 16nm SoC with a Coarse-Grained Reconfigurable Array for Flexible Acceleration of Dense Linear Algebra**    
 Alex Carsello, Kathleen Feng, Taeyoung Kong, Kalhan Koul, Qiaoyi Liu, Jackson Melchert, Gedeon Nyengele, Maxwell Strange, Keyi Zhang, Ankita Nayak, Jeff Setter, James Thomas, Kavya Sreedhar, Po-Han Chen, Nikhil Bhagdikar, Zachary Myers, Brandon D'Agostino, Pranil Joshi, Stephen Richardson, Rick Bahr, Christopher Torng, Mark Horowitz, Priyanka Raina    
@@ -151,6 +155,27 @@ R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan
 **Reconfigurable Processor for Energy-Scalable Computational Photography**  
 R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan  
 *International Solid-State Circuits Conference (ISSCC)*, February 2013. [Paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6487683), [Demo](http://player.vimeo.com/video/70417371)
+
+## Poster Presentations
+**Amber: a 441.2 GOPS/W 16nm Coarse Grained Reconfigurable Array-Based SoC Accelerator for Image Processing and Computer Vision**    
+Kathleen Feng, Alex Carsello, Taeyoung Kong, Kalhan Koul, Gedeon Nyengele, Maxwell Strange, Keyi Zhang, Ankita Nayak, Jeff Setter, Qiaoyi Liu, James Thomas, Po-Han Chen, Jackson Melchert, Zachary Myers, Stephen Richardson, Rick Bahr, Christopher Torng, Mark Horowitz, Priyanka Raina    
+*International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP)*, February 2022.    
+
+**CHIMERA: A 2MB, 0.92 TOPS, Non-Volatile Edge AI Accelerator for Training and Inference**    
+Massimo Giordano, Kartik Prabhu, Kalhan Koul, Rohan Doshi, Albert Gural, Zainab F. Khan, John W. Kustin, Timothy Liu, Gregorio B. Lopes, Robert M. Radway, Victor Turbiner, Guénolé Lallement, Boris  Murmann, Subhasish Mitra, Priyanka Raina    
+*International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP)*, February 2021.    
+
+**A Unified Push Memory for Accelerator Generation**  
+Q. Liu, J. Setter, K. Feng, X. Yang, T. Hofstee, M. Horowitz, P. Raina  
+*MICRO SRC Poster Presentation*, October 2019.
+
+**An Energy-Scalable Co-processor for Blind Image Deblurring**  
+P. Raina, M. Tikekar, A. P. Chandrakasan  
+*International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP)*, February 2016. (**2016 ISSCC Student Research Preview Award**)
+
+**Reconfigurable Processor for Energy-Scalable Computational Photography**  
+R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan  
+*International Solid-State Circuits Conference (ISSCC) Demo Session*, February 2013. [Video](http://player.vimeo.com/video/70417371)
 
 ## Patents
 
