@@ -1,19 +1,14 @@
-docs:
-  - title: About
-    url: /
-    children:
-      - title: "Current Students"
-        url: /
-      - title: "Previous Students"
-        url: /previous-students/
-      - title: "Group Photos"
-        url: /group-photos/
-  - title: Research
-    url: /current-projects/
-    children:
-      - title: "Current Projects"
-        url: /current-projects/
-      - title: "Previous Projects"
-        url: /previous-projects/
-      - title: "Publications"
-        url: /publications/
+- name: About
+  link: /
+- name: Publications
+  link: /publications/
+- name: Research
+  link: /current-projects/
+- name: Previous Research
+  link: /previous-projects/
+- name: Students
+  link: /
+- name: Previous Students
+  link: /previous-students/
+- name: Group Photos
+  link: /group-photos/
