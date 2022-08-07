@@ -1,5 +1,8 @@
 ---
+layout: page
 permalink: /group-photos/
+title: Group Photos
+hide_hero: true
 ---
 
 ![Group Photo from June 26, 2020](/assets/images/group_photo_jun_26_2020.png)
