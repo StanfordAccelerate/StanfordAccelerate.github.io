@@ -6,12 +6,9 @@ description: The pages meta description
 permalink: /
 ---
 # Research Summary
-
 Stanford accelerate group works on creating high performance and energy-efficient architectures and design methodology for domain-specific hardware accelerators in existing and emerging technologies.
 
 # People
-
-<p>&nbsp;</p>
 <table style="width:100%">
   <tbody>
     <tr>
