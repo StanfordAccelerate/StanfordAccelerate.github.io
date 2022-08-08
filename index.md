@@ -31,13 +31,20 @@ Stanford accelerate group works on creating high performance and energy-efficien
 </table>
 
 ## PhD Students
-
-### Akash Levy 
-<img src="/assets/images/akash.jpg" width="250" align="left" style="padding-right: 30px; padding-bottom: 20px;">
-**Email:** akashl AT stanford DOT edu     
-**Webpage:** <https://www.linkedin.com/in/akashlevy/>  
-**About:** Akash Levy is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. Previously, he was a Research Intern at Amazon Lab126 and Amazon Web Services. He received a B.S.E. degree in Electrical Engineering from Princeton University in 2018, with certificates in Applications of Computing and Engineering Physics. He is a recipient of the 2018 NSF Graduate Research Fellowship.  
-**Research:** My current research is focused on improving the efficiency of reconfigurable logic devices (such as FPGAs and CGRAs) through the use of 3D integration with emerging nanotechnologies. In particular, I am developing a hybrid design that makes use of both resistive random access memory (RRAM) and nanoelectromechanical (NEM) relays to implement reconfigurable switching in the back-end-of-line for reduced reconfigurability overhead. My ultimate goal is to enable reconfigurable logic devices to become more competitive with ASICs in terms of power, area, and performance. My pre-PhD research involved a broad range of subjects, ranging from physics to computer security. For more details, please refer to my [Academia.edu portfolio](https://stanford.academia.edu/AkashLevy) and my [Google Scholar profile](https://scholar.google.com/citations?user=A0Auh6EAAAAJ&hl=en).  
+<table style="width:100%">
+  <tbody>
+    <tr>
+      <td style="width:18%"><img src="/assets/images/akash.jpg" width="250" align="left"></td>
+      <td>
+        <b>Akash Levy</b><br> 
+        <b>Email:</b> akashl AT stanford DOT edu<br>
+        <b>Webpage:</b> <https://www.linkedin.com/in/akashlevy/><br>
+        <b>About:</b> Akash Levy is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. Previously, he was a Research Intern at Amazon Lab126 and Amazon Web Services. He received a B.S.E. degree in Electrical Engineering from Princeton University in 2018, with certificates in Applications of Computing and Engineering Physics. He is a recipient of the 2018 NSF Graduate Research Fellowship.<br>
+        <b>Research:</b> His current research is focused on improving the efficiency of reconfigurable logic devices (such as FPGAs and CGRAs) through the use of 3D integration with emerging nanotechnologies. In particular, he is developing a hybrid design that makes use of both resistive random access memory (RRAM) and nanoelectromechanical (NEM) relays to implement reconfigurable switching in the back-end-of-line for reduced reconfigurability overhead. His goal is to enable reconfigurable logic devices to become more competitive with ASICs in terms of power, area, and performance. His pre-PhD research involved a broad range of subjects, ranging from physics to computer security. For more details, please refer to his [Academia.edu portfolio](https://stanford.academia.edu/AkashLevy) and [Google Scholar profile](https://scholar.google.com/citations?user=A0Auh6EAAAAJ&hl=en)<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Kathleen Feng
 <img src="/assets/images/kathleen.jpg" width="250" align="left" style="padding-right: 30px; padding-bottom: 20px;">
