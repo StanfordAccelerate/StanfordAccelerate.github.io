@@ -42,20 +42,26 @@ Stanford accelerate group works on creating high performance and energy-efficien
         <b>Research:</b> His current research is focused on improving the efficiency of reconfigurable logic devices (such as FPGAs and CGRAs) through the use of 3D integration with emerging nanotechnologies. In particular, he is developing a hybrid design that makes use of both resistive random access memory (RRAM) and nanoelectromechanical (NEM) relays to implement reconfigurable switching in the back-end-of-line for reduced reconfigurability overhead. His goal is to enable reconfigurable logic devices to become more competitive with ASICs in terms of power, area, and performance. His pre-PhD research involved a broad range of subjects, ranging from physics to computer security. For more details, please refer to his <a href="https://stanford.academia.edu/AkashLevy">Academia.edu portfolio</a> and <a href="https://scholar.google.com/citations?user=A0Auh6EAAAAJ&hl=en">Google Scholar profile</a>.
       </td>
     </tr>
+    <tr>
+      <td style="width:18%"><img src="/assets/images/kathleen.jpg" width="250" align="left"></td>
+      <td>
+        <b>Kathleen Feng</b><br> 
+        <b>Email:</b> kzf AT stanford DOT edu<br>
+        <b>About:</b> Kathleen Feng is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. She received a B.S.E. degree in Electrical Engineering from Princeton University in 2018, with certificates in Applications of Computing and Robotics and Intelligent Systems. She is a recipient of the NDSEG Fellowship.<br>
+        <b>Research:</b> Her research focuses on accelerating deep image processing pipelines (ISPs) on reconfigurable hardware. Deep ISPs combine low-level image processing techniques with high-level image classification, allowing for a more robust process. More generally, she is interested in designing and developing new computer architectures for computer graphics, vision, and related applications.
+      </td>
+    </tr>
+    <tr>
+      <td style="width:18%"><img src="/assets/images/jack.jpg" width="250" align="left"></td>
+      <td>
+        <b>Jackson Melchert</b><br> 
+        <b>Email:</b> melchert AT stanford DOT edu<br>
+        <b>About:</b> Jackson Melchert is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. He received a B.S. in Electrical and Computer Engineering and Computer Science from the University of Wisconsin - Madison in 2019.<br>
+        <b>Research:</b> His research focuses on how to generate an optimal coarse-grained reconfigurable array processing element (PE) architecture for a given application domain. He is developing tools to analyze the applications that are going to be run on the CGRA to identify interesting PE architectures to be evaluated. He is also developing a PE generator that takes a high level specification of a PE from the application analysis and produces the hardware description of the PE, along with functional and formal models used in the application mapping process. Jack is broadly interested in optimizing configurable hardware to approach the performance and efficiency of application-specific accelerators.
+      </td>
+    </tr>
   </tbody>
-</table>
-
-### Kathleen Feng
-<img src="/assets/images/kathleen.jpg" width="250" align="left" style="padding-right: 30px; padding-bottom: 20px;">
-**Email:** kzf AT stanford DOT edu  
-**About:** Kathleen Feng is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. She received a B.S.E. degree in Electrical Engineering from Princeton University in 2018, with certificates in Applications of Computing and Robotics and Intelligent Systems. She is a recipient of the NDSEG Fellowship.     
-**Research:** My current research focuses on accelerating deep image processing pipelines (ISPs) on reconfigurable hardware. Deep ISPs combine low-level image processing techniques with high-level image classification, allowing for a more robust process. More generally, I am interested in designing and developing new computer architectures for computer graphics, vision, and related applications.  
-
-### Jackson Melchert
-<img src="/assets/images/jack.jpg" width="250" align="left" style="padding-right: 30px; padding-bottom: 20px;">
-**Email:** melchert AT stanford DOT edu  
-**About:** Jackson Melchert is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. He received a B.S. in Electrical and Computer Engineering and Computer Science from the University of Wisconsin - Madison in 2019.  
-**Research:** My research is currently focused on how to generate an optimal coarse-grained reconfigurable array processing element architecture for a given application domain. I am developing tools to analyze the applications that are going to be run on the CGRA to identify interesting PE architectures to be evaluated. I am also developing a PE generator that takes a high level specification of a PE from the application analysis and produces the hardware description of the PE, along with functional and formal models used in the application mapping process. I am broadly interested in optimizing configurable hardware to approach the performance and efficiency of application specific accelerators.  
+</table>    
 
 ### Kalhan Koul   
 <img src="/assets/images/kalhan.jpg" width="250" align="left" style="padding-right: 30px; padding-bottom: 20px;">
