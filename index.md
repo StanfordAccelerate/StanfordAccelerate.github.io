@@ -19,7 +19,7 @@ Stanford accelerate group works on creating high performance and energy-efficien
 <table style="width:100%">
   <tbody>
     <tr>
-      <td style="width:10%"><img src="/assets/images/priyanka.jpg" width="250" align="left"></td>
+      <td style="width:20%"><img src="/assets/images/priyanka.jpg" width="250" align="left"></td>
       <td>
         <b>Email:</b> praina AT stanford DOT edu  <br>
         <b>Contact:</b> Allen Building - Room 114  <br>
