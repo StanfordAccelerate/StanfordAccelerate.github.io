@@ -10,17 +10,23 @@ permalink: /
 Stanford accelerate group works on creating high performance and energy-efficient architectures and design methodology for domain-specific hardware accelerators in existing and emerging technologies.
 
 # People
-## Faculty
 
 ### Priyanka Raina 
-<img src="/assets/images/priyanka.jpg" width="250" align="left" style="padding-right: 30px; padding-bottom: 20px;">
-**Email:** praina AT stanford DOT edu  
-**Contact:** Allen Building - Room 114 
-**About:** Priyanka Raina is an Assistant Professor in Electrical Engineering at Stanford University. Previously, she was a Visiting Research Scientist in the Architecture Research Group at NVIDIA Corporation. She received her Ph.D. degree in 2018 and S.M. degree in 2013 in EECS from MIT and her B.Tech. degree in EE from IIT Delhi in 2011.  
-**Teaching:** Priyanka teaches [EE271: Introduction to VLSI Systems](http://web.stanford.edu/class/ee271/) in the Fall and EE272: Design Projects in VLSI Systems in the Winter.    
-<p>&nbsp;</p>
 
-## Administrator
+    
+
+<p>&nbsp;</p>
+<table style="width:100%">
+  <tbody>
+    <tr>
+      <td style="width:10%"><img src="/assets/images/priyanka.jpg" width="250" align="left" style="padding-right: 30px; padding-bottom: 20px;"></td>
+      <td>
+        <b>Email:</b> praina AT stanford DOT edu  </br>
+        <b>Contact:</b> Allen Building - Room 114  </br>
+        <b>About:</b> Priyanka Raina is an Assistant Professor of Electrical Engineering at Stanford University. She received her BTech in Electrical Engineering from the IIT Delhi in 2011 and her SM and PhD in Electrical Engineering and Computer Science from MIT in 2013 and 2018. Priyanka’s research is on creating high-performance and energy-efficient architectures for domain-specific hardware accelerators in existing and emerging technologies and agile hardware-software co-design. Her research has won best paper awards at VLSI, ESSCIRC and MICRO conferences and in the JSSC journal. Priyanka teaches several VLSI design classes at Stanford. She has also won the Intel Rising Star Faculty Award, Hellman Faculty Scholar Award and is a Terman Faculty Fellow.  </br></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Julie Kline
 <img src="/assets/images/julie.jpg" width="250" align="left" style="padding-right: 30px; padding-bottom: 20px;">
