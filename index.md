@@ -91,6 +91,19 @@ Stanford accelerate group works on creating high performance and energy-efficien
   </tbody>
 </table>    
 
+## Undergraduate Students
+<table style="width:100%">
+  <tbody>
+    <tr>
+      <td style="width:18%"><img src="/assets/images/akhilesh.jpg" width="250" align="left"></td>
+      <td>
+        <b>Akhilesh Balasingam</b><br> 
+        <b>Email:</b> avb03 AT stanford DOT edu<br>
+        <b>About:</b> I am a high school senior, gaining experience doing university-level research under the mentorship of Akash Levy. I am working on RRAM modeling, neuromorphic architectures, and nanoelectromechanical (NEM) relays. My hobbies include hiking, squash, and playing the mridangam.<br></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Administrator
 <table style="width:100%">
   <tbody>
