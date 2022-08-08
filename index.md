@@ -34,8 +34,6 @@ Stanford accelerate group works on creating high performance and energy-efficien
         <b>Research:</b> His current research is focused on improving the efficiency of reconfigurable logic devices (such as FPGAs and CGRAs) through the use of 3D integration with emerging nanotechnologies. In particular, he is developing a hybrid design that makes use of both resistive random access memory (RRAM) and nanoelectromechanical (NEM) relays to implement reconfigurable switching in the back-end-of-line for reduced reconfigurability overhead. His goal is to enable reconfigurable logic devices to become more competitive with ASICs in terms of power, area, and performance. His pre-PhD research involved a broad range of subjects, ranging from physics to computer security. For more details, please refer to his <a href="https://stanford.academia.edu/AkashLevy">Academia.edu portfolio</a> and <a href="https://scholar.google.com/citations?user=A0Auh6EAAAAJ&hl=en">Google Scholar profile</a>.
       </td>
     </tr>
-    
-    
     <tr>
       <td style="width:18%"><img src="/assets/images/kathleen.jpg" width="250" align="left"></td>
       <td>
@@ -45,8 +43,6 @@ Stanford accelerate group works on creating high performance and energy-efficien
         <b>Research:</b> Her research focuses on accelerating deep image processing pipelines (ISPs) on reconfigurable hardware. Deep ISPs combine low-level image processing techniques with high-level image classification, allowing for a more robust process. More generally, she is interested in designing and developing new computer architectures for computer graphics, vision, and related applications.
       </td>
     </tr>
-    
-    
     <tr>
       <td style="width:18%"><img src="/assets/images/jack.jpg" width="250" align="left"></td>
       <td>
@@ -56,8 +52,6 @@ Stanford accelerate group works on creating high performance and energy-efficien
         <b>Research:</b> His research focuses on how to generate an optimal coarse-grained reconfigurable array processing element (PE) architecture for a given application domain. He is developing tools to analyze the applications that are going to be run on the CGRA to identify interesting PE architectures to be evaluated. He is also developing a PE generator that takes a high level specification of a PE from the application analysis and produces the hardware description of the PE, along with functional and formal models used in the application mapping process. Jack is broadly interested in optimizing configurable hardware to approach the performance and efficiency of application-specific accelerators.
       </td>
     </tr>
-    
-    
     <tr>
       <td style="width:18%"><img src="/assets/images/kalhan.jpg" width="250" align="left"></td>
       <td>
@@ -67,8 +61,6 @@ Stanford accelerate group works on creating high performance and energy-efficien
         <b>Research:</b> My current research focuses on automatically mapping applications, ranging from machine learning to image processing, onto reconfigurable logic devices (CGRAs). Previously, I helped design and tape-out a DNN accelerator utilizing resistive memory (RRAM) for low-energy inference and training. This chip exploited the low read cost and non-volatility of RRAM to store the weights of a DNN model, providing a low energy solution for edge and IoT devices. Broadly speaking, I am interested in improving the hardware design flow and developing highly performant and flexible hardware.
       </td>
     </tr>
-    
-    
     <tr>
       <td style="width:18%"><img src="/assets/images/kartik.jpg" width="250" align="left"></td>
       <td>
@@ -78,7 +70,6 @@ Stanford accelerate group works on creating high performance and energy-efficien
         <b>Research:</b> My current research involves creating generators for DNN accelerators. The generator is written using high-level synthesis (HLS) to enable for the creation of a DNN accelerator given a set of parameters, and can generate many of the architectures that have been proposed. 
       </td>
     </tr>
-    
     <tr>
       <td style="width:18%"><img src="assets/images/pohan.jpg" width="250" align="left"></td>
       <td>
@@ -99,7 +90,7 @@ Stanford accelerate group works on creating high performance and energy-efficien
       <td>
         <b>Akhilesh Balasingam</b><br> 
         <b>Email:</b> avb03 AT stanford DOT edu<br>
-        <b>About:</b> I am a high school senior, gaining experience doing university-level research under the mentorship of Akash Levy. I am working on RRAM modeling, neuromorphic architectures, and nanoelectromechanical (NEM) relays. My hobbies include hiking, squash, and playing the mridangam.<br></td>
+        <b>About:</b> I am a high school senior, gaining experience doing university-level research under the mentorship of Akash Levy. I am working on RRAM modeling, neuromorphic architectures, and nanoelectromechanical (NEM) relays. My hobbies include hiking, squash, and playing the mridangam.<br>           </td>
     </tr>
   </tbody>
 </table>
