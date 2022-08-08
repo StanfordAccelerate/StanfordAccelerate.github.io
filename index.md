@@ -15,22 +15,23 @@ Stanford accelerate group works on creating high performance and energy-efficien
 <table style="width:100%">
   <tbody>
     <tr>
-      <td style="width:17%"><img src="/assets/images/priyanka.jpg" width="250" align="left"></td>
+      <td style="width:18%"><img src="/assets/images/priyanka.jpg" width="250" align="left"></td>
       <td>
         <b>Priyanka Raina</b><br> 
         <b>Email:</b> praina AT stanford DOT edu<br>
         <b>Contact:</b> Allen Building - Room 114<br>
         <b>About:</b> Priyanka Raina is an Assistant Professor of Electrical Engineering at Stanford University. She received her BTech in Electrical Engineering from the IIT Delhi in 2011 and her SM and PhD in Electrical Engineering and Computer Science from MIT in 2013 and 2018. Priyanka’s research is on creating high-performance and energy-efficient architectures for domain-specific hardware accelerators in existing and emerging technologies and agile hardware-software co-design. Her research has won best paper awards at VLSI, ESSCIRC and MICRO conferences and in the JSSC journal. Priyanka teaches several VLSI design classes at Stanford. She has also won the Intel Rising Star Faculty Award, Hellman Faculty Scholar Award and is a Terman Faculty Fellow.<br></td>
     </tr>
+    <tr>
+      <td style="width:18%"><img src="/assets/images/julie.jpg" width="250" align="left"></td>
+      <td>
+        <b>Julie Kline</b><br> 
+        <b>Email:</b> klinej AT stanford DOT edu<br>
+        <b>Contact:</b> Packard Building - Room 359<br>
+        <b>About:</b> Julie Kline is a Faculty Administrator at Stanford, and she supports several Electrical Engineering professors and their research teams. She holds a master’s degree in English from San Jose State University, and prior to her work at Stanford, she spent several years teaching academic writing and rhetoric at De Anza College in Cupertino. Julie is an active member at Coastal Repertory Theatre in Half Moon Bay, where in addition to acting, directing, and producing, she serves on several committees and the Board of Directors.<br></td>
+    </tr>
   </tbody>
 </table>
-
-### Julie Kline
-<img src="/assets/images/julie.jpg" width="250" align="left" style="padding-right: 30px; padding-bottom: 20px;">
-**Email:** klinej AT stanford DOT edu  
-**Contact:** Packard Building - Room 359, (650) 723-4539  
-**About:** Julie Kline is a Faculty Administrator at Stanford, and she supports several Electrical Engineering professors and their research teams. She holds a master’s degree in English from San Jose State University, and prior to her work at Stanford, she spent several years teaching academic writing and rhetoric at De Anza College in Cupertino. Julie is an active member at Coastal Repertory Theatre in Half Moon Bay, where in addition to acting, directing, and producing, she serves on several committees and the Board of Directors.  
-<p>&nbsp;</p>
 
 ## PhD Students
 
