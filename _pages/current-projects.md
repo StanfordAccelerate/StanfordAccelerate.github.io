@@ -112,8 +112,7 @@ M. Giordano, K. Prabhu, K. Koul, R. M. Radway, A. Gural, R. Doshi, Z. F. Khan, J
 * * *
 
 #### RRAM-Based In-Memory Computing Architecture for Probabilistic Graphical Models
-**Weier Wan**  
-![](/assets/images/weier_rram.png){: .align-right .width-fifteen-percent}
+<img src="/assets/images/weier_rram.png" width="300" align="left" style="padding-right: 30px; padding-bottom: 20px;">
 Many powerful neural networks such as probabilistic graphical models and recurrent neural networks require flexibility in dataflow and weight access patterns. This work implements an in-memory computing architecture in a 130-nm CMOS/RRAM process, that offers dataflow reconfigurability to address the limitations of previous designs. It acheives this with in-situ access to RRAM array and its transpose for efficient access to neural network weights and a voltage sensing stochastic analog neuron.
 
 **Publications:**
