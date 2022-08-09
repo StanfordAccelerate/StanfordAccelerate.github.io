@@ -38,7 +38,7 @@ Alex Carsello, James Thomas, Ankita Nayak, Po-Han Chen, Mark Horowitz, Priyanka 
 
 **Amber: A 367 GOPS, 538 GOPS/W 16nm SoC with a Coarse-Grained Reconfigurable Array for Flexible Acceleration of Dense Linear Algebra**    
 Alex Carsello, Kathleen Feng, Taeyoung Kong, Kalhan Koul, Qiaoyi Liu, Jackson Melchert, Gedeon Nyengele, Maxwell Strange, Keyi Zhang, Ankita Nayak, Jeff Setter, James Thomas, Kavya Sreedhar, Po-Han Chen, Nikhil Bhagdikar, Zachary Myers, Brandon D'Agostino, Pranil Joshi, Stephen Richardson, Rick Bahr, Christopher Torng, Mark Horowitz, Priyanka Raina    
-*IEEE Symposium on VLSI Technology & Circuits (VLSI)*, June 2022. **(Best Demo Paper Award)** [VLSI Demo Session](https://mobile.twitter.com/VLSI_2022/status/1536825690196217856)        
+*IEEE Symposium on VLSI Technology & Circuits (VLSI)*, June 2022. **(Best Demo Paper Award)** [Paper](https://ieeexplore.ieee.org/document/9830509), [VLSI Demo Session](https://mobile.twitter.com/VLSI_2022/status/1536825690196217856)        
 
 **An Agile Approach to the Design of Hardware Accelerators and Adaptable Compilers**  
 Ross Daly, Jackson Melchert, Kalhan Koul, Raj Setaluri, Rick Bahr, Clark Barrett, Nikhil Bhagdikar, Alex Carsello, Caleb Donovick, David Durst, Kayvon Fatahalian, Kathleen Feng, Pat Hanrahan, Teguh Hofstee, Mark Horowitz, Dillon Huff, Fredrik Kjolstad, Taeyoung Kong, Qiaoyi Liu, Makai Mann, Ankita Nayak, Aina Niemetz, Gedeon Nyengele, Stephen Richardson, Jeff Setter, Kavya Sreedhar, Maxwell Strange, James Thomas, Christopher Torng, Leonard Truong, Nestan Tsiskaridze, Keyi Zhang, Priyanka Raina    
