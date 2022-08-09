@@ -14,7 +14,7 @@ Stanford accelerate group works on creating high performance and energy-efficien
     <tr>
       <td style="width:18%"><img src="/assets/images/priyanka.jpg" width="250" align="left"></td>
       <td>
-        <h3>Priyanka Raina</h3><br> 
+        <b>Priyanka Raina</b><br> 
         <b>Email:</b> praina AT stanford DOT edu<br>
         <b>Contact:</b> Allen Building - Room 114<br>
         <b>About:</b> Priyanka Raina is an Assistant Professor of Electrical Engineering at Stanford University. She received her BTech in Electrical Engineering from the IIT Delhi in 2011 and her SM and PhD in Electrical Engineering and Computer Science from MIT in 2013 and 2018. Priyanka’s research is on creating high-performance and energy-efficient architectures for domain-specific hardware accelerators in existing and emerging technologies and agile hardware-software co-design. Her research has won best paper awards at VLSI, ESSCIRC and MICRO conferences and in the JSSC journal. Priyanka teaches several VLSI design classes at Stanford. She has also won the Intel Rising Star Faculty Award, Hellman Faculty Scholar Award and is a Terman Faculty Fellow.<br></td>
