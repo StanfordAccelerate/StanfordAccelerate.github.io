@@ -16,6 +16,10 @@ Q. Liu, D. Huff, J. Setter, M. Strange, K. Feng, K. Sreedhar, Z. Wang, K. Zhang,
 *arXiv*, May 2021. [Paper](https://arxiv.org/abs/2105.12858)
 
 ## Publications    
+**Improving Energy Efficiency of CGRAs with Low-Overhead Fine-Grained Power Domains**    
+Ankita Nayak, Keyi Zhang, Raj Setaluri, Alex Carsello, Makai Mann, Christopher Torng, Stephen Richardson, Rick Bahr, Pat Hanrahan, Mark Horowitz, Priyanka Raina    
+To appear in *Transactions on Reconfigurable Technology and Systems (TRETS)*, 2022.     
+
 **Synthesizing Instruction Selection Rewrite Rules from RTL using SMT**    
 Ross Daly, Caleb Donovick, Jack Melchert, Raj Setaluri, Nestan Tsiskaridze, Priyanka Raina, Clark Barrett, Pat Hanrahan    
 To appear in *Formal Methods in Computer-Aided Design (FMCAD)*, 2022.    
