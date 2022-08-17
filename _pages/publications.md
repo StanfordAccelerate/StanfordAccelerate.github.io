@@ -5,24 +5,25 @@ title: Publications
 hide_hero: true
 ---
 
-## Preprints   
-
-**Edge AI without Compromise: Efficient, Versatile and Accurate Neurocomputing in Resistive Random-Access Memory**   
-W. Wan, R. Kubendran, C. Schaefer, S. B. Eryilmaz, W. Zhang, D. Wu, S. Deiss, P. Raina, H. Qian, B. Gao, S. Joshi, H. Wu, H.-S. P. Wong, G. Cauwenberghs  
-*arXiv*, August 2021. [Paper](https://arxiv.org/abs/2108.07879)   
+## Preprints     
 
 **Compiling Halide Programs to Push-Memory Accelerators**  
 Q. Liu, D. Huff, J. Setter, M. Strange, K. Feng, K. Sreedhar, Z. Wang, K. Zhang, M. Horowitz, P. Raina, F. Kjolstad  
 *arXiv*, May 2021. [Paper](https://arxiv.org/abs/2105.12858)
 
 ## Publications    
-**Improving Energy Efficiency of CGRAs with Low-Overhead Fine-Grained Power Domains**    
-Ankita Nayak, Keyi Zhang, Raj Setaluri, Alex Carsello, Makai Mann, Christopher Torng, Stephen Richardson, Rick Bahr, Pat Hanrahan, Mark Horowitz, Priyanka Raina    
-To appear in *Transactions on Reconfigurable Technology and Systems (TRETS)*, 2022.     
 
 **Synthesizing Instruction Selection Rewrite Rules from RTL using SMT**    
 Ross Daly, Caleb Donovick, Jack Melchert, Raj Setaluri, Nestan Tsiskaridze, Priyanka Raina, Clark Barrett, Pat Hanrahan    
 To appear in *Formal Methods in Computer-Aided Design (FMCAD)*, October 2022.    
+
+**Improving Energy Efficiency of CGRAs with Low-Overhead Fine-Grained Power Domains**    
+Ankita Nayak, Keyi Zhang, Raj Setaluri, Alex Carsello, Makai Mann, Christopher Torng, Stephen Richardson, Rick Bahr, Pat Hanrahan, Mark Horowitz, Priyanka Raina    
+To appear in *Transactions on Reconfigurable Technology and Systems (TRETS)*, 2022.     
+
+**A Compute-in-Memory Chip Based on Resistive Random-Access Memory**    
+Weier Wan, Rajkumar Kubendran, Clemens Schaefer, Sukru Burc Eryilmaz, Wenqiang Zhang, Dabin Wu, Stephen Deiss, Priyanka Raina, He Qian, Bin Gao, Siddharth Joshi, Huaqiang Wu, H.-S. Philip Wong, Gert Cauwenberghs     
+*Nature*, August 2022. [Paper](https://www.nature.com/articles/s41586-022-04992-8)    
 
 **Amber: Coarse-Grained Reconfigurable Array-Based SoC for Dense Linear Algebra Acceleration**    
 Kathleen Feng, Alex Carsello, Taeyoung Kong, Kalhan Koul, Qiaoyi Liu, Jackson Melchert, Gedeon Nyengele, Maxwell Strange, Keyi Zhang, Ankita Nayak, Jeff Setter, James Thomas, Kavya Sreedhar, Po-Han Chen, Nikhil Bhagdikar, Zachary Myers, Brandon D'Agostino, Pranil Joshi, Stephen Richardson, Rick Bahr, Christopher Torng, Mark Horowitz, Priyanka Raina    
