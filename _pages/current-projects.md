@@ -108,7 +108,7 @@ H. Li, W.-C. Chen, A. Levy, C.-H. Wang, H. Wang, P. Chen, W. Wan, W.-S. Khwa, H.
 
 * * *
 
-#### RRAM-Based In-Memory Computing Architecture for Probabilistic Graphical Models
+#### A Compute-in-Memory Chip Based on Resistive Random-Access Memory    
 <img src="/assets/images/UCSD-JacobsSchool-20220815-Cauwenberghs-NeuRRam-00600-e-8MP-555x370.webp" width="300" align="left" style="padding-right: 30px; padding-bottom: 20px;">
 Realizing increasingly complex artificial intelligence (AI) functionalities directly on edge devices calls for unprecedented energy efficiency of edge hardware. Compute-in-memory (CIM) based on resistive random-access memory (RRAM) promises to meet such demand by storing AI model weights in dense, analogue and non-volatile RRAM devices, and by performing AI computation directly within RRAM, thus eliminating power-hungry data movement between separate compute and memory units. Although recent studies have demonstrated in-memory matrix-vector multiplication on fully integrated RRAM-CIM hardware, it remains a goal for an RRAM-CIM chip to simultaneously deliver high energy efficiency, versatility to support diverse models and software-comparable accuracy. This work is an RRAM-based CIM chip that simultaneously delivers versatility in reconfiguring CIM cores for diverse model architectures, energy efficiency that is two-times better than previous state-of-the-art RRAM-CIM chips across various computational bit-precisions, and inference accuracy comparable to software models quantized to four-bit weights across various AI tasks. (Image credit: David Baillot/University of California San Diego.)
 
