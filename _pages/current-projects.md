@@ -109,8 +109,8 @@ H. Li, W.-C. Chen, A. Levy, C.-H. Wang, H. Wang, P. Chen, W. Wan, W.-S. Khwa, H.
 * * *
 
 #### RRAM-Based In-Memory Computing Architecture for Probabilistic Graphical Models
-<img src="/assets/images/weier_rram.png" width="300" align="left" style="padding-right: 30px; padding-bottom: 20px;">
-Many powerful neural networks such as probabilistic graphical models and recurrent neural networks require flexibility in dataflow and weight access patterns. This work implements an in-memory computing architecture in a 130-nm CMOS/RRAM process, that offers dataflow reconfigurability to address the limitations of previous designs. It acheives this with in-situ access to RRAM array and its transpose for efficient access to neural network weights and a voltage sensing stochastic analog neuron.
+<img src="/assets/images/UCSD-JacobsSchool-20220815-Cauwenberghs-NeuRRam-00600-e-8MP-555x370.webp" width="300" align="left" style="padding-right: 30px; padding-bottom: 20px;">
+Realizing increasingly complex artificial intelligence (AI) functionalities directly on edge devices calls for unprecedented energy efficiency of edge hardware. Compute-in-memory (CIM) based on resistive random-access memory (RRAM) promises to meet such demand by storing AI model weights in dense, analogue and non-volatile RRAM devices, and by performing AI computation directly within RRAM, thus eliminating power-hungry data movement between separate compute and memory units. Although recent studies have demonstrated in-memory matrix-vector multiplication on fully integrated RRAM-CIM hardware, it remains a goal for an RRAM-CIM chip to simultaneously deliver high energy efficiency, versatility to support diverse models and software-comparable accuracy. This work is an RRAM-based CIM chip that simultaneously delivers versatility in reconfiguring CIM cores for diverse model architectures, energy efficiency that is two-times better than previous state-of-the-art RRAM-CIM chips across various computational bit-precisions, and inference accuracy comparable to software models quantized to four-bit weights across various AI tasks. (Image credit: David Baillot/University of California San Diego.)
 
 **Publications:**
 
@@ -129,6 +129,12 @@ W. Wan, R. Kubendran, S. B. Eryilmaz, W. Zhang, Y. Liao, D. Wu, S. Deiss, B. Gao
 **Edge AI without Compromise: Efficient, Versatile and Accurate Neurocomputing in Resistive Random-Access Memory**   
 W. Wan, R. Kubendran, C. Schaefer, S. B. Eryilmaz, W. Zhang, D. Wu, S. Deiss, P. Raina, H. Qian, B. Gao, S. Joshi, H. Wu, H.-S. P. Wong, G. Cauwenberghs  
 *arXiv*, August 2021. [Paper](https://arxiv.org/abs/2108.07879)  
+
+**In the News:**
+
+* Stanford engineers present new chip that ramps up AI computing efficiency. ([Stanford News](https://news.stanford.edu/2022/08/18/new-chip-ramps-ai-computing-efficiency/))
+* New neuromorphic chip for AI on the edge, at a small fraction of the energy and size of today's computing platforms. ([Tech Xplore](https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.html))
+* A New Neuromorphic Chip for AI on the Edge, at a Small Fraction of the Energy and Size. ([UC San Diego News Center](https://ucsdnews.ucsd.edu/pressrelease/Nature_bioengineering_2022#:~:text=The%20NeuRRAM%20chip%20is%20the,by%20UC%20San%20Diego%20engineers.))
 
 * * *
 
