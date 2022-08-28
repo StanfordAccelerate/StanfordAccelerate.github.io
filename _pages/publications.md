@@ -15,11 +15,11 @@ Q. Liu, D. Huff, J. Setter, M. Strange, K. Feng, K. Sreedhar, Z. Wang, K. Zhang,
 
 **Synthesizing Instruction Selection Rewrite Rules from RTL using SMT**    
 Ross Daly, Caleb Donovick, Jack Melchert, Raj Setaluri, Nestan Tsiskaridze, Priyanka Raina, Clark Barrett, Pat Hanrahan    
-To appear in *Formal Methods in Computer-Aided Design (FMCAD)*, October 2022.    
+To appear in *Formal Methods in Computer-Aided Design (FMCAD)*, October 2022.   
 
 **Improving Energy Efficiency of CGRAs with Low-Overhead Fine-Grained Power Domains**    
 Ankita Nayak, Keyi Zhang, Raj Setaluri, Alex Carsello, Makai Mann, Christopher Torng, Stephen Richardson, Rick Bahr, Pat Hanrahan, Mark Horowitz, Priyanka Raina    
-To appear in *Transactions on Reconfigurable Technology and Systems (TRETS)*, 2022.     
+*Transactions on Reconfigurable Technology and Systems (TRETS)*, August 2022. [Paper](https://dl.acm.org/doi/10.1145/3558394)        
 
 **A Compute-in-Memory Chip Based on Resistive Random-Access Memory**    
 Weier Wan, Rajkumar Kubendran, Clemens Schaefer, Sukru Burc Eryilmaz, Wenqiang Zhang, Dabin Wu, Stephen Deiss, Priyanka Raina, He Qian, Bin Gao, Siddharth Joshi, Huaqiang Wu, H.-S. Philip Wong, Gert Cauwenberghs     
