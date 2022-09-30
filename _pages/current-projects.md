@@ -15,6 +15,8 @@ Although an agile approach is standard for software design, how to properly adap
 <img src="/assets/images/amber-die-photo.png" width="200" align="left" style="padding-right: 30px; padding-bottom: 20px;"> 
 We used our AHA methodlogy to design Amber, an SoC with a CGRA accelerator targetting dense linear algebra, published at VLSI 2022. Now, students are working on the next chip, Onyx, which improves upon our dense applications and adds support for spare tensor algebra. The Onyx development proceess exercises our AHA methodology in several ways including updating the design using our DSLs, adding new compiler support for sparse applications, and doing large design space explorations. 
 
+
+
 **Code:** [Stanford AHA! Github](https://github.com/StanfordAHA)
 
 **Publications:**
