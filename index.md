@@ -38,9 +38,9 @@ Stanford accelerate group works on creating high performance and energy-efficien
       <td style="width:18%"><img src="/assets/images/kathleen.jpg" width="250" align="left"></td>
       <td>
         <b>Kathleen Feng</b><br> 
-        <b>Email:</b> kzf AT stanford DOT edu<br>
+        <b>Email:</b> kzf AT stanford DOT edu, <a href="https://http://stanford.edu/~kzf/">Webpage</a><br>
         <b>About:</b> Kathleen Feng is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. She received a B.S.E. degree in Electrical Engineering from Princeton University in 2018, with certificates in Applications of Computing and Robotics and Intelligent Systems. She is a recipient of the NDSEG Fellowship.<br>
-        <b>Research:</b> Her research focuses on accelerating deep image processing pipelines (ISPs) on reconfigurable hardware. Deep ISPs combine low-level image processing techniques with high-level image classification, allowing for a more robust process. More generally, she is interested in designing and developing new computer architectures for computer graphics, vision, and related applications.
+        <b>Research:</b> Her research focuses on domain-specific hardware architectures and hardware-software co-design. She has worked on coarse-grained reconfigurable arrays for application acceleration and systems for running extended reality applications. Kathleen is interested in designing and developing new computer architectures for emerging applications.
       </td>
     </tr>
     <tr>
