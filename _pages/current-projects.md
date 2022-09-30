@@ -31,10 +31,6 @@ To appear in *Formal Methods in Computer-Aided Design (FMCAD)*, October 2022.
 Ankita Nayak, Keyi Zhang, Raj Setaluri, Alex Carsello, Makai Mann, Christopher Torng, Stephen Richardson, Rick Bahr, Pat Hanrahan, Mark Horowitz, Priyanka Raina    
 *Transactions on Reconfigurable Technology and Systems (TRETS)*, August 2022. [Paper](https://dl.acm.org/doi/10.1145/3558394)        
 
-**A Compute-in-Memory Chip Based on Resistive Random-Access Memory**    
-Weier Wan, Rajkumar Kubendran, Clemens Schaefer, Sukru Burc Eryilmaz, Wenqiang Zhang, Dabin Wu, Stephen Deiss, Priyanka Raina, He Qian, Bin Gao, Siddharth Joshi, Huaqiang Wu, H.-S. Philip Wong, Gert Cauwenberghs     
-*Nature*, August 2022. [Paper](https://www.nature.com/articles/s41586-022-04992-8)    
-
 **Amber: Coarse-Grained Reconfigurable Array-Based SoC for Dense Linear Algebra Acceleration**    
 Kathleen Feng, Alex Carsello, Taeyoung Kong, Kalhan Koul, Qiaoyi Liu, Jackson Melchert, Gedeon Nyengele, Maxwell Strange, Keyi Zhang, Ankita Nayak, Jeff Setter, James Thomas, Kavya Sreedhar, Po-Han Chen, Nikhil Bhagdikar, Zachary Myers, Brandon D'Agostino, Pranil Joshi, Stephen Richardson, Rick Bahr, Christopher Torng, Mark Horowitz, Priyanka Raina    
 *Hot Chips: A Symposium on High Performance Chips (HotChips)*, August 2022.     
