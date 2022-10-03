@@ -62,7 +62,12 @@ X. Yang, M. Gao, Q. Liu, J. Pu, A. Nayak, J. Setter, S. Bell, K. Cao, H. Ha, P. 
 ### Accelerator Architectures Leveraging Emerging Technologies
 #### MINOTAUR
 #### EMBER
-The Efficient Multiple-Bits-per-cell Embedded Resistive RAM (EMBER) macro is a highly configurable non-volatile memory macro capable of up to 4 bits per cell storage with low-power read/write operation at 100 MHz. The block is fully embedded (including decoding, ADCs, DACs, voltage generation, etc.) and has a dedicated digital controller to enable tradeoffs to be made between the number of bits per cell and the bit error rate. EMBER will enable larger on-chip storage for embedded devices, which is critical for reducing the memory bottleneck involved with off-chip memories.
+The Efficient Multiple-Bits-per-cell Embedded Resistive RAM (EMBER) macro is a highly configurable non-volatile memory macro capable of up to 4 bits per cell storage with low-power read/write operation at 100 MHz. The block is fully embedded (including decoding, ADCs, DACs, voltage generation, etc.) and has a dedicated digital controller to enable tradeoffs to be made between the number of bits per cell and the bit error rate. EMBER will enable larger on-chip storage for embedded devices, which is critical for combating the "memory wall" associated with off-chip memories.
+
+* * *
+
+### RRAM Relaxation Modeling
+RRAM undergoes a stochastic resistance relaxation effect after programming that can degrade its reliability. We are interested in creating a simple analytical model that can predict the statistical nature of this effect. Specifically, we would like to have a model that can predict the final conductance probability distributions at an arbitrary time, given a set of initial conductance distributions. Such a model would be invaluable for understanding the multiple-bits-per-cell capability of RRAM in several application contexts, ranging from storage to computation inside memory (sometimes referred to as "neuromorphic computing").
 
 * * *
 
