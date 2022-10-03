@@ -88,7 +88,7 @@ Programmable logic architectures such as FPGAs and CGRAs are extensively used in
 
 **Publications:**
 
-**3-D Coarse-Grained Reconfigurable Array Using Multi-Pole NEM Relays for Programmable Routing**
+**3-D Coarse-Grained Reconfigurable Array Using Multi-Pole NEM Relays for Programmable Routing**  
 A. Levy, M. Oduoza, A. Balasingam, R. T. Howe, P. Raina  
 To appear in *Integration, the VLSI Journal*, October 2022.    
 
