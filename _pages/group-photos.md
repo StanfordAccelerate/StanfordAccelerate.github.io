@@ -8,6 +8,10 @@ hide_hero: true
 <table style="width:100%">
   <tbody>
     <tr>
+      <td style="width:50%"><img src="/assets/images/vlsi-2022.jpg" width="800" align="center" style="padding-right: 30px; padding-bottom: 20px;"></td>
+      <td>Group photo from VLSI 2022 in Honolulu, HI, June 15, 2022. From left to right: Kartik Prabhu, Priyanka Raina, Kalhan Koul, and Kathleen Feng</td>
+    </tr>
+    <tr>
       <td style="width:50%"><img src="/assets/images/group_photo_jun_26_2020.png" width="800" align="center" style="padding-right: 30px; padding-bottom: 20px;"></td>
       <td>Group photo from June 26, 2020. From left to right, top to bottom: Julie Kline, Priyanka Raina, Kartik Prabhu, Kathleen Feng, Kalhan Koul, Michael Oduoza, Haitong Li, Hongjie Wang, Isabela David Rodrigues, Charles Tsao, Denisse Ventura, Jackson Melchert, Akash Levy and Weier Wan.</td>
     </tr>
