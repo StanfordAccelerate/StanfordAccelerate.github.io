@@ -62,6 +62,7 @@ X. Yang, M. Gao, Q. Liu, J. Pu, A. Nayak, J. Setter, S. Bell, K. Cao, H. Ha, P. 
 ### Accelerator Architectures Leveraging Emerging Technologies
 #### MINOTAUR
 #### EMBER
+The Efficient Multiple-Bits-per-cell Embedded Resistive RAM (EMBER) macro is a highly configurable non-volatile memory macro capable of up to 4 bits per cell storage with low-power read/write operation at 100 MHz. The block is fully embedded (including decoding, ADCs, DACs, voltage generation, etc.) and has a dedicated digital controller to enable tradeoffs to be made between the number of bits per cell and the bit error rate. EMBER will enable larger on-chip storage for embedded devices, which is critical for reducing the memory bottleneck involved with off-chip memories.
 
 * * *
 
@@ -82,14 +83,18 @@ M. Giordano, K. Prabhu, K. Koul, R. M. Radway, A. Gural, R. Doshi, Z. F. Khan, J
 
 * * *
 
-#### 3D CGRA Architecture with Hybrid RRAM-NEMS-Based Interconnect
-Programmable logic architectures such as FPGAs and CGRAs are extensively used in place of specialized ASICs to accelerate computationally-intensive algorithms. However, when compared with ASICs performing the same function, FPGAs typically have 10-40x lower logic density, 3-4x higher delay, and 5-12x higher dynamic power dissipation. Most of this overhead comes from the configurable interconnect. This work reduces this overhead by using RRAM-based configuration memory that actuates NEMS-based interconnect multiplexers, both of which can be integrated in 3D on top of silicon CMOS logic. This work also enables “normally off, instantly on” operation, which is critical for IoT devices with unreliable power sources. FPGAs need to load their configuration from off-chip memory on startup, which incurs a significant energy cost. This work leverages the non-volatility of RRAM to enable intermittent computing.
+#### 3D CGRA Architecture with NEMS-Based Interconnect
+Programmable logic architectures such as FPGAs and CGRAs are extensively used in place of specialized ASICs to accelerate computationally-intensive algorithms. However, when compared with ASICs performing the same function, FPGAs typically have 10-40x lower logic density, 3-4x higher delay, and 5-12x higher dynamic power dissipation. Most of this overhead comes from the configurable interconnect---this work reduces this overhead by using NEMS-based interconnect multiplexers, which can be integrated in 3D on top of silicon CMOS logic.
 
 **Publications:**
 
+**3-D Coarse-Grained Reconfigurable Array Using Multi-Pole NEM Relays for Programmable Routing**
+A. Levy, M. Oduoza, A. Balasingam, R. T. Howe, P. Raina  
+To appear in *Integration, the VLSI Journal*, October 2022.    
+
 **Efficient Routing for Coarse-Grained Reconfigurable Arrays using Multi-Pole NEM Relays**  
 A. Levy, M. Oduoza, A. Balasingam, R. T. Howe, P. Raina  
-To appear in *IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)*, January 2022.    
+*IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)*, January 2022. [Paper](https://ieeexplore.ieee.org/document/9712515) 
 
 * * *
 
