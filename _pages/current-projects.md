@@ -8,7 +8,7 @@ hide_hero: true
 
 ### Agile Hardware/Software Design Methodology
 
-#### Agile Hardware (AHA!)
+#### Agile Hardware (AHA)
 
 <img src="/assets/images/amber-die-photo.png" width="300" align="left" style="padding-right: 30px; padding-bottom: 20px;">  Although an agile approach is standard for software design, how to properly adapt this method to hardware is still an open question. This work addresses this question while building a system on chip (SoC) with specialized accelerators. Rather than using a traditional waterfall design flow, which starts by studying the application to be accelerated, we begin by constructing a complete flow from an application expressed in a high-level domain-specific language (DSL), in our case Halide, to a generic coarse-grained reconfigurable array (CGRA). As our understanding of the application grows, the CGRA design evolves, and we have developed a suite of tools that tune application code, the compiler, and the CGRA to increase the efficiency of the resulting implementation. To meet our continued need to update parts of the system while maintaining the end-to-end flow, we have created DSL-based hardware generators that not only provide the Verilog needed for the implementation of the CGRA, but also create the collateral that the compiler/mapper/place and route system needs to configure its operation. This work provides a systematic approach for designing and evolving high-performance and energy-efficient hardware-software systems for any application domain
 
@@ -85,6 +85,8 @@ J. Melchert, K. Feng, C. Donovick, R. Daly, C. Barrett, M. Horowitz, P. Hanrahan
 **Kathleen Feng**    
 Extended reality (XR), which includes virtual and augmented reality, has the potential to have a huge impact on computing. While significant progress in the last few years has helped advance XR technology, the gap between the ideal XR system performance and the current state is still large. One of the difficulties of architecting a high-performance and high-quality XR system is the diversity of kernels and algorithms, which include audio processing, image processing, and tracking. To create a low latency, low power, yet high-quality XR experience, we are taking a system-level approach to XR accelerator design and optimizing many kernels together to reduce overhead. We are first focusing on the machine perception stage and processing on-device sensor information.
 
+* * *
+
 #### HLS-Based Framework for Generating Deep Neural Network Accelerators
 **Xuan Yang, Kartik Prabhu**  
 Deep neural networks require custom accelerators in order to run with high performance and energy efficiency. Several DNN accelerators that have been proposed have very similar properties, with some form of a systolic array and a hierarchy of on-chip buffers. However, designing accelerators from scratch is very expensive in terms of time and resources. To get around this, we have created a generator framework using high-level synthesis that can create DNN accelerator designs with different parameters. In addition to this, we have a tool that performs design space exploration and finds the optimal set of parameters such as array and memory sizes in terms of energy and performance. The tool also finds the best scheduling (loop tiling and ordering) of any neural network layer on the accelerator. In other words, the system doesn't just generate the accelerator hardware, but also the compiler for it. We are using this system as a class project in EE272, our chip design bootcamp class.
@@ -101,19 +103,22 @@ X. Yang, M. Gao, Q. Liu, J. Pu, A. Nayak, J. Setter, S. Bell, K. Cao, H. Ha, P. 
 
 ### Accelerator Architectures Leveraging Emerging Technologies
 #### MINOTAUR
+
+* * *
+
 #### EMBER
 The Efficient Multiple-Bits-per-cell Embedded Resistive RAM (EMBER) macro is a highly configurable non-volatile memory macro capable of up to 4 bits per cell storage with low-power read/write operation at 100 MHz. The block is fully embedded (including decoding, ADCs, DACs, voltage generation, etc.) and has a dedicated digital controller to enable tradeoffs to be made between the number of bits per cell and the bit error rate. EMBER will enable larger on-chip storage for embedded devices, which is critical for combating the "memory wall" associated with off-chip memories.
 
 * * *
 
 ### RRAM Relaxation Modeling
-RRAM undergoes a stochastic resistance relaxation effect after programming that can degrade its reliability. We are interested in creating a simple analytical model that can predict the statistical nature of this effect. Specifically, we would like to have a model that can predict the final conductance probability distributions at an arbitrary time, given a set of initial conductance distributions. Such a model would be invaluable for understanding the multiple-bits-per-cell capability of RRAM in several application contexts, ranging from storage to computation inside memory (sometimes referred to as "neuromorphic computing").
+RRAM undergoes a stochastic resistance relaxation effect after programming that can degrade its reliability. We are interested in creating a simple analytical model that can predict the statistical nature of this effect. Specifically, we would like to have a model that can predict the final conductance probability distributions at an arbitrary time, given a set of initial conductance distributions. Such a model would be invaluable for understanding the multiple-bits-per-cell capability of RRAM in several application contexts, ranging from storage to computation inside memory.
 
 * * *
 
 ## Previous Projects
 
-#### Chimera: Compute (Immersed) in Memory with Embedded Resistive Arrays
+#### CHIMERA: Compute (Immersed) in Memory with Embedded Resistive Arrays
 CHIMERA is the first non-volatile deep neural network (DNN) chip for edge AI training and inference using foundry on-chip resistive RAM (RRAM) macros and no off-chip memory. CHIMERA achieves 0.92 TOPS peak performance and 2.2 TOPS/W. We scale inference to 6x larger DNNs by connecting 6 CHIMERAs with just 4% execution time and 5% energy costs, enabled by communication-sparse DNN mappings that exploit RRAM non-volatility through quick chip wakeup/shutdown. We demonstrate the first incremental edge AI training which overcomes RRAM write energy, speed, and endurance challenges. Our training achieves the same accuracy as traditional algorithms with up to 283x fewer RRAM weight update steps and 340x better energy-delay product. We thus demonstrate 10 years of 20 samples/minute incremental edge AI training on CHIMERA.
 
 **Publications:**
