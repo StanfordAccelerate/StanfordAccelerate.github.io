@@ -82,7 +82,7 @@ J. Melchert, K. Feng, C. Donovick, R. Daly, C. Barrett, M. Horowitz, P. Hanrahan
 * * *
 
 #### Systems for Accelerating Virtual and Augmented Reality
-**Kathleen Feng**
+**Kathleen Feng**    
 Extended reality (XR), which includes virtual and augmented reality, has the potential to have a huge impact on computing. While significant progress in the last few years has helped advance XR technology, the gap between the ideal XR system performance and the current state is still large. One of the difficulties of architecting a high-performance and high-quality XR system is the diversity of kernels and algorithms, which include audio processing, image processing, and tracking. To create a low latency, low power, yet high-quality XR experience, we are taking a system-level approach to XR accelerator design and optimizing many kernels together to reduce overhead. We are first focusing on the machine perception stage and processing on-device sensor information.
 
 #### HLS-Based Framework for Generating Deep Neural Network Accelerators
