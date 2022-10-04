@@ -35,7 +35,7 @@ Weier Wan, Rajkumar Kubendran, Clemens Schaefer, Sukru Burc Eryilmaz, Wenqiang Z
 
 **Amber: Coarse-Grained Reconfigurable Array-Based SoC for Dense Linear Algebra Acceleration**    
 Kathleen Feng, Alex Carsello, Taeyoung Kong, Kalhan Koul, Qiaoyi Liu, Jackson Melchert, Gedeon Nyengele, Maxwell Strange, Keyi Zhang, Ankita Nayak, Jeff Setter, James Thomas, Kavya Sreedhar, Po-Han Chen, Nikhil Bhagdikar, Zachary Myers, Brandon D'Agostino, Pranil Joshi, Stephen Richardson, Rick Bahr, Christopher Torng, Mark Horowitz, Priyanka Raina    
-*Hot Chips: A Symposium on High Performance Chips (HotChips)*, August 2022.     
+*Hot Chips: A Symposium on High Performance Chips (HotChips)*, August 2022. [Paper](https://ieeexplore.ieee.org/document/9895616), [Presentation](https://drive.google.com/file/d/1eTfIfUbUkYadmRmuRtVijnKcEoTy_G81/view?usp=sharing)
 
 **Enabling Reusable Physical Design Flows with Modular Flow Generators**  
 Alex Carsello, James Thomas, Ankita Nayak, Po-Han Chen, Mark Horowitz, Priyanka Raina, Christopher Torng  
