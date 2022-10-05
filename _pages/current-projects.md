@@ -12,7 +12,7 @@ hide_hero: true
 
 <img src="/assets/images/amber-die-photo.png" width="300" align="left" style="padding-right: 30px; padding-bottom: 20px;">  Although an agile approach is standard for software design, how to properly adapt this method to hardware is still an open question. This work addresses this question while building a system on chip (SoC) with specialized accelerators. Rather than using a traditional waterfall design flow, which starts by studying the application to be accelerated, we begin by constructing a complete flow from an application expressed in a high-level domain-specific language (DSL), in our case Halide, to a generic coarse-grained reconfigurable array (CGRA). As our understanding of the application grows, the CGRA design evolves, and we have developed a suite of tools that tune application code, the compiler, and the CGRA to increase the efficiency of the resulting implementation. To meet our continued need to update parts of the system while maintaining the end-to-end flow, we have created DSL-based hardware generators that not only provide the Verilog needed for the implementation of the CGRA, but also create the collateral that the compiler/mapper/place and route system needs to configure its operation. This work provides a systematic approach for designing and evolving high-performance and energy-efficient hardware-software systems for any application domain
 
-We used our AHA methodlogy to design Amber, an SoC with a CGRA accelerator targetting dense linear algebra, published at VLSI 2022. Now, students are working on the next chip, Onyx, which improves upon our dense applications and adds support for spare tensor algebra. The Onyx development proceess exercises our AHA methodology in several ways including updating the design using our DSLs, adding new compiler support for sparse applications, and doing large design space explorations. 
+We used our AHA methodology to design Amber, an SoC with a CGRA accelerator targeting dense linear algebra, published at VLSI 2022. Now, students are working on the next chip, Onyx, which improves upon our dense applications and adds support for spare tensor algebra. The Onyx development process exercises our AHA methodology in several ways including updating the design using our DSLs, adding new compiler support for sparse applications, and doing large design space explorations. 
 
 **Code:** [Stanford AHA! Github](https://github.com/StanfordAHA)
 
@@ -33,7 +33,7 @@ Ankita Nayak, Keyi Zhang, Raj Setaluri, Alex Carsello, Makai Mann, Christopher T
 
 **Amber: Coarse-Grained Reconfigurable Array-Based SoC for Dense Linear Algebra Acceleration**    
 Kathleen Feng, Alex Carsello, Taeyoung Kong, Kalhan Koul, Qiaoyi Liu, Jackson Melchert, Gedeon Nyengele, Maxwell Strange, Keyi Zhang, Ankita Nayak, Jeff Setter, James Thomas, Kavya Sreedhar, Po-Han Chen, Nikhil Bhagdikar, Zachary Myers, Brandon D'Agostino, Pranil Joshi, Stephen Richardson, Rick Bahr, Christopher Torng, Mark Horowitz, Priyanka Raina    
-*Hot Chips: A Symposium on High Performance Chips (HotChips)*, August 2022.     
+*Hot Chips: A Symposium on High Performance Chips (HotChips)*, August 2022. [Slides](https://ieeexplore.ieee.org/document/9895616), [Video](https://drive.google.com/file/d/1eTfIfUbUkYadmRmuRtVijnKcEoTy_G81/view?usp=sharing)
 
 **Enabling Reusable Physical Design Flows with Modular Flow Generators**  
 Alex Carsello, James Thomas, Ankita Nayak, Po-Han Chen, Mark Horowitz, Priyanka Raina, Christopher Torng  
