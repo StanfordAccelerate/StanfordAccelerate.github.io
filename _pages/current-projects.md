@@ -87,22 +87,11 @@ Extended reality (XR), which includes virtual and augmented reality, has the pot
 
 * * *
 
-#### HLS-Based Framework for Generating Deep Neural Network Accelerators
-**Xuan Yang, Kartik Prabhu**  
-Deep neural networks require custom accelerators in order to run with high performance and energy efficiency. Several DNN accelerators that have been proposed have very similar properties, with some form of a systolic array and a hierarchy of on-chip buffers. However, designing accelerators from scratch is very expensive in terms of time and resources. To get around this, we have created a generator framework using high-level synthesis that can create DNN accelerator designs with different parameters. In addition to this, we have a tool that performs design space exploration and finds the optimal set of parameters such as array and memory sizes in terms of energy and performance. The tool also finds the best scheduling (loop tiling and ordering) of any neural network layer on the accelerator. In other words, the system doesn't just generate the accelerator hardware, but also the compiler for it. We are using this system as a class project in EE272, our chip design bootcamp class.
-
-**Code:** [Accelerator Generator](https://github.com/priyanka-raina/dnn-accelerator), [Compiler](https://github.com/xuanyoya/CNN-blocking/tree/dev)
-
-**Publications:**
-
-**Using Halide’s Scheduling Language to Analyze DNN Accelerators**  
-X. Yang, M. Gao, Q. Liu, J. Pu, A. Nayak, J. Setter, S. Bell, K. Cao, H. Ha, P. Raina, C. Kozyrakis, M. Horowitz  
-*International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, March 2020. [Paper](https://dl.acm.org/doi/10.1145/3373376.3378514), [Video](https://youtu.be/vy3s6VZr8TQ), [Abstract](https://asplos.hosting2.acm.org/wp/wp-content/uploads/2020/abstracts/paper_4_0.html)
-
-* * *
-
 ### Accelerator Architectures Leveraging Emerging Technologies
 #### MINOTAUR
+
+Transformer neural networks achieve state-of-the-art accuracy on both vision and NLP tasks, but are challenging to run in an edge environment. Existing approaches to accelerating transformers face power, area, and battery life challenges, further complicated by the need to perform on-device training to achieve peak accuracy. MINOTAUR uses non-volatile Resistive RAM (RRAM) in order to achieve high performance and low energy inference and training of Transformer networks, and targets a 1-year lifetime on a coin cell battery.
+
 
 * * *
 
@@ -119,13 +108,19 @@ RRAM undergoes a stochastic resistance relaxation effect after programming that 
 ## Previous Projects
 
 #### CHIMERA: Compute (Immersed) in Memory with Embedded Resistive Arrays
+<img src="/assets/images/chimera-die-photo.png" width="300" align="left" style="padding-right: 30px; padding-bottom: 20px;">
 CHIMERA is the first non-volatile deep neural network (DNN) chip for edge AI training and inference using foundry on-chip resistive RAM (RRAM) macros and no off-chip memory. CHIMERA achieves 0.92 TOPS peak performance and 2.2 TOPS/W. We scale inference to 6x larger DNNs by connecting 6 CHIMERAs with just 4% execution time and 5% energy costs, enabled by communication-sparse DNN mappings that exploit RRAM non-volatility through quick chip wakeup/shutdown. We demonstrate the first incremental edge AI training which overcomes RRAM write energy, speed, and endurance challenges. Our training achieves the same accuracy as traditional algorithms with up to 283x fewer RRAM weight update steps and 340x better energy-delay product. We thus demonstrate 10 years of 20 samples/minute incremental edge AI training on CHIMERA.
+
 
 **Publications:**
 
 **CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2 MByte On-Chip Foundry Resistive RAM for Efficient Training and Inference**  
+Kartik Prabhu, Albert Gural, Zainab F. Khan, Robert M. Radway, Massimo Giordano, Kalhan Koul, Rohan Doshi, John W. Kustin, Timothy Liu, Gregorio B. Lopes, Victor Turbiner, Win-San Khwa, Yu-Der Chih, Meng-Fan Chang, Guenole Lallement, Boris Murmann, Subhasish Mitra, Priyanka Raina   
+*Journal of Solid-State Circuits (JSSC)*, January 2022. [Paper](https://ieeexplore.ieee.org/document/9690772)    
+
+**CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2 MByte On-Chip Foundry Resistive RAM for Efficient Training and Inference**  
 M. Giordano, K. Prabhu, K. Koul, R. M. Radway, A. Gural, R. Doshi, Z. F. Khan, J. W. Kustin, T. Liu, G. B. Lopes, V. Turbiner, W.-S. Khwa, Y.-D. Chih, M.-F. Chang, G. Lallement, B. Murmann, S. Mitra, P. Raina  
-*Symposium on VLSI Circuits (VLSI)*, June 2021. [Paper](https://ieeexplore.ieee.org/abstract/document/9492347) 
+*Symposium on VLSI Circuits (VLSI)*, June 2021. [Paper](https://ieeexplore.ieee.org/abstract/document/9492347) **(Best Student Paper Award)**  
 
 **In the News:**
 
@@ -190,6 +185,20 @@ W. Wan, R. Kubendran, C. Schaefer, S. B. Eryilmaz, W. Zhang, D. Wu, S. Deiss, P.
 * Stanford engineers present new chip that ramps up AI computing efficiency. ([Stanford News](https://news.stanford.edu/2022/08/18/new-chip-ramps-ai-computing-efficiency/))
 * New neuromorphic chip for AI on the edge, at a small fraction of the energy and size of today's computing platforms. ([Tech Xplore](https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.html))
 * A New Neuromorphic Chip for AI on the Edge, at a Small Fraction of the Energy and Size. ([UC San Diego News Center](https://ucsdnews.ucsd.edu/pressrelease/Nature_bioengineering_2022#:~:text=The%20NeuRRAM%20chip%20is%20the,by%20UC%20San%20Diego%20engineers.))
+
+* * *
+
+#### HLS-Based Framework for Generating Deep Neural Network Accelerators
+**Xuan Yang, Kartik Prabhu**  
+Deep neural networks require custom accelerators in order to run with high performance and energy efficiency. Several DNN accelerators that have been proposed have very similar properties, with some form of a systolic array and a hierarchy of on-chip buffers. However, designing accelerators from scratch is very expensive in terms of time and resources. To get around this, we have created a generator framework using high-level synthesis that can create DNN accelerator designs with different parameters. In addition to this, we have a tool that performs design space exploration and finds the optimal set of parameters such as array and memory sizes in terms of energy and performance. The tool also finds the best scheduling (loop tiling and ordering) of any neural network layer on the accelerator. In other words, the system doesn't just generate the accelerator hardware, but also the compiler for it. We are using this system as a class project in EE272, our chip design bootcamp class.
+
+**Code:** [Accelerator Generator](https://github.com/priyanka-raina/dnn-accelerator), [Compiler](https://github.com/xuanyoya/CNN-blocking/tree/dev)
+
+**Publications:**
+
+**Using Halide’s Scheduling Language to Analyze DNN Accelerators**  
+X. Yang, M. Gao, Q. Liu, J. Pu, A. Nayak, J. Setter, S. Bell, K. Cao, H. Ha, P. Raina, C. Kozyrakis, M. Horowitz  
+*International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, March 2020. [Paper](https://dl.acm.org/doi/10.1145/3373376.3378514), [Video](https://youtu.be/vy3s6VZr8TQ), [Abstract](https://asplos.hosting2.acm.org/wp/wp-content/uploads/2020/abstracts/paper_4_0.html)
 
 * * *
 
