@@ -86,6 +86,13 @@ Stanford accelerate group works on creating high performance and energy-efficien
 <table style="width:100%">
   <tbody>
     <tr>
+      <td style="width:18%"><img src="/assets/images/brianna.jpeg" width="250" align="left"></td>
+      <td>
+        <b>Brianna McColm</b><br> 
+        <b>Email:</b> bmccolm AT stanford DOT edu<br>
+      </td>
+    </tr>
+    <tr>
       <td style="width:18%"><img src="/assets/images/john.jpeg" width="250" align="left"></td>
       <td>
         <b>John Espera</b><br> 
