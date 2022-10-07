@@ -95,7 +95,6 @@ Stanford accelerate group works on creating high performance and energy-efficien
       </td>
     </tr>
     <tr>
-    <tr>
       <td style="width:18%"><img src="/assets/images/brianna.jpeg" width="250" align="left"></td>
       <td>
         <b>Brianna McColm</b><br> 
