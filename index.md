@@ -82,15 +82,17 @@ Stanford accelerate group works on creating high performance and energy-efficien
   </tbody>
 </table>    
 
-## Undergraduate Students
+## Masters Students
 <table style="width:100%">
   <tbody>
     <tr>
-      <td style="width:18%"><img src="/assets/images/akhilesh.jpg" width="250" align="left"></td>
+      <td style="width:18%"><img src="/assets/images/john.jpg" width="250" align="left"></td>
       <td>
-        <b>Akhilesh Balasingam</b><br> 
-        <b>Email:</b> avb03 AT stanford DOT edu<br>
-        <b>About:</b> I am a high school senior, gaining experience doing university-level research under the mentorship of Akash Levy. I am working on RRAM modeling, neuromorphic architectures, and nanoelectromechanical (NEM) relays. My hobbies include hiking, squash, and playing the mridangam.<br>           </td>
+        <b>John Espera</b><br> 
+        <b>Email:</b> jespera AT stanford DOT edu<br>
+        <b>About:</b> John Espera is an EE M.S. student at Stanford University. He received a B.Eng. in Electronic Engineering from the University of Warwick in 2021.<br>           
+        <b>Research:</b> His research involves developing new applications to map onto reconfigurable logic devices (CGRAs) using the Halide language.
+      </td>
     </tr>
   </tbody>
 </table>
