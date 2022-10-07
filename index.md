@@ -85,6 +85,16 @@ Stanford accelerate group works on creating high performance and energy-efficien
 ## Masters Students
 <table style="width:100%">
   <tbody>
+     <tr>
+      <td style="width:18%"><img src="/assets/images/jeffrey.jpg" width="250" align="left"></td>
+      <td>
+        <b>Jeffrey Yu</b><br> 
+        <b>Email:</b> jeffreyy AT stanford DOT edu<br>
+        <b>About:</b> Jeffrey is an EE Master student at Stanford University working in Prof. Priyanka Raina’s research group. He received his B.S. degree in Computer Engineering from UC San Diego in 2021.<br>
+        <b>Research:</b> My research focuses on efficient DNN inference and training using quantization and new number systems. I also work on the mapping DNN operations to the accelerator and verification of RTL and SoC.<br>
+      </td>
+    </tr>
+    <tr>
     <tr>
       <td style="width:18%"><img src="/assets/images/brianna.jpeg" width="250" align="left"></td>
       <td>
