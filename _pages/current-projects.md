@@ -67,8 +67,6 @@ Q. Liu, D. Huff, J. Setter, M. Strange, K. Feng, K. Sreedhar, Z. Wang, K. Zhang,
 A. Nayak, K. Zhang, R. Setaluri, A. Carsello, M. Mann, S. Richardson, R. Bahr, P. Hanrahan, M. Horowitz, P. Raina  
 *Design, Automation and Test in Europe Conference (DATE)*, March 2020. **([Best Paper Award Nominee](https://www.date-conference.com))** [Paper](https://ieeexplore.ieee.org/document/9116477/authors#authors)
 
-* * *
-
 #### Design Space Exploration of CGRA Processing Elements using Peak DSL
 **Jackson Melchert, Kathleen Feng**  
 Modern AI applications, that typically use neural networks (NNs), have a very diverse set layers and connections. Many networks combine traditional image and video processing operators with convolutional (CONV) and fully-connected (FC) layers to achieve state of the art accuracies. Existing NN accelerators have limited configurability and are optimized to only run CONV and FC layers, and cannot support this growing space of hybrid applications. Coarse-grained reconfigurable arrays (CGRAs) offer an excellent alternative for accelerating these applications. However, coming up with an optimal CGRA design requires a large amount of manual effort. This work creates a framework for automatic design space exploration of processing elements (PEs) in CGRAs. To find interesting PEs, we feed a dataflow graph representation of the application into a frequent subgraph mining algorithm. We then use subgraph merging techniques to allow for the acceleration of multiple subgraphs from the same application or different applications. By tuning which subgraphs are merged, we can explore the design space between more specialized and more general CGRA PEs. Finally, we leverage [PEak DSL](https://github.com/cdonovick/peak) to generate the PE hardware and a set of rewrite rules that map operators in the dataflow IR to the hardware PEs. This allows the AHA! compiler toolchain to map applications to a CGRA with these new PEs and evaluate efficiency.
@@ -78,6 +76,16 @@ Modern AI applications, that typically use neural networks (NNs), have a very di
 **Automated Design Space Exploration of CGRA Processing Element Architectures using Frequent Subgraph Analysis**  
 J. Melchert, K. Feng, C. Donovick, R. Daly, C. Barrett, M. Horowitz, P. Hanrahan, P. Raina  
 *arXiv*, April 2021. [Paper](https://arxiv.org/abs/2104.14155)
+
+#### Verified Agile Hardware
+**Jackson Melchert, Caleb Terrill**  
+In the agile hardware flow, we have created a meta-compiler that enables the automated compilation, mapping, place-and-route, and bitstream generation of Halide applications on whatever CGRA is being generated. This is critical to achieve hardware-compiler codesign. While the current AHA flow can generate a programmable hardware accelerator and its compiler with low design effort, we want to be able to ensure that the application behavior is preserved as it goes through the various stages of the compiler. Specifically, we want to implement formal equivalence checking to show that mapping, place and route, pipelining, and bitstream generation preserve the formal behavior of the application.
+
+This work builds on a software compiler validation technique called translation validation, where transformations in a compiler can be formally proven to not modify the application behavior. These techniques rely on the ability to formal represent and symbolically simulate the program pre- and post-transformation. In our approach, we leverage Satisfiability Modulo Theories (SMT) solvers and the formal representations of our domain specific languages to automatically generate the collateral needed for translation validation. This project will enable us to have confidence that our compiler system does not change the behavior of the applications running on the CGRA.
+
+#### CGRA Application Pipelining
+**Jackson Melchert, Yuchen Mei**  
+The clock frequency of applications running on our CGRA designs directly impacts the performance and energy-delay product (EDP) of the accelerator. The maximum frequency of an application depends not only on the maximum frequency of the accelerator, but also on the length of the longest combinational path within the application. This project aims to develop automated tools to identify the critical path within applications, and pipelining techniques to dramatically improve the maximum frequency of applications running on the CGRA. In this project we use several techniques, including pipelining compute units, inserting pipelining registers into the mapped applications, implementing hardware optimizations, modifying application place-and-route algorithms, and inserting registers post-place-and-route. 
 
 * * *
 
