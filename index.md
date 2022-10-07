@@ -95,6 +95,15 @@ Stanford accelerate group works on creating high performance and energy-efficien
       </td>
     </tr>
     <tr>
+      <td style="width:18%"><img src="/assets/images/yuchen.jpg" width="250" align="left"></td>
+      <td>
+        <b>Yuchen Mei</b><br> 
+        <b>Email:</b> yuchenm AT stanford DOT edu, <a href="https://www.linkedin.com/in/yuchen-mei98/">Webpage</a><br>
+        <b>About:</b> Yuchen Mei is an EE M.S. student at Stanford University supervised by Prof. Priyanka Raina. He received a B.S. degree in Electronic Information Science and Technology from Nanjing University (China) in 2021. Before joining Stanford, he was a research assistant at Nanjing University where he worked on 3D-CNN optimization and hardware security.<br>
+        <b>Research:</b> Currently, my research focuses on how to improve the frequency of image processing and machine learning applications running on CGRAs. I am involved in the development of software pipelining techniques and the design space exploration of the CGRA array and interconnection system. I am generally interested in chip design, domain-specific accelerators, and design automation.           
+      </td>
+    </tr>
+    <tr>
       <td style="width:18%"><img src="/assets/images/brianna.jpeg" width="250" align="left"></td>
       <td>
         <b>Brianna McColm</b><br> 
