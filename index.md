@@ -86,7 +86,7 @@ Stanford accelerate group works on creating high performance and energy-efficien
 <table style="width:100%">
   <tbody>
     <tr>
-      <td style="width:18%"><img src="/assets/images/john.jpg" width="250" align="left"></td>
+      <td style="width:18%"><img src="/assets/images/john.jpeg" width="250" align="left"></td>
       <td>
         <b>John Espera</b><br> 
         <b>Email:</b> jespera AT stanford DOT edu<br>
