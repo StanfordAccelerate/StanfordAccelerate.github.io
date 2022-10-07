@@ -90,6 +90,8 @@ Stanford accelerate group works on creating high performance and energy-efficien
       <td>
         <b>Brianna McColm</b><br> 
         <b>Email:</b> bmccolm AT stanford DOT edu<br>
+        <b>About:</b> Brianna McColm is an M.S. EE student at Stanford University. She received her B.S. in Electrical Engineering from UCLA in 2022. Previously, she was a Firmware Engineering Intern for Qualcomm and an RF/uW Engineering Intern for Keysight Technologies.<br>
+        <b>Research:</b> Brianna is interested in hardware accelerators and how bridging the hardware-software gap can boost system performance.<br>
       </td>
     </tr>
     <tr>
