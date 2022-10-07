@@ -85,14 +85,6 @@ J. Melchert, K. Feng, C. Donovick, R. Daly, C. Barrett, M. Horowitz, P. Hanrahan
 **Kathleen Feng**    
 Extended reality (XR), which includes virtual and augmented reality, has the potential to have a huge impact on computing. While significant progress in the last few years has helped advance XR technology, the gap between the ideal XR system performance and the current state is still large. One of the difficulties of architecting a high-performance and high-quality XR system is the diversity of kernels and algorithms, which include audio processing, image processing, and tracking. To create a low latency, low power, yet high-quality XR experience, we are taking a system-level approach to XR accelerator design and optimizing many kernels together to reduce overhead. We are first focusing on the machine perception stage and processing on-device sensor information.
 
-* * *
-
-#### HLS-Based Framework for Generating Deep Neural Network Accelerators
-**Xuan Yang, Kartik Prabhu**  
-Deep neural networks require custom accelerators in order to run with high performance and energy efficiency. Several DNN accelerators that have been proposed have very similar properties, with some form of a systolic array and a hierarchy of on-chip buffers. However, designing accelerators from scratch is very expensive in terms of time and resources. To get around this, we have created a generator framework using high-level synthesis that can create DNN accelerator designs with different parameters. In addition to this, we have a tool that performs design space exploration and finds the optimal set of parameters such as array and memory sizes in terms of energy and performance. The tool also finds the best scheduling (loop tiling and ordering) of any neural network layer on the accelerator. In other words, the system doesn't just generate the accelerator hardware, but also the compiler for it. We are using this system as a class project in EE272, our chip design bootcamp class.
-
-**Code:** [Accelerator Generator](https://github.com/priyanka-raina/dnn-accelerator), [Compiler](https://github.com/xuanyoya/CNN-blocking/tree/dev)
-
 **Publications:**
 
 **Using Halide’s Scheduling Language to Analyze DNN Accelerators**  
@@ -130,6 +122,14 @@ M. Giordano, K. Prabhu, K. Koul, R. M. Radway, A. Gural, R. Doshi, Z. F. Khan, J
 **In the News:**
 
 * New ‘AI-at-the-edge’ smartphone chip lives, and learns, close to home. ([Stanford Engineering](https://engineering.stanford.edu/magazine/article/new-ai-edge-smartphone-chip-lives-and-learns-close-home))
+
+* * *
+
+#### HLS-Based Framework for Generating Deep Neural Network Accelerators
+**Xuan Yang, Kartik Prabhu**  
+Deep neural networks require custom accelerators in order to run with high performance and energy efficiency. Several DNN accelerators that have been proposed have very similar properties, with some form of a systolic array and a hierarchy of on-chip buffers. However, designing accelerators from scratch is very expensive in terms of time and resources. To get around this, we have created a generator framework using high-level synthesis that can create DNN accelerator designs with different parameters. In addition to this, we have a tool that performs design space exploration and finds the optimal set of parameters such as array and memory sizes in terms of energy and performance. The tool also finds the best scheduling (loop tiling and ordering) of any neural network layer on the accelerator. In other words, the system doesn't just generate the accelerator hardware, but also the compiler for it. We are using this system as a class project in EE272, our chip design bootcamp class.
+
+**Code:** [Accelerator Generator](https://github.com/priyanka-raina/dnn-accelerator), [Compiler](https://github.com/xuanyoya/CNN-blocking/tree/dev)
 
 * * *
 
