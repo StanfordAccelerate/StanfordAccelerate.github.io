@@ -95,6 +95,24 @@ Stanford accelerate group works on creating high performance and energy-efficien
       </td>
     </tr>
     <tr>
+      <td style="width:18%"><img src="/assets/images/xingyu.jpeg" width="250" align="left"></td>
+      <td>
+        <b>Xingyu Ni</b><br> 
+        <b>Email:</b> xingyuni AT stanford DOT edu<br>
+        <b>About:</b> Xingyu Ni is an EE M.S. student at Stanford University. She received a B.S. degree in Electrical Engineering from Tianjin University in 2021.<br>
+        <b>Research:</b> My current research focuses on FPGA implementation of AR/VR applications.<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="width:18%"><img src="/assets/images/peggy.jpeg" width="250" align="left"></td>
+      <td>
+        <b>Peggy Lin</b><br> 
+        <b>Email:</b> peggylin AT stanford DOT edu<br>
+        <b>About:</b> Peggy is an EE M.S. student at Stanford University. She received her B.S. in Electrical Engineering from the National Taiwan University (Taiwan) in 2022.<br>
+        <b>Research:</b> Her research focuses on the memory tile of CGRAs. She is interested in design exploration of CGRAs to create high-performance, energy-efficient, and flexible hardware.<br>
+      </td>
+    </tr>
+    <tr>
       <td style="width:18%"><img src="/assets/images/john.jpeg" width="250" align="left"></td>
       <td>
         <b>John Espera</b><br> 
