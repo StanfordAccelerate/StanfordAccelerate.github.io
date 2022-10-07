@@ -66,7 +66,7 @@ Stanford accelerate group works on creating high performance and energy-efficien
       <td>
         <b>Kartik Prabhu</b><br> 
         <b>Email:</b> kprabhu7 AT stanford DOT edu, <a href="https://linkedin.com/in/kprabhu7/">Webpage</a><br>
-        <b>About:</b> Kartik Prabhu is an EE Ph.D. student at Stanford University supervised by Prof. Priyanka Raina. He receive an M.S. degree in Electrical Engineering at Stanford University in 2021 and a B.S. degree in Computer Engineering from Georgia Institute of Technology in 2018.<br>
+        <b>About:</b> Kartik Prabhu is an EE Ph.D. student at Stanford University supervised by Prof. Priyanka Raina. He receive an M.S. degree in Electrical Engineering from Stanford University in 2021 and a B.S. degree in Computer Engineering from Georgia Institute of Technology in 2018.<br>
         <b>Research:</b> His research focuses on building energy-efficient machine learning accelerators. In particular, he is looking at leveraging emerging memory technologies, such as resistive RAM (RRAM), to solve the challenges of machine learning inference and training at the edge.    
       </td>
     </tr>
