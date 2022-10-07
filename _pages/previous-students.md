@@ -14,6 +14,7 @@ hide_hero: true
 - Swathi Vish Iyer (Academic year research in 2019)
 
 ## Undergraduate and Coterm Students
+- Akhilesh Varadan Balasingam (REU 2022)
 - Xiaoyang Ma (UGVR 2021)
 - Michael Oduoza (Academic year research in 2020 and 2021, Graduated in 2022)
 - Charles Tsao (REU 2019, REU 2020, Graduated in 2022)

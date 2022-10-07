@@ -12,11 +12,14 @@ Q. Liu, D. Huff, J. Setter, M. Strange, K. Feng, K. Sreedhar, Z. Wang, K. Zhang,
 *arXiv*, May 2021. [Paper](https://arxiv.org/abs/2105.12858)
 
 ## Publications    
+
+**3-D Coarse-Grained Reconfigurable Array Using Multi-Pole NEM Relays for Programmable Routing**  
+Akash Levy, Michael Oduoza, Akhilesh Balasingam, Roger T. Howe, Priyanka Raina  
+To appear in *Integration, the VLSI Journal*, October 2022.  
  
 **Canal: A Flexible Interconnect Generator for Coarse-Grained Reconfigurable Arrays**    
 Jackson Melchert, Keyi Zhang, Yuchen Mei, Mark Horowitz, Christopher Torng, Priyanka Raina    
-To appear in *Workshop on Democratizing Domain-Specific Accelerators (WDDSA) at MICRO*, October 2022.    
-2022)
+To appear in *Workshop on Democratizing Domain-Specific Accelerators (WDDSA) at MICRO*, October 2022.   
 
 **Synthesizing Instruction Selection Rewrite Rules from RTL using SMT**    
 Ross Daly, Caleb Donovick, Jack Melchert, Raj Setaluri, Nestan Tsiskaridze, Priyanka Raina, Clark Barrett, Pat Hanrahan    
@@ -32,7 +35,7 @@ Weier Wan, Rajkumar Kubendran, Clemens Schaefer, Sukru Burc Eryilmaz, Wenqiang Z
 
 **Amber: Coarse-Grained Reconfigurable Array-Based SoC for Dense Linear Algebra Acceleration**    
 Kathleen Feng, Alex Carsello, Taeyoung Kong, Kalhan Koul, Qiaoyi Liu, Jackson Melchert, Gedeon Nyengele, Maxwell Strange, Keyi Zhang, Ankita Nayak, Jeff Setter, James Thomas, Kavya Sreedhar, Po-Han Chen, Nikhil Bhagdikar, Zachary Myers, Brandon D'Agostino, Pranil Joshi, Stephen Richardson, Rick Bahr, Christopher Torng, Mark Horowitz, Priyanka Raina    
-*Hot Chips: A Symposium on High Performance Chips (HotChips)*, August 2022.     
+*Hot Chips: A Symposium on High Performance Chips (HotChips)*, August 2022. [Slides](https://ieeexplore.ieee.org/document/9895616), [Video](https://drive.google.com/file/d/1eTfIfUbUkYadmRmuRtVijnKcEoTy_G81/view?usp=sharing)
 
 **Enabling Reusable Physical Design Flows with Modular Flow Generators**  
 Alex Carsello, James Thomas, Ankita Nayak, Po-Han Chen, Mark Horowitz, Priyanka Raina, Christopher Torng  

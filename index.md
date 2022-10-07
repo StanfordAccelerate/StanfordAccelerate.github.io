@@ -38,9 +38,9 @@ Stanford accelerate group works on creating high performance and energy-efficien
       <td style="width:18%"><img src="/assets/images/kathleen.jpg" width="250" align="left"></td>
       <td>
         <b>Kathleen Feng</b><br> 
-        <b>Email:</b> kzf AT stanford DOT edu<br>
+        <b>Email:</b> kzf AT stanford DOT edu, <a href="https://http://stanford.edu/~kzf/">Webpage</a><br>
         <b>About:</b> Kathleen Feng is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. She received a B.S.E. degree in Electrical Engineering from Princeton University in 2018, with certificates in Applications of Computing and Robotics and Intelligent Systems. She is a recipient of the NDSEG Fellowship.<br>
-        <b>Research:</b> Her research focuses on accelerating deep image processing pipelines (ISPs) on reconfigurable hardware. Deep ISPs combine low-level image processing techniques with high-level image classification, allowing for a more robust process. More generally, she is interested in designing and developing new computer architectures for computer graphics, vision, and related applications.
+        <b>Research:</b> Her research focuses on domain-specific hardware architectures and hardware-software co-design. She has worked on coarse-grained reconfigurable arrays for application acceleration and systems for running extended reality applications. Kathleen is interested in designing and developing new computer architectures for emerging applications.
       </td>
     </tr>
     <tr>
@@ -82,11 +82,11 @@ Stanford accelerate group works on creating high performance and energy-efficien
   </tbody>
 </table>    
 
-## Master's Students
+## Masters Students
 <table style="width:100%">
   <tbody>
     <tr>
-      <td style="width:18%"><img src="/assets/images/brianna.jpg" width="250" align="left"></td>
+      <td style="width:18%"><img src="/assets/images/brianna.jpeg" width="250" align="left"></td>
       <td>
         <b>Brianna McColm</b><br> 
         <b>Email:</b> bmccolm AT stanford DOT edu<br>
@@ -94,18 +94,14 @@ Stanford accelerate group works on creating high performance and energy-efficien
         <b>Research:</b> Brianna is interested in hardware accelerators and how bridging the hardware-software gap can boost system performance.<br>
       </td>
     </tr>
-  </tbody>
-</table>
-
-## Undergraduate Students
-<table style="width:100%">
-  <tbody>
     <tr>
-      <td style="width:18%"><img src="/assets/images/akhilesh.jpg" width="250" align="left"></td>
+      <td style="width:18%"><img src="/assets/images/john.jpeg" width="250" align="left"></td>
       <td>
-        <b>Akhilesh Balasingam</b><br> 
-        <b>Email:</b> avb03 AT stanford DOT edu<br>
-        <b>About:</b> I am a high school senior, gaining experience doing university-level research under the mentorship of Akash Levy. I am working on RRAM modeling, neuromorphic architectures, and nanoelectromechanical (NEM) relays. My hobbies include hiking, squash, and playing the mridangam.<br>           </td>
+        <b>John Espera</b><br> 
+        <b>Email:</b> jespera AT stanford DOT edu<br>
+        <b>About:</b> John Espera is an EE M.S. student at Stanford University. He received a B.Eng. in Electronic Engineering from the University of Warwick in 2021.<br>           
+        <b>Research:</b> His research involves developing new applications to map onto reconfigurable logic devices (CGRAs) using the Halide language.
+      </td>
     </tr>
   </tbody>
 </table>
