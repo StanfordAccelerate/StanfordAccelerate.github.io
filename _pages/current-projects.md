@@ -110,12 +110,14 @@ Transformer neural networks achieve state-of-the-art accuracy on both vision and
 
 #### EMBER    
 **Luke Upton, Akash Levy**    
+<img src="/assets/images/EMBER_V1_transparent_5x.png" width="300" align="left" style="padding-right: 30px; padding-bottom: 20px;">
 The Efficient Multiple-Bits-per-cell Embedded Resistive RAM (EMBER) macro is a highly configurable non-volatile memory macro capable of up to 4 bits per cell storage with low-power read/write operation at 100 MHz. The block is fully embedded (including decoding, ADCs, DACs, voltage generation, etc.) and has a dedicated digital controller to enable tradeoffs to be made between the number of bits per cell and the bit error rate. EMBER will enable larger on-chip storage for embedded devices, which is critical for combating the "memory wall" associated with off-chip memories.
 
 * * *
 
 #### RRAM Relaxation Modeling    
 **Akash Levy**    
+<img src="/assets/images/model.png" width="300" align="left" style="padding-right: 30px; padding-bottom: 20px;">
 RRAM undergoes a stochastic resistance relaxation effect after programming that can degrade its reliability. We are interested in creating a simple analytical model that can predict the statistical nature of this effect. Specifically, we would like to have a model that can predict the final conductance probability distributions at an arbitrary time, given a set of initial conductance distributions. Such a model would be invaluable for understanding the multiple-bits-per-cell capability of RRAM in several application contexts, ranging from storage to computation inside memory.
 
 * * *
