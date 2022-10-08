@@ -122,7 +122,7 @@ RRAM undergoes a stochastic resistance relaxation effect after programming that 
 
 ## Previous Projects
 
-#### CHIMERA: Compute (Immersed) in Memory with Embedded Resistive Arrays
+### CHIMERA: Compute (Immersed) in Memory with Embedded Resistive Arrays
 <img src="/assets/images/chimera-die-photo.png" width="300" align="left" style="padding-right: 30px; padding-bottom: 20px;">
 CHIMERA is the first non-volatile deep neural network (DNN) chip for edge AI training and inference using foundry on-chip resistive RAM (RRAM) macros and no off-chip memory. CHIMERA achieves 0.92 TOPS peak performance and 2.2 TOPS/W. We scale inference to 6x larger DNNs by connecting 6 CHIMERAs with just 4% execution time and 5% energy costs, enabled by communication-sparse DNN mappings that exploit RRAM non-volatility through quick chip wakeup/shutdown. We demonstrate the first incremental edge AI training which overcomes RRAM write energy, speed, and endurance challenges. Our training achieves the same accuracy as traditional algorithms with up to 283x fewer RRAM weight update steps and 340x better energy-delay product. We thus demonstrate 10 years of 20 samples/minute incremental edge AI training on CHIMERA.    
 
@@ -143,7 +143,7 @@ M. Giordano, K. Prabhu, K. Koul, R. M. Radway, A. Gural, R. Doshi, Z. F. Khan, J
 
 * * *
 
-#### 3D CGRA Architecture with NEMS-Based Interconnect
+### 3D CGRA Architecture with NEMS-Based Interconnect
 Programmable logic architectures such as FPGAs and CGRAs are extensively used in place of specialized ASICs to accelerate computationally-intensive algorithms. However, when compared with ASICs performing the same function, FPGAs typically have 10-40x lower logic density, 3-4x higher delay, and 5-12x higher dynamic power dissipation. Most of this overhead comes from the configurable interconnect---this work reduces this overhead by using NEMS-based interconnect multiplexers, which can be integrated in 3D on top of silicon CMOS logic.
 
 **Publications:**
@@ -158,7 +158,7 @@ A. Levy, M. Oduoza, A. Balasingam, R. T. Howe, P. Raina
 
 * * *
 
-#### One-Shot Learning using RRAM-Based Associative Memory 
+### SAPIENS: One-Shot Learning using RRAM-Based Associative Memory 
 Real-time learning from a few examples (one/few-shot learning) is a key challenge for machine learning systems today. When never-seen-before data is encountered, conventional parametric models like DNNs need to re-learn their parameters via gradient-based learning, often requiring huge amount of data coupled with slow learning iterations. Non-parametric models (like nearest neighbours) do not require any training, but have lower accuracy. Recent research has combined the two to create "memory-augmented" neural networks (MANNs) that can rapidly learn new examples while still performing well on common examples. MANNs consist of a frontend, which is a traditional CNN or RNN, that extracts features from new classes, and a backend associative memory that stores a hashed version of these features. During learning, new features are stored in the memory, and during inference, the feature computed on input data is compared with all the features stored in the memory, and the closest match determines the classification result. This work implements an associative memory with an RRAM-based content addressable memory for area-efficient feature storage and fast feature matching. 
 
 **Publications:**
@@ -173,7 +173,7 @@ H. Li, W.-C. Chen, A. Levy, C.-H. Wang, H. Wang, P. Chen, W. Wan, W.-S. Khwa, H.
 
 * * *
 
-#### A Compute-in-Memory Chip Based on Resistive Random-Access Memory    
+### NeuRRAM: A Compute-in-Memory Chip Based on Resistive Random-Access Memory    
 <img src="/assets/images/UCSD-JacobsSchool-20220815-Cauwenberghs-NeuRRam-00600-e-8MP-555x370.webp" width="300" align="left" style="padding-right: 30px; padding-bottom: 20px;">
 Realizing increasingly complex artificial intelligence (AI) functionalities directly on edge devices calls for unprecedented energy efficiency of edge hardware. Compute-in-memory (CIM) based on resistive random-access memory (RRAM) promises to meet such demand by storing AI model weights in dense, analogue and non-volatile RRAM devices, and by performing AI computation directly within RRAM, thus eliminating power-hungry data movement between separate compute and memory units. Although recent studies have demonstrated in-memory matrix-vector multiplication on fully integrated RRAM-CIM hardware, it remains a goal for an RRAM-CIM chip to simultaneously deliver high energy efficiency, versatility to support diverse models and software-comparable accuracy. This work is an RRAM-based CIM chip that simultaneously delivers versatility in reconfiguring CIM cores for diverse model architectures, energy efficiency that is two-times better than previous state-of-the-art RRAM-CIM chips across various computational bit-precisions, and inference accuracy comparable to software models quantized to four-bit weights across various AI tasks. (Image credit: David Baillot/University of California San Diego.)
 
@@ -203,7 +203,7 @@ W. Wan, R. Kubendran, C. Schaefer, S. B. Eryilmaz, W. Zhang, D. Wu, S. Deiss, P.
 
 * * *
 
-#### HLS-Based Framework for Generating Deep Neural Network Accelerators
+### Interstellar: An HLS-Based Framework for Generating and Compiling to Deep Neural Network Accelerators
 **Xuan Yang, Kartik Prabhu**  
 Deep neural networks require custom accelerators in order to run with high performance and energy efficiency. Several DNN accelerators that have been proposed have very similar properties, with some form of a systolic array and a hierarchy of on-chip buffers. However, designing accelerators from scratch is very expensive in terms of time and resources. To get around this, we have created a generator framework using high-level synthesis that can create DNN accelerator designs with different parameters. In addition to this, we have a tool that performs design space exploration and finds the optimal set of parameters such as array and memory sizes in terms of energy and performance. The tool also finds the best scheduling (loop tiling and ordering) of any neural network layer on the accelerator. In other words, the system doesn't just generate the accelerator hardware, but also the compiler for it. We are using this system as a class project in EE272, our chip design bootcamp class.
 
@@ -214,6 +214,21 @@ Deep neural networks require custom accelerators in order to run with high perfo
 **Using Halide’s Scheduling Language to Analyze DNN Accelerators**  
 X. Yang, M. Gao, Q. Liu, J. Pu, A. Nayak, J. Setter, S. Bell, K. Cao, H. Ha, P. Raina, C. Kozyrakis, M. Horowitz  
 *International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, March 2020. [Paper](https://dl.acm.org/doi/10.1145/3373376.3378514), [Video](https://youtu.be/vy3s6VZr8TQ), [Abstract](https://asplos.hosting2.acm.org/wp/wp-content/uploads/2020/abstracts/paper_4_0.html)
+
+* * *
+
+### Timeloop: A Systematic Approach to DNN Accelerator Evaluation
+
+Timeloop is an infrastructure for evaluating and exploring the architecture design space of deep neural network (DNN) accelerators. Timeloop uses a concise and unified representation of the key architecture and implementation attributes of DNN accelerators to describe a broad space of hardware topologies. It can then emulate those topologies to generate an accurate projection of performance and energy efficiency for a DNN workload through a mapper that finds the best way to schedule operations and stage data on the specified architecture. This enables fair comparisons across different architectures and makes DNN accelerator design more systematic. 
+
+**Publications:**
+
+**Timeloop: A Systematic Approach to DNN Accelerator Evaluation**  
+A. Parashar, P. Raina, S. Shao, A. Mukkara, V. A. Ying, R. Venkatesan, Y. H. Chen, B. Khailany, S. Keckler, J. Emer  
+*International Symposium on Performance Analysis of Systems and Software (ISPASS)*, March 2019. [Paper](https://ieeexplore.ieee.org/document/8695666)
+
+**Code:**  
+[https://github.com/NVlabs/timeloop](https://github.com/NVlabs/timeloop)
 
 * * *
 
@@ -253,20 +268,6 @@ B. Zimmer, R. Venkatesan, Y. S. Shao, J. Clemons, M. Fojtik, N. Jiang, B. Keller
 M. Low, V. Huang, P. Raina  
 *IEEE International Symposium on Biomedical Imaging (ISBI)*, April 2020. [Paper](https://ieeexplore.ieee.org/abstract/document/9098682)
 
-* * *
-
-### Timeloop: A Systematic Approach to DNN Accelerator Evaluation
-
-Timeloop is an infrastructure for evaluating and exploring the architecture design space of deep neural network (DNN) accelerators. Timeloop uses a concise and unified representation of the key architecture and implementation attributes of DNN accelerators to describe a broad space of hardware topologies. It can then emulate those topologies to generate an accurate projection of performance and energy efficiency for a DNN workload through a mapper that finds the best way to schedule operations and stage data on the specified architecture. This enables fair comparisons across different architectures and makes DNN accelerator design more systematic. 
-
-**Publications:**
-
-**Timeloop: A Systematic Approach to DNN Accelerator Evaluation**  
-A. Parashar, P. Raina, S. Shao, A. Mukkara, V. A. Ying, R. Venkatesan, Y. H. Chen, B. Khailany, S. Keckler, J. Emer  
-*International Symposium on Performance Analysis of Systems and Software (ISPASS)*, March 2019. [Paper](https://ieeexplore.ieee.org/document/8695666)
-
-**Code:**  
-[https://github.com/NVlabs/timeloop](https://github.com/NVlabs/timeloop)
 
 * * * 
 
