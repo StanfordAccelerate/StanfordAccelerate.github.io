@@ -159,6 +159,7 @@ A. Levy, M. Oduoza, A. Balasingam, R. T. Howe, P. Raina
 * * *
 
 ### SAPIENS: One-Shot Learning using RRAM-Based Associative Memory 
+<img src="/assets/images/tcam.png" width="300" align="left" style="padding-right: 30px; padding-bottom: 20px;">
 Real-time learning from a few examples (one/few-shot learning) is a key challenge for machine learning systems today. When never-seen-before data is encountered, conventional parametric models like DNNs need to re-learn their parameters via gradient-based learning, often requiring huge amount of data coupled with slow learning iterations. Non-parametric models (like nearest neighbours) do not require any training, but have lower accuracy. Recent research has combined the two to create "memory-augmented" neural networks (MANNs) that can rapidly learn new examples while still performing well on common examples. MANNs consist of a frontend, which is a traditional CNN or RNN, that extracts features from new classes, and a backend associative memory that stores a hashed version of these features. During learning, new features are stored in the memory, and during inference, the feature computed on input data is compared with all the features stored in the memory, and the closest match determines the classification result. This work implements an associative memory with an RRAM-based content addressable memory for area-efficient feature storage and fast feature matching. 
 
 **Publications:**
