@@ -67,6 +67,8 @@ Q. Liu, D. Huff, J. Setter, M. Strange, K. Feng, K. Sreedhar, Z. Wang, K. Zhang,
 A. Nayak, K. Zhang, R. Setaluri, A. Carsello, M. Mann, S. Richardson, R. Bahr, P. Hanrahan, M. Horowitz, P. Raina  
 *Design, Automation and Test in Europe Conference (DATE)*, March 2020. **([Best Paper Award Nominee](https://www.date-conference.com))** [Paper](https://ieeexplore.ieee.org/document/9116477/authors#authors)
 
+* * *
+
 #### Design Space Exploration of CGRA Processing Elements using Peak DSL
 **Jackson Melchert, Kathleen Feng**  
 Modern AI applications, that typically use neural networks (NNs), have a very diverse set layers and connections. Many networks combine traditional image and video processing operators with convolutional (CONV) and fully-connected (FC) layers to achieve state of the art accuracies. Existing NN accelerators have limited configurability and are optimized to only run CONV and FC layers, and cannot support this growing space of hybrid applications. Coarse-grained reconfigurable arrays (CGRAs) offer an excellent alternative for accelerating these applications. However, coming up with an optimal CGRA design requires a large amount of manual effort. This work creates a framework for automatic design space exploration of processing elements (PEs) in CGRAs. To find interesting PEs, we feed a dataflow graph representation of the application into a frequent subgraph mining algorithm. We then use subgraph merging techniques to allow for the acceleration of multiple subgraphs from the same application or different applications. By tuning which subgraphs are merged, we can explore the design space between more specialized and more general CGRA PEs. Finally, we leverage [PEak DSL](https://github.com/cdonovick/peak) to generate the PE hardware and a set of rewrite rules that map operators in the dataflow IR to the hardware PEs. This allows the AHA! compiler toolchain to map applications to a CGRA with these new PEs and evaluate efficiency.
@@ -77,11 +79,15 @@ Modern AI applications, that typically use neural networks (NNs), have a very di
 J. Melchert, K. Feng, C. Donovick, R. Daly, C. Barrett, M. Horowitz, P. Hanrahan, P. Raina  
 *arXiv*, April 2021. [Paper](https://arxiv.org/abs/2104.14155)
 
+* * *
+
 #### Verified Agile Hardware
 **Jackson Melchert, Caleb Terrill**  
 In the agile hardware flow, we have created a meta-compiler that enables the automated compilation, mapping, place-and-route, and bitstream generation of Halide applications on whatever CGRA is being generated. This is critical to achieve hardware-compiler codesign. While the current AHA flow can generate a programmable hardware accelerator and its compiler with low design effort, we want to be able to ensure that the application behavior is preserved as it goes through the various stages of the compiler. Specifically, we want to implement formal equivalence checking to show that mapping, place and route, pipelining, and bitstream generation preserve the formal behavior of the application.
 
 This work builds on a software compiler validation technique called translation validation, where transformations in a compiler can be formally proven to not modify the application behavior. These techniques rely on the ability to formal represent and symbolically simulate the program pre- and post-transformation. In our approach, we leverage Satisfiability Modulo Theories (SMT) solvers and the formal representations of our domain specific languages to automatically generate the collateral needed for translation validation. This project will enable us to have confidence that our compiler system does not change the behavior of the applications running on the CGRA.
+
+* * *
 
 #### CGRA Application Pipelining
 **Jackson Melchert, Yuchen Mei**  
@@ -96,19 +102,20 @@ Extended reality (XR), which includes virtual and augmented reality, has the pot
 * * *
 
 ### Accelerator Architectures Leveraging Emerging Technologies
-#### MINOTAUR
-
+#### MINOTAUR    
+**Kartik Prabhu, Jeffrey Yu**    
 Transformer neural networks achieve state-of-the-art accuracy on both vision and NLP tasks, but are challenging to run in an edge environment. Existing approaches to accelerating transformers face power, area, and battery life challenges, further complicated by the need to perform on-device training to achieve peak accuracy. MINOTAUR uses non-volatile Resistive RAM (RRAM) in order to achieve high performance and low energy inference and training of Transformer networks, and targets a 1-year lifetime on a coin cell battery.
-
 
 * * *
 
-#### EMBER
+#### EMBER    
+**Luke Upton, Akash Levy**    
 The Efficient Multiple-Bits-per-cell Embedded Resistive RAM (EMBER) macro is a highly configurable non-volatile memory macro capable of up to 4 bits per cell storage with low-power read/write operation at 100 MHz. The block is fully embedded (including decoding, ADCs, DACs, voltage generation, etc.) and has a dedicated digital controller to enable tradeoffs to be made between the number of bits per cell and the bit error rate. EMBER will enable larger on-chip storage for embedded devices, which is critical for combating the "memory wall" associated with off-chip memories.
 
 * * *
 
-### RRAM Relaxation Modeling
+#### RRAM Relaxation Modeling    
+**Akash Levy**    
 RRAM undergoes a stochastic resistance relaxation effect after programming that can degrade its reliability. We are interested in creating a simple analytical model that can predict the statistical nature of this effect. Specifically, we would like to have a model that can predict the final conductance probability distributions at an arbitrary time, given a set of initial conductance distributions. Such a model would be invaluable for understanding the multiple-bits-per-cell capability of RRAM in several application contexts, ranging from storage to computation inside memory.
 
 * * *
@@ -117,7 +124,7 @@ RRAM undergoes a stochastic resistance relaxation effect after programming that 
 
 #### CHIMERA: Compute (Immersed) in Memory with Embedded Resistive Arrays
 <img src="/assets/images/chimera-die-photo.png" width="300" align="left" style="padding-right: 30px; padding-bottom: 20px;">
-CHIMERA is the first non-volatile deep neural network (DNN) chip for edge AI training and inference using foundry on-chip resistive RAM (RRAM) macros and no off-chip memory. CHIMERA achieves 0.92 TOPS peak performance and 2.2 TOPS/W. We scale inference to 6x larger DNNs by connecting 6 CHIMERAs with just 4% execution time and 5% energy costs, enabled by communication-sparse DNN mappings that exploit RRAM non-volatility through quick chip wakeup/shutdown. We demonstrate the first incremental edge AI training which overcomes RRAM write energy, speed, and endurance challenges. Our training achieves the same accuracy as traditional algorithms with up to 283x fewer RRAM weight update steps and 340x better energy-delay product. We thus demonstrate 10 years of 20 samples/minute incremental edge AI training on CHIMERA.
+CHIMERA is the first non-volatile deep neural network (DNN) chip for edge AI training and inference using foundry on-chip resistive RAM (RRAM) macros and no off-chip memory. CHIMERA achieves 0.92 TOPS peak performance and 2.2 TOPS/W. We scale inference to 6x larger DNNs by connecting 6 CHIMERAs with just 4% execution time and 5% energy costs, enabled by communication-sparse DNN mappings that exploit RRAM non-volatility through quick chip wakeup/shutdown. We demonstrate the first incremental edge AI training which overcomes RRAM write energy, speed, and endurance challenges. Our training achieves the same accuracy as traditional algorithms with up to 283x fewer RRAM weight update steps and 340x better energy-delay product. We thus demonstrate 10 years of 20 samples/minute incremental edge AI training on CHIMERA.    
 
 
 **Publications:**
