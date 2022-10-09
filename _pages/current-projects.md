@@ -109,7 +109,7 @@ Transformer neural networks achieve state-of-the-art accuracy on both vision and
 * * *
 
 #### EMBER    
-<img src="/assets/images/EMBER_V1_transparent_5x.png" width="300" align="left" style="padding-right: 30px; padding-bottom: 20px;">
+<img src="/assets/images/EMBER_V1_transparent_5x.png" width="180" align="left" style="padding-right: 30px; padding-bottom: 20px;">
 
 **Luke Upton, Akash Levy**    
 
