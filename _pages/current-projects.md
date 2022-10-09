@@ -117,7 +117,7 @@ The Efficient Multiple-Bits-per-cell Embedded Resistive RAM (EMBER) macro is a h
 
 #### RRAM Relaxation Modeling    
 **Akash Levy**    
-<img src="/assets/images/model.pdf" width="300" align="left" style="padding-right: 30px; padding-bottom: 20px;">
+<img src="/assets/images/model.png" width="300" align="left" style="padding-right: 30px; padding-bottom: 20px;">
 RRAM undergoes a stochastic resistance relaxation effect after programming that can degrade its reliability. We are interested in creating a simple analytical model that can predict the statistical nature of this effect. Specifically, we would like to have a model that can predict the final conductance probability distributions at an arbitrary time, given a set of initial conductance distributions. Such a model would be invaluable for understanding the multiple-bits-per-cell capability of RRAM in several application contexts, ranging from storage to computation inside memory.
 
 * * *
