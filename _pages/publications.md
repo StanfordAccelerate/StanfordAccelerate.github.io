@@ -16,14 +16,18 @@ Q. Liu, D. Huff, J. Setter, M. Strange, K. Feng, K. Sreedhar, Z. Wang, K. Zhang,
 **3-D Coarse-Grained Reconfigurable Array Using Multi-Pole NEM Relays for Programmable Routing**  
 Akash Levy, Michael Oduoza, Akhilesh Balasingam, Roger T. Howe, Priyanka Raina  
 To appear in *Integration, the VLSI Journal*, October 2022.  
- 
-**Canal: A Flexible Interconnect Generator for Coarse-Grained Reconfigurable Arrays**    
-Jackson Melchert, Keyi Zhang, Yuchen Mei, Mark Horowitz, Christopher Torng, Priyanka Raina    
-To appear in *Workshop on Democratizing Domain-Specific Accelerators (WDDSA) at MICRO*, October 2022.   
 
 **Synthesizing Instruction Selection Rewrite Rules from RTL using SMT**    
 Ross Daly, Caleb Donovick, Jack Melchert, Raj Setaluri, Nestan Tsiskaridze, Priyanka Raina, Clark Barrett, Pat Hanrahan    
 To appear in *Formal Methods in Computer-Aided Design (FMCAD)*, October 2022.   
+
+**Canal: A Flexible Interconnect Generator for Coarse-Grained Reconfigurable Arrays**    
+Jackson Melchert, Keyi Zhang, Yuchen Mei, Mark Horowitz, Christopher Torng, Priyanka Raina    
+*Workshop on Democratizing Domain-Specific Accelerators (WDDSA) at MICRO*, October 2022.   
+
+**Hardware Abstractions and Hardware Mechanisms to Support Multi-Task Execution on Coarse-Grained Reconfigurable Arrays**    
+Taeyoung Kong, Kalhan Koul, Priyanka Raina, Mark A Horowitz, Christopher Torng     
+*Workshop on Democratizing Domain-Specific Accelerators (WDDSA) at MICRO*, October 2022.    
 
 **Improving Energy Efficiency of CGRAs with Low-Overhead Fine-Grained Power Domains**    
 Ankita Nayak, Keyi Zhang, Raj Setaluri, Alex Carsello, Makai Mann, Christopher Torng, Stephen Richardson, Rick Bahr, Pat Hanrahan, Mark Horowitz, Priyanka Raina    
