@@ -5,13 +5,10 @@ title: Publications
 hide_hero: true
 ---
 
-## Preprints     
-
-**Compiling Halide Programs to Push-Memory Accelerators**  
-Q. Liu, D. Huff, J. Setter, M. Strange, K. Feng, K. Sreedhar, Z. Wang, K. Zhang, M. Horowitz, P. Raina, F. Kjolstad  
-*arXiv*, May 2021. [Paper](https://arxiv.org/abs/2105.12858)
-
 ## Publications    
+**Unified Buffer: Compiling Halide Programs to Push-Memory Accelerators**  
+Jeff Setter, Qiaoyi Liu, Dillon Huff, Maxwell Strange, Kathleen Feng, Mark Horowitz, Priyanka Raina, Fredrik Kjolstad    
+To appear in *ACM Transactions on Architecture and Code Optimization (TACO)*, November 2022. [arXiv](https://arxiv.org/abs/2105.12858)
 
 **3-D Coarse-Grained Reconfigurable Array Using Multi-Pole NEM Relays for Programmable Routing**  
 Akash Levy, Michael Oduoza, Akhilesh Balasingam, Roger T. Howe, Priyanka Raina  
@@ -19,7 +16,7 @@ To appear in *Integration, the VLSI Journal*, October 2022.
 
 **Synthesizing Instruction Selection Rewrite Rules from RTL using SMT**    
 Ross Daly, Caleb Donovick, Jack Melchert, Raj Setaluri, Nestan Tsiskaridze, Priyanka Raina, Clark Barrett, Pat Hanrahan    
-To appear in *Formal Methods in Computer-Aided Design (FMCAD)*, October 2022.   
+*Formal Methods in Computer-Aided Design (FMCAD)*, October 2022.   
 
 **Canal: A Flexible Interconnect Generator for Coarse-Grained Reconfigurable Arrays**    
 Jackson Melchert, Keyi Zhang, Yuchen Mei, Mark Horowitz, Christopher Torng, Priyanka Raina    
