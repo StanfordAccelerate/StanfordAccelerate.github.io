@@ -16,7 +16,7 @@ To appear in *Integration, the VLSI Journal*, October 2022.
 
 **Synthesizing Instruction Selection Rewrite Rules from RTL using SMT**    
 Ross Daly, Caleb Donovick, Jack Melchert, Raj Setaluri, Nestan Tsiskaridze, Priyanka Raina, Clark Barrett, Pat Hanrahan    
-*Formal Methods in Computer-Aided Design (FMCAD)*, October 2022.   
+*Formal Methods in Computer-Aided Design (FMCAD)*, October 2022. [Paper](https://repositum.tuwien.at/handle/20.500.12708/81336)   
 
 **Canal: A Flexible Interconnect Generator for Coarse-Grained Reconfigurable Arrays**    
 Jackson Melchert, Keyi Zhang, Yuchen Mei, Mark Horowitz, Christopher Torng, Priyanka Raina    
