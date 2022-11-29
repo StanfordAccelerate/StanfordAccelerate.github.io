@@ -6,13 +6,18 @@ hide_hero: true
 ---
 
 ## Publications    
-**Unified Buffer: Compiling Halide Programs to Push-Memory Accelerators**  
-Jeff Setter, Qiaoyi Liu, Dillon Huff, Maxwell Strange, Kathleen Feng, Mark Horowitz, Priyanka Raina, Fredrik Kjolstad    
-To appear in *ACM Transactions on Architecture and Code Optimization (TACO)*, November 2022. [arXiv](https://arxiv.org/abs/2105.12858)
+
+**Ultra-Dense 3D Physical Design Enables New Architectural Design Points with Large Benefits**    
+Tathagata Srimani, Robert M. Radway, Jinwoo Kim, Kartik Prabhu, Dennis Rich, Carlo Gilardi, Priyanka Raina, Max M. Shulaker, Sung-Kyu Lim, Subhasish Mitra    
+To appear in *Conference & Exhibition on Design, Automation & Test in Europe (DATE)*, April 2023.    
 
 **3-D Coarse-Grained Reconfigurable Array Using Multi-Pole NEM Relays for Programmable Routing**  
 Akash Levy, Michael Oduoza, Akhilesh Balasingam, Roger T. Howe, Priyanka Raina  
-To appear in *Integration, the VLSI Journal*, October 2022.  
+*Integration, the VLSI Journal*, January 2023. [Paper](https://doi.org/10.1016/j.vlsi.2022.10.001)  
+
+**Unified Buffer: Compiling Halide Programs to Push-Memory Accelerators**  
+Jeff Setter, Qiaoyi Liu, Dillon Huff, Maxwell Strange, Kathleen Feng, Mark Horowitz, Priyanka Raina, Fredrik Kjolstad    
+*ACM Transactions on Architecture and Code Optimization (TACO)*, November 2022. [Paper](https://doi.org/10.1145/3572908)
 
 **Synthesizing Instruction Selection Rewrite Rules from RTL using SMT**    
 Ross Daly, Caleb Donovick, Jack Melchert, Raj Setaluri, Nestan Tsiskaridze, Priyanka Raina, Clark Barrett, Pat Hanrahan    
