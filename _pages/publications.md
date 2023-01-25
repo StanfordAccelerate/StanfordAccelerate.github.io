@@ -7,9 +7,17 @@ hide_hero: true
 
 ## Publications    
 
+**An Open-Source 4x8 Coarse-Grained Reconfigurable Array Using SkyWater 130 nm Technology and Agile Hardware Design Flow**    
+Po-Han Chen, Charles Tsao, Priyanka Raina   
+To appear in *IEEE International Symposium on Circuits and Systems (ISCAS)*, May 2023.    
+
 **Ultra-Dense 3D Physical Design Enables New Architectural Design Points with Large Benefits**    
 Tathagata Srimani, Robert M. Radway, Jinwoo Kim, Kartik Prabhu, Dennis Rich, Carlo Gilardi, Priyanka Raina, Max M. Shulaker, Sung-Kyu Lim, Subhasish Mitra    
 To appear in *Conference & Exhibition on Design, Automation & Test in Europe (DATE)*, April 2023.    
+
+**APEX: A Framework for Automated Processing Element Design Space Exploration using Frequent Subgraph Analysis**     
+Jackson Melchert, Kathleen Feng, Caleb Donovick, Ross Daly, Ritvik Sharma, Clark Barrett, Mark Horowitz, Pat Hanrahan, Priyanka Raina   
+To appear in *International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, March 2023.    
 
 **3-D Coarse-Grained Reconfigurable Array Using Multi-Pole NEM Relays for Programmable Routing**  
 Akash Levy, Michael Oduoza, Akhilesh Balasingam, Roger T. Howe, Priyanka Raina  
