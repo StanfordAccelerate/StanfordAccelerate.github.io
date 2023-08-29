@@ -6,9 +6,17 @@ hide_hero: true
 ---
 
 ## Publications    
+**PBA: Percentile-Based Level Allocation for Multiple-Bits-Per-Cell RRAM**    
+Anjiang Wei, Akash Levy, Pu Yi, Robert Radway, Priyanka Raina, Subhasish Mitra, Sara Achour    
+*IEEE/ACM International Conference On Computer Aided Design (ICCAD)*, October 2023.    
+
 **EMBER: A 100 MHz, 0.86 mm2, Multiple-Bits-per-Cell RRAM Macro in 40 nm CMOS with Compact Peripherals and 1.0 pJ/bit Read Circuitry**    
 Luke R. Upton, Akash Levy, Michael D. Scott, Dennis Rich, Win-San Khwa, Yu-Der Chih, Meng-Fan Chang, Subhasish Mitra, Priyanka Raina, Boris Murmann    
 *IEEE European Solid-State Circuits Conference (ESSCIRC)*, September 2023.
+
+**Amber: A 16nm System-on-Chip with a Coarse-Grained Reconfigurable Array for Flexible Acceleration of Dense Linear Algebra**  
+Kathleen Feng, Taeyoung Kong, Kalhan Koul, Jackson Melchert, Alex Carsello, Qiaoyi Liu, Gedeon Nyengele, Maxwell Strange, Keyi Zhang, Ankita Nayak, Jeff Setter, James Thomas, Kavya Sreedhar, Po-Han Chen, Nikhil Bhagdikar, Zachary Myers, Brandon D'Agostino, Pranil Joshi, Stephen Richardson, Christopher Torng, Mark Horowitz, Priyanka Raina    
+*IEEE Journal of Solid-State Circuits (JSSC)*, August 2023.
 
 **PEak: A Single Source of Truth for Hardware Design and Verification**     
 Caleb Donovick, Ross Daly, Jackson Melchert, Lenny Truong, Priyanka Raina, Pat Hanrahan, Clark Barrett    
@@ -194,7 +202,20 @@ Rahul Rithe, Priyanka Raina, Nathan Ickes, Srikanth V. Tenneti, Anantha P. Chand
 Rahul Rithe, Priyanka Raina, Nathan Ickes, Srikanth V. Tenneti, Anantha P. Chandrakasan  
 *IEEE International Solid-State Circuits Conference (ISSCC)*, February 2013. [Paper](https://doi.org/10.1109/ISSCC.2013.6487683), [Demo](http://player.vimeo.com/video/70417371)
 
+## Preprints    
+**PEak: A Single Source of Truth for Hardware Design and Verification**     
+Caleb Donovick, Ross Daly, Jackson Melchert, Lenny Truong, Priyanka Raina, Pat Hanrahan, Clark Barrett   
+*arXiv*, August 2023. [Paper](https://doi.org/10.48550/arXiv.2308.13106)
+
 ## Poster Presentations
+**APEX: A Framework for Automated Processing Element Design Space Exploration using Frequent Subgraph Analysis**     
+Jackson Melchert, Kathleen Feng, Caleb Donovick, Ross Daly, Ritvik Sharma, Clark Barrett, Mark Horowitz, Pat Hanrahan, Priyanka Raina   
+*TECHCON*, September 2023.    
+
+**Cascade: An Application Pipelining Toolkit for Coarse-Grained Reconfigurable Arrays**    
+Jackson Melchert, Yuchen Mei, Qiaoyi Liu, Kalhan Koul, Mark Horowitz, Priyanka Raina    
+*ACM/IEEE Design Automation Conference (DAC)*, July 2023.  
+
 **Amber: a 441.2 GOPS/W 16nm Coarse Grained Reconfigurable Array-Based SoC Accelerator for Image Processing and Computer Vision**    
 Kathleen Feng, Alex Carsello, Taeyoung Kong, Kalhan Koul, Gedeon Nyengele, Maxwell Strange, Keyi Zhang, Ankita Nayak, Jeff Setter, Qiaoyi Liu, James Thomas, Po-Han Chen, Jackson Melchert, Zachary Myers, Stephen Richardson, Rick Bahr, Christopher Torng, Mark Horowitz, Priyanka Raina    
 *International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP)*, February 2022. (**2022 ISSCC Student Research Preview Poster Award**)    
