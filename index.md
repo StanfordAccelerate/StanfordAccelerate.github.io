@@ -139,6 +139,15 @@ Stanford accelerate group works on creating high performance and energy-efficien
         <b>Research:</b> His research involves developing new applications to map onto reconfigurable logic devices (CGRAs) using the Halide language.
       </td>
     </tr>
+    <tr>
+      <td style="width:18%"><img src="/assets/images/caleb.jpeg" width="250" align="left"></td>
+      <td>
+        <b>Caleb Terrill</b><br> 
+        <b>Email:</b> cterrill AT stanford DOT edu<br>
+        <b>About:</b> Caleb is an EE M.S. student at Stanford. He received his B.S. in Computer Engineering from UCLA in 2022. Previously, he has interned as an FPGA designer at Jane Street and as an IP designer at Apple and Intel.<br>           
+        <b>Research:</b> His research relates to the generation and verification of the compiler for CGRA programs. In the fall of 2022, he utilized SMT-based tools to verify the functionality of pipelined compute mappings to CGRA processing elements (PEs). This year, he focuses on improving rewrite rule synthesis to enable many-to-many rewrite rules.
+      </td>
+    </tr>
   </tbody>
 </table>
 
