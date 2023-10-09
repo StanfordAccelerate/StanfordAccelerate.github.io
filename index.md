@@ -140,7 +140,7 @@ Stanford accelerate group works on creating high performance and energy-efficien
       </td>
     </tr>
     <tr>
-      <td style="width:18%"><img src="/assets/images/caleb.jpeg" width="250" align="left"></td>
+      <td style="width:18%"><img src="/assets/images/caleb.jpg" width="250" align="left"></td>
       <td>
         <b>Caleb Terrill</b><br> 
         <b>Email:</b> cterrill AT stanford DOT edu<br>
