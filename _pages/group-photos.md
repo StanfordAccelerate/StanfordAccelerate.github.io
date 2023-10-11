@@ -8,7 +8,7 @@ hide_hero: true
 <table style="width:100%">
   <tbody>
     <tr>
-      <td style="width:50%"><img src="/assets/images/group_photo_jun_3_2023.jpg" width="800" align="center" style="padding-right: 30px; padding-bottom: 20px;"></td>
+      <td style="width:50%"><img src="/assets/images/group_photo_oct_8_2023.jpg" width="800" align="center" style="padding-right: 30px; padding-bottom: 20px;"></td>
       <td>Group photo from Alpine Inn on October 8, 2023. From left to right: Jackson Melchert, Kalhan Koul, Kathleen Feng, Kai Bartolone, Bo Wun Cheng, Jeffery Yu, Po-Han Chen, Kartik Prabhu, Michael Oduoza, Yuchen Mei, Priyanka Raina, and Calib Terrill.</td>
     </tr>
     <tr>
