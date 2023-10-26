@@ -79,6 +79,15 @@ Stanford accelerate group works on creating high performance and energy-efficien
         <b>Research:</b> I am generally interested in designing hardware accelerators. Most of my previous works were related to computational photography algorithms such as digital refocusing. Currently, I am focusing on analyzing and designing architecture of CGRAs to create high-performance, energy-efficient, and reconfigurable computing platforms. 
       </td>
     </tr>
+    <tr>
+      <td style="width:18%"><img src="assets/images/michael.jpg" width="250" align="left"></td>
+      <td>
+        <b>Michael Oduoza</b><br> 
+        <b>Email:</b> mcoduoza AT stanford DOT edu, <a href="https://linkedin.com/in/michael-oduoza/">Webpage</a><br>
+        <b>About:</b> Michael Oduoza is an EE Ph.D. student at Stanford University supervised by Prof. Priyanka Raina. He received his B.S. and M.S. degrees in Electrical Engineering from Stanford in 2021 and 2022 respectively.  <br>
+        <b>Research:</b> His research focuses on hardware/software co-design to create energy-efficient computing systems. He is broadly interested in designing new computer architectures for emerging machine learning applications. His pre-Ph.D. research spanned a range of topics, from semiconductor devices to circuits to systems.  
+      </td>
+    </tr>
   </tbody>
 </table>    
 
