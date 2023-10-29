@@ -79,6 +79,15 @@ Stanford accelerate group works on creating high performance and energy-efficien
         <b>Research:</b> I am generally interested in designing hardware accelerators. Most of my previous works were related to computational photography algorithms such as digital refocusing. Currently, I am focusing on analyzing and designing architecture of CGRAs to create high-performance, energy-efficient, and reconfigurable computing platforms. 
       </td>
     </tr>
+    <tr>
+      <td style="width:18%"><img src="assets/images/pohan.jpg" width="250" align="left"></td>
+      <td>
+        <b>Bo-Wun Chen</b><br> 
+        <b>Email:</b> bwcheng AT stanford DOT edu, <a href="https://linkedin.com/in/bo-wun-cheng/">Webpage</a><br>
+        <b>About:</b> Bo-Wun Cheng is an EE Ph.D. student at Stanford University supervised by Prof. Priyanka Raina. He received his M.S. and M.S. degrees in Computer Science from National Tsing Hua University (Taiwan) in 2021 and 2023, respectively.<br>
+        <b>Research:</b> His current research interest resides in designing and architecting efficient hardware accelerators. Before joining Stanford, his research spans the fields of Graphics Processing Unit memory architecture design and computer vision.
+      </td>
+    </tr>
   </tbody>
 </table>    
 
