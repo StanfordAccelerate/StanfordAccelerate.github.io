@@ -6,6 +6,10 @@ hide_hero: true
 ---
 
 ## Publications    
+**FastPASE: An AI-Driven Fast PPA Speculation Engine for RTL Design Space Optimization**    
+Akash Levy, Joe Walston, Priyanka Raina, Stelios Diamantidis    
+*International Symposium on Quality Electronic Design (ISQED)*, April 2024.
+
 **PBA: Percentile-Based Level Allocation for Multiple-Bits-Per-Cell RRAM**    
 Anjiang Wei, Akash Levy, Pu Yi, Robert Radway, Priyanka Raina, Subhasish Mitra, Sara Achour    
 *IEEE/ACM International Conference On Computer Aided Design (ICCAD)*, October 2023.    
