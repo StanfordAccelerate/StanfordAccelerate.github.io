@@ -26,10 +26,6 @@ Jeffrey Yu, Kartik Prabhu, Yonatan Urman, Robert M. Radway, Eric Han, Priyanka R
 Jackson Melchert, Yuchen Mei, Kalhan Koul, Qiaoyi Liu, Mark Horowitz, Priyanka Raina    
 *Languages, Tools, and Techniques for Accelerator Design (LATTE) Workshop at the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, April 2024.    
 
-**A High-Level Synthesis Based Framework for Design Space Exploration and Generation of Neural Network Accelerators**    
-Kartik Prabhu, Priyanka Raina    
-*EMC2: Energy Efficient Machine Learning & Cognitive Computing Workshop at the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, April 2024. 
-
 **FastPASE: An AI-Driven Fast PPA Speculation Engine for RTL Design Space Optimization**    
 Akash Levy, Joe Walston, Priyanka Raina, Stelios Diamantidis    
 *International Symposium on Quality Electronic Design (ISQED)*, April 2024.
