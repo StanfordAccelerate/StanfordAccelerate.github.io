@@ -6,6 +6,10 @@ hide_hero: true
 ---
 
 ## Publications    
+**Cascade: An Application Pipelining Toolkit for Coarse-Grained Reconfigurable Arrays**    
+Jackson Melchert, Yuchen Mei, Kalhan Koul, Qiaoyi Liu, Mark Horowitz, Priyanka Raina    
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2024.    
+
 **MINOTAUR: An Edge Transformer Inference and Training Accelerator with 12 MBytes On-Chip Resistive RAM and Fine-Grained Spatiotemporal Power Gating**    
 Kartik Prabhu, Robert M. Radway, Jeffrey Yu, Kai Bartolone, Massimo Giordano, Fabian Peddinghaus, Yonatan Urman, Win-San Khwa, Yu-Der Chih, Meng-Fan Chang, Subhasish Mitra, Priyanka Raina    
 *IEEE Symposium on VLSI Technology & Circuits (VLSI)*, June 2024.    
