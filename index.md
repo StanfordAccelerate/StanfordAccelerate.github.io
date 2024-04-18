@@ -80,6 +80,24 @@ Stanford accelerate group works on creating high performance and energy-efficien
       </td>
     </tr>
     <tr>
+      <td style="width:18%"><img src="/assets/images/jeffrey.jpg" width="250" align="left"></td>
+      <td>
+        <b>Jeffrey Yu</b><br> 
+        <b>Email:</b> jeffreyy AT stanford DOT edu<br>
+        <b>About:</b> Jeffrey is an EE Ph.D. student at Stanford University supervised by Prof. Priyanka Raina. He received his B.S. degree in Computer Engineering from UC San Diego in 2021.<br>
+        <b>Research:</b> His research focuses on edge device training, efficient ML algorithms, and deep neural network quantization. In particular, he is working on low-precision multi-modal AI and building an hardware accelerator for mix-reality workloads.<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="width:18%"><img src="/assets/images/yuchen.jpg" width="250" align="left"></td>
+      <td>
+        <b>Yuchen Mei</b><br> 
+        <b>Email:</b> yuchenm AT stanford DOT edu, <a href="https://www.linkedin.com/in/yuchen-mei98/">Webpage</a><br>
+        <b>About:</b> Yuchen Mei is an EE Ph.D. student at Stanford University supervised by Prof. Priyanka Raina. He received his B.S. degree in Electronic Information Science and Technology from Nanjing University (China) in 2021 and M.S. in Electrical Engineering from Stanford University in 2023.<br>
+        <b>Research:</b> His current research focuses on application mapping and optimization for domain-specific accelerators, with a particular interest in auto-scheduling for compute-intensive applications, such as image processing and deep learning. Before joining Stanford, he worked on 3D-CNN optimization and hardware security.
+      </td>
+    </tr>
+    <tr>
       <td style="width:18%"><img src="assets/images/bowun.jpg" width="250" align="left"></td>
       <td>
         <b>Bo-Wun Chen</b><br> 
@@ -103,24 +121,6 @@ Stanford accelerate group works on creating high performance and energy-efficien
 ## Masters Students
 <table style="width:100%">
   <tbody>
-     <tr>
-      <td style="width:18%"><img src="/assets/images/jeffrey.jpg" width="250" align="left"></td>
-      <td>
-        <b>Jeffrey Yu</b><br> 
-        <b>Email:</b> jeffreyy AT stanford DOT edu<br>
-        <b>About:</b> Jeffrey is an EE Master student at Stanford University working in Prof. Priyanka Raina’s research group. He received his B.S. degree in Computer Engineering from UC San Diego in 2021.<br>
-        <b>Research:</b> My research focuses on efficient DNN inference and training using quantization and new number systems. I also work on the mapping DNN operations to the accelerator and verification of RTL and SoC.<br>
-      </td>
-    </tr>
-    <tr>
-      <td style="width:18%"><img src="/assets/images/yuchen.jpg" width="250" align="left"></td>
-      <td>
-        <b>Yuchen Mei</b><br> 
-        <b>Email:</b> yuchenm AT stanford DOT edu, <a href="https://www.linkedin.com/in/yuchen-mei98/">Webpage</a><br>
-        <b>About:</b> Yuchen Mei is an EE M.S. student at Stanford University supervised by Prof. Priyanka Raina. He received a B.S. degree in Electronic Information Science and Technology from Nanjing University (China) in 2021. Before joining Stanford, he was a research assistant at Nanjing University where he worked on 3D-CNN optimization and hardware security.<br>
-        <b>Research:</b> Currently, my research focuses on how to improve the frequency of image processing and machine learning applications running on CGRAs. I am involved in the development of software pipelining techniques and the design space exploration of the CGRA array and interconnection system. I am generally interested in chip design, domain-specific accelerators, and design automation.           
-      </td>
-    </tr>
     <tr>
       <td style="width:18%"><img src="/assets/images/brianna.jpeg" width="250" align="left"></td>
       <td>
