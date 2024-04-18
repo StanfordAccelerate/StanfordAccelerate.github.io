@@ -102,11 +102,6 @@ Extended reality (XR), which includes virtual and augmented reality, has the pot
 * * *
 
 ### Accelerator Architectures Leveraging Emerging Technologies
-#### MINOTAUR    
-**Kartik Prabhu, Jeffrey Yu**    
-Transformer neural networks achieve state-of-the-art accuracy on both vision and NLP tasks, but are challenging to run in an edge environment. Existing approaches to accelerating transformers face power, area, and battery life challenges, further complicated by the need to perform on-device training to achieve peak accuracy. MINOTAUR uses non-volatile Resistive RAM (RRAM) in order to achieve high performance and low energy inference and training of Transformer networks, and targets a 1-year lifetime on a coin cell battery.
-
-* * *
 
 #### EMBER    
 <img src="/assets/images/EMBER_V1_transparent_5x.png" width="200" align="left" style="padding-right: 30px; padding-bottom: 20px;">

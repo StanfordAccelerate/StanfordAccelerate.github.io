@@ -8,6 +8,18 @@ hide_hero: true
 <table style="width:100%">
   <tbody>
     <tr>
+      <td style="width:50%"><img src="/assets/images/group_photo_oct_8_2023.jpg" width="800" align="center" style="padding-right: 30px; padding-bottom: 20px;"></td>
+      <td>Group photo from Alpine Inn on October 8, 2023. From left to right: Jackson Melchert, Kalhan Koul, Kathleen Feng, Kai Bartolone, Bo Wun Cheng, Jeffery Yu, Po-Han Chen, Kartik Prabhu, Michael Oduoza, Yuchen Mei, Priyanka Raina, and Calib Terrill.</td>
+    </tr>
+    <tr>
+      <td style="width:50%"><img src="/assets/images/group_photo_jun_3_2023.jpg" width="800" align="center" style="padding-right: 30px; padding-bottom: 20px;"></td>
+      <td>Group photo from Mini Golf on June 3, 2023. From left to right: Kartik Prabhu, Youngha Choi and family, Brianna McColm, Jackson Melchert, Priyanka Raina, Kathleen Feng, and Po-Han Chen.</td>
+    </tr>
+    <tr>
+      <td style="width:50%"><img src="/assets/images/group_photo_feb_18_2023.jpg" width="800" align="center" style="padding-right: 30px; padding-bottom: 20px;"></td>
+      <td>Group photo from February 18, 2023. From left to right: Po-Han Chen, Akash Levy, Yuchen Mei, Yonatan Urman, Kartik Prabhu, Jeffery Yu, Jackson Melchert, Kathleen Feng, Kalhan Koul, and Gina Sohn.</td>
+    </tr>
+    <tr>
       <td style="width:50%"><img src="/assets/images/vlsi-2022.jpg" width="800" align="center" style="padding-right: 30px; padding-bottom: 20px;"></td>
       <td>Group photo from VLSI 2022 in Honolulu, HI, June 15, 2022. From left to right: Kartik Prabhu, Priyanka Raina, Kalhan Koul and Kathleen Feng.</td>
     </tr>

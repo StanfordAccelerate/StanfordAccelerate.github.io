@@ -80,12 +80,21 @@ Stanford accelerate group works on creating high performance and energy-efficien
       </td>
     </tr>
     <tr>
-      <td style="width:18%"><img src="assets/images/pohan.jpg" width="250" align="left"></td>
+      <td style="width:18%"><img src="assets/images/bowun.jpg" width="250" align="left"></td>
       <td>
         <b>Bo-Wun Chen</b><br> 
         <b>Email:</b> bwcheng AT stanford DOT edu, <a href="https://linkedin.com/in/bo-wun-cheng/">Webpage</a><br>
         <b>About:</b> Bo-Wun Cheng is an EE Ph.D. student at Stanford University supervised by Prof. Priyanka Raina. He received his B.S. and M.S. degrees in Computer Science from National Tsing Hua University (Taiwan) in 2021 and 2023, respectively.<br>
         <b>Research:</b> His current research interest resides in designing and architecting efficient hardware accelerators. Before joining Stanford, his research spans the fields of Graphics Processing Unit memory architecture design and computer vision.
+      </td>
+    </tr>
+    <tr>
+      <td style="width:18%"><img src="assets/images/michael.jpg" width="250" align="left"></td>
+      <td>
+        <b>Michael Oduoza</b><br> 
+        <b>Email:</b> mcoduoza AT stanford DOT edu, <a href="https://linkedin.com/in/michael-oduoza/">Webpage</a><br>
+        <b>About:</b> Michael Oduoza is an EE Ph.D. student at Stanford University supervised by Prof. Priyanka Raina. He received his B.S. and M.S. degrees in Electrical Engineering from Stanford in 2021 and 2022 respectively.  <br>
+        <b>Research:</b> His research focuses on hardware/software co-design to create energy-efficient computing systems. He is broadly interested in designing new computer architectures for emerging machine learning applications. His pre-Ph.D. research spanned a range of topics, from semiconductor devices to circuits to systems.  
       </td>
     </tr>
   </tbody>
@@ -146,6 +155,15 @@ Stanford accelerate group works on creating high performance and energy-efficien
         <b>Email:</b> jespera AT stanford DOT edu<br>
         <b>About:</b> John Espera is an EE M.S. student at Stanford University. He received a B.Eng. in Electronic Engineering from the University of Warwick in 2021.<br>           
         <b>Research:</b> His research involves developing new applications to map onto reconfigurable logic devices (CGRAs) using the Halide language.
+      </td>
+    </tr>
+    <tr>
+      <td style="width:18%"><img src="/assets/images/caleb.jpg" width="250" align="left"></td>
+      <td>
+        <b>Caleb Terrill</b><br> 
+        <b>Email:</b> cterrill AT stanford DOT edu<br>
+        <b>About:</b> Caleb is an EE M.S. student at Stanford. He received his B.S. in Computer Engineering from UCLA in 2022. Previously, he has interned as an FPGA designer at Jane Street and as an IP designer at Apple and Intel.<br>           
+        <b>Research:</b> His research relates to the generation and verification of the compiler for CGRA programs. In the fall of 2022, he utilized SMT-based tools to verify the functionality of pipelined compute mappings to CGRA processing elements (PEs). This year, he focuses on improving rewrite rule synthesis to enable many-to-many rewrite rules.
       </td>
     </tr>
   </tbody>

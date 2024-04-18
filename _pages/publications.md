@@ -6,6 +6,34 @@ hide_hero: true
 ---
 
 ## Publications    
+**Cascade: An Application Pipelining Toolkit for Coarse-Grained Reconfigurable Arrays**    
+Jackson Melchert, Yuchen Mei, Kalhan Koul, Qiaoyi Liu, Mark Horowitz, Priyanka Raina    
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2024.    
+
+**MINOTAUR: An Edge Transformer Inference and Training Accelerator with 12 MBytes On-Chip Resistive RAM and Fine-Grained Spatiotemporal Power Gating**    
+Kartik Prabhu, Robert M. Radway, Jeffrey Yu, Kai Bartolone, Massimo Giordano, Fabian Peddinghaus, Yonatan Urman, Win-San Khwa, Yu-Der Chih, Meng-Fan Chang, Subhasish Mitra, Priyanka Raina    
+*IEEE Symposium on VLSI Technology & Circuits (VLSI)*, June 2024.    
+
+**Onyx: A 12nm 756 GOPS/W Coarse-Grained Reconfigurable Array for Accelerating Dense and Sparse Applications**    
+Kalhan Koul, Maxwell Strange, Jackson Melchert, Alex Carsello, Yuchen Mei, Olivia Hsu, Taeyoung Kong, Po-Han Chen, Huifeng Ke, Keyi Zhang, Qiaoyi Liu, Gedeon Nyengele, Akhilesh Balasingam, Jayashree Adivarahan, Ritvik Sharma, Zhouhua Xie, Christopher Torng, Joel Emer, Fredrik Kjolstad, Mark Horowitz, Priyanka Raina    
+*IEEE Symposium on VLSI Technology & Circuits (VLSI)*, June 2024.
+
+**EMBER: Efficient Multiple-Bits-per-Cell Embedded RRAM Macro for High-Density Digital Storage**    
+Akash Levy, Luke R. Upton, Michael D. Scott, Dennis Rich, Win-San Khwa, Yu-Der Chih, Meng-Fan Chang, Subhasish Mitra, Boris Murmann, Priyanka Raina    
+*IEEE Journal of Solid-State Circuits (JSSC)*, 2024.    
+
+**8-bit Transformer Inference and Fine-tuning for Edge Accelerators**    
+Jeffrey Yu, Kartik Prabhu, Yonatan Urman, Robert M. Radway, Eric Han, Priyanka Raina    
+*ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, April 2024.    
+
+**Cascade: An Application Pipelining Toolkit for Coarse-Grained Reconfigurable Arrays**    
+Jackson Melchert, Yuchen Mei, Kalhan Koul, Qiaoyi Liu, Mark Horowitz, Priyanka Raina    
+*Languages, Tools, and Techniques for Accelerator Design (LATTE) Workshop at the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, April 2024.    
+
+**FastPASE: An AI-Driven Fast PPA Speculation Engine for RTL Design Space Optimization**    
+Akash Levy, Joe Walston, Priyanka Raina, Stelios Diamantidis    
+*International Symposium on Quality Electronic Design (ISQED)*, April 2024.
+
 **PBA: Percentile-Based Level Allocation for Multiple-Bits-Per-Cell RRAM**    
 Anjiang Wei, Akash Levy, Pu Yi, Robert Radway, Priyanka Raina, Subhasish Mitra, Sara Achour    
 *IEEE/ACM International Conference On Computer Aided Design (ICCAD)*, October 2023.    
