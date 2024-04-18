@@ -80,6 +80,15 @@ Stanford accelerate group works on creating high performance and energy-efficien
       </td>
     </tr>
     <tr>
+      <td style="width:18%"><img src="assets/images/bowun.jpg" width="250" align="left"></td>
+      <td>
+        <b>Bo-Wun Chen</b><br> 
+        <b>Email:</b> bwcheng AT stanford DOT edu, <a href="https://linkedin.com/in/bo-wun-cheng/">Webpage</a><br>
+        <b>About:</b> Bo-Wun Cheng is an EE Ph.D. student at Stanford University supervised by Prof. Priyanka Raina. He received his B.S. and M.S. degrees in Computer Science from National Tsing Hua University (Taiwan) in 2021 and 2023, respectively.<br>
+        <b>Research:</b> His current research interest resides in designing and architecting efficient hardware accelerators. Before joining Stanford, his research spans the fields of Graphics Processing Unit memory architecture design and computer vision.
+      </td>
+    </tr>
+    <tr>
       <td style="width:18%"><img src="assets/images/michael.jpg" width="250" align="left"></td>
       <td>
         <b>Michael Oduoza</b><br> 
