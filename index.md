@@ -26,30 +26,12 @@ Stanford accelerate group works on creating high performance and energy-efficien
 <table style="width:100%">
   <tbody>
     <tr>
-      <td style="width:18%"><img src="/assets/images/akash.jpg" width="250" align="left"></td>
-      <td>
-        <b>Akash Levy</b><br> 
-        <b>Email:</b> akashl AT stanford DOT edu, <a href="https://www.linkedin.com/in/akashlevy/">Webpage</a><br>
-        <b>About:</b> Akash Levy is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. Previously, he was a Research Intern at Amazon Lab126 and Amazon Web Services. He received a B.S.E. degree in Electrical Engineering from Princeton University in 2018, with certificates in Applications of Computing and Engineering Physics. He is a recipient of the NSF Graduate Research Fellowship.<br>
-        <b>Research:</b> His current research is focused on improving the efficiency of reconfigurable logic devices (such as FPGAs and CGRAs) through the use of 3D integration with emerging nanotechnologies. In particular, he is developing a hybrid design that makes use of both resistive random access memory (RRAM) and nanoelectromechanical (NEM) relays to implement reconfigurable switching in the back-end-of-line for reduced reconfigurability overhead. His goal is to enable reconfigurable logic devices to become more competitive with ASICs in terms of power, area, and performance. His pre-PhD research involved a broad range of subjects, ranging from physics to computer security. For more details, please refer to his <a href="https://stanford.academia.edu/AkashLevy">Academia.edu portfolio</a> and <a href="https://scholar.google.com/citations?user=A0Auh6EAAAAJ&hl=en">Google Scholar profile</a>.
-      </td>
-    </tr>
-    <tr>
       <td style="width:18%"><img src="/assets/images/kathleen.jpg" width="250" align="left"></td>
       <td>
         <b>Kathleen Feng</b><br> 
         <b>Email:</b> kzf AT stanford DOT edu, <a href="https://http://stanford.edu/~kzf/">Webpage</a><br>
         <b>About:</b> Kathleen Feng is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. She received a B.S.E. degree in Electrical Engineering from Princeton University in 2018, with certificates in Applications of Computing and Robotics and Intelligent Systems. She is a recipient of the NDSEG Fellowship.<br>
         <b>Research:</b> Her research focuses on domain-specific hardware architectures and hardware-software co-design. She has worked on coarse-grained reconfigurable arrays for application acceleration and systems for running extended reality applications. Kathleen is interested in designing and developing new computer architectures for emerging applications.
-      </td>
-    </tr>
-    <tr>
-      <td style="width:18%"><img src="/assets/images/jack.jpg" width="250" align="left"></td>
-      <td>
-        <b>Jackson Melchert</b><br> 
-        <b>Email:</b> melchert AT stanford DOT edu<br>
-        <b>About:</b> Jackson Melchert is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. He received a B.S. in Electrical and Computer Engineering and Computer Science from the University of Wisconsin - Madison in 2019.<br>
-        <b>Research:</b> His research focuses on how to generate an optimal coarse-grained reconfigurable array processing element (PE) architecture for a given application domain. He is developing tools to analyze the applications that are going to be run on the CGRA to identify interesting PE architectures to be evaluated. He is also developing a PE generator that takes a high level specification of a PE from the application analysis and produces the hardware description of the PE, along with functional and formal models used in the application mapping process. Jack is broadly interested in optimizing configurable hardware to approach the performance and efficiency of application-specific accelerators.
       </td>
     </tr>
     <tr>
@@ -121,51 +103,6 @@ Stanford accelerate group works on creating high performance and energy-efficien
 ## Masters Students
 <table style="width:100%">
   <tbody>
-    <tr>
-      <td style="width:18%"><img src="/assets/images/brianna.jpeg" width="250" align="left"></td>
-      <td>
-        <b>Brianna McColm</b><br> 
-        <b>Email:</b> bmccolm AT stanford DOT edu<br>
-        <b>About:</b> Brianna McColm is an M.S. EE student at Stanford University. She received her B.S. in Electrical Engineering from UCLA in 2022. Previously, she was a Firmware Engineering Intern for Qualcomm and an RF/uW Engineering Intern for Keysight Technologies.<br>
-        <b>Research:</b> Brianna is interested in hardware accelerators and how bridging the hardware-software gap can boost system performance.<br>
-      </td>
-    </tr>
-    <tr>
-      <td style="width:18%"><img src="/assets/images/xingyu.jpeg" width="250" align="left"></td>
-      <td>
-        <b>Xingyu Ni</b><br> 
-        <b>Email:</b> xingyuni AT stanford DOT edu<br>
-        <b>About:</b> Xingyu Ni is an EE M.S. student at Stanford University. She received a B.S. degree in Electrical Engineering from Tianjin University in 2021.<br>
-        <b>Research:</b> My current research focuses on FPGA implementation of AR/VR applications.<br>
-      </td>
-    </tr>
-    <tr>
-      <td style="width:18%"><img src="/assets/images/peggy.jpeg" width="250" align="left"></td>
-      <td>
-        <b>Peggy Lin</b><br> 
-        <b>Email:</b> peggylin AT stanford DOT edu<br>
-        <b>About:</b> Peggy is an EE M.S. student at Stanford University. She received her B.S. in Electrical Engineering from the National Taiwan University (Taiwan) in 2022.<br>
-        <b>Research:</b> Her research focuses on the memory tile of CGRAs. She is interested in design exploration of CGRAs to create high-performance, energy-efficient, and flexible hardware.<br>
-      </td>
-    </tr>
-    <tr>
-      <td style="width:18%"><img src="/assets/images/john.jpeg" width="250" align="left"></td>
-      <td>
-        <b>John Espera</b><br> 
-        <b>Email:</b> jespera AT stanford DOT edu<br>
-        <b>About:</b> John Espera is an EE M.S. student at Stanford University. He received a B.Eng. in Electronic Engineering from the University of Warwick in 2021.<br>           
-        <b>Research:</b> His research involves developing new applications to map onto reconfigurable logic devices (CGRAs) using the Halide language.
-      </td>
-    </tr>
-    <tr>
-      <td style="width:18%"><img src="/assets/images/caleb.jpg" width="250" align="left"></td>
-      <td>
-        <b>Caleb Terrill</b><br> 
-        <b>Email:</b> cterrill AT stanford DOT edu<br>
-        <b>About:</b> Caleb is an EE M.S. student at Stanford. He received his B.S. in Computer Engineering from UCLA in 2022. Previously, he has interned as an FPGA designer at Jane Street and as an IP designer at Apple and Intel.<br>           
-        <b>Research:</b> His research relates to the generation and verification of the compiler for CGRA programs. In the fall of 2022, he utilized SMT-based tools to verify the functionality of pipelined compute mappings to CGRA processing elements (PEs). This year, he focuses on improving rewrite rule synthesis to enable many-to-many rewrite rules.
-      </td>
-    </tr>
   </tbody>
 </table>
 
