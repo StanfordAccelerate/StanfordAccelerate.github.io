@@ -5,54 +5,74 @@ title: Publications
 hide_hero: true
 ---
 
-## Publications    
-**Cascade: An Application Pipelining Toolkit for Coarse-Grained Reconfigurable Arrays**    
-Jackson Melchert, Yuchen Mei, Kalhan Koul, Qiaoyi Liu, Mark Horowitz, Priyanka Raina    
-*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2024.    
+## Publications   
+**Edge Continual Training and Inference with RRAM-Gain Cell Memory Integrated on Si CMOS**    
+Shuhan Liu, Robert M. Radway, Xinxin Wang, Filippo Moro, Jean-Francois Nodin, Koustav Jana, Shuting Du, Luke R. Upton, Wei-Chen Chen, Jian Chen, Haitong Li, Francois Andrieu, Elisa Vianello, Priyanka Raina, Subhasish Mitra, H.-S. Philip Wong    
+*IEEE International Electron Devices Meeting (IEDM)*, December 2024.    
+
+**Efficiently Synthesizing Lowest Cost Rewrite Rules for Instruction Selection**    
+Ross Daly, Caleb Donovick, Caleb Terrill, Jack Melchert, Priyanka Raina, Clark Barrett, Pat Hanrahan    
+*Formal Methods in Computer-Aided Design (FMCAD)*, October 2024. [Paper](https://arxiv.org/abs/2405.06127)
+
+**Onyx: A Programmable Accelerator for Sparse Tensor Algebra**    
+Kalhan Koul, Maxwell Strange, Jackson Melchert, Alex Carsello, Yuchen Mei, Olivia Hsu, Taeyoung Kong, Po-Han Chen, Huifeng Ke, Keyi Zhang, Qiaoyi Liu, Gedeon Nyengele, Akhilesh Balasingam, Jayashree Adivarahan, Ritvik Sharma, Zhouhua Xie, Christopher Torng, Joel S Emer, Fredrik Kjolstad, Mark Horowitz, Priyanka Raina    
+*IEEE Hot Chips Symposium (Hot Chips)*, August 2024.     
+
+**AHA: An Open-Source Framework for Co-design of Programmable Accelerators and Compilers**    
+Kalhan Koul, Jackson Melchert, Keyi Zhang, Taeyoung Kong, Maxwell Strange, Olivia Hsu, Qiaoyi Liu, Jeff Setter, Ross Daly, Caleb Donovick, Alex Carsello, Leonard Truong, Po-Han Chen, Yuchen Mei, Zhouhua Xie, Kathleen Feng, Gedeon Nyengele, Dillon Huff, Kavya Sreedhar, Huifeng Ke, Ankita Nayak, Rajsekhar Setaluri, Stephen Richardson, Christopher Torng, Pat Hanrahan, Clark Barrett, Mark Horowitz, Fredrik Kjolstad, Priyanka Raina    
+*Open-Source Computer Architecture Research (OSCAR) Workshop at the International Symposium on Computer Architecture (ISCA)*, June 2024.    
+
+**A High-Level Synthesis Based Framework for Design Space Exploration and Generation of Neural Network Accelerators**    
+Kartik Prabhu, Jeffrey Yu, Suresh Nambi, Priyanka Raina    
+*AI for Fully-Automated Chip Design (AI4FACD) Workshop at the International Symposium on Computer Architecture (ISCA)*, June 2024.    
 
 **MINOTAUR: An Edge Transformer Inference and Training Accelerator with 12 MBytes On-Chip Resistive RAM and Fine-Grained Spatiotemporal Power Gating**    
 Kartik Prabhu, Robert M. Radway, Jeffrey Yu, Kai Bartolone, Massimo Giordano, Fabian Peddinghaus, Yonatan Urman, Win-San Khwa, Yu-Der Chih, Meng-Fan Chang, Subhasish Mitra, Priyanka Raina    
-*IEEE Symposium on VLSI Technology & Circuits (VLSI)*, June 2024.    
+*IEEE Symposium on VLSI Technology & Circuits (VLSI)*, June 2024. [Paper](https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631515)           
 
 **Onyx: A 12nm 756 GOPS/W Coarse-Grained Reconfigurable Array for Accelerating Dense and Sparse Applications**    
 Kalhan Koul, Maxwell Strange, Jackson Melchert, Alex Carsello, Yuchen Mei, Olivia Hsu, Taeyoung Kong, Po-Han Chen, Huifeng Ke, Keyi Zhang, Qiaoyi Liu, Gedeon Nyengele, Akhilesh Balasingam, Jayashree Adivarahan, Ritvik Sharma, Zhouhua Xie, Christopher Torng, Joel Emer, Fredrik Kjolstad, Mark Horowitz, Priyanka Raina    
-*IEEE Symposium on VLSI Technology & Circuits (VLSI)*, June 2024.
-
-**EMBER: Efficient Multiple-Bits-per-Cell Embedded RRAM Macro for High-Density Digital Storage**    
-Akash Levy, Luke R. Upton, Michael D. Scott, Dennis Rich, Win-San Khwa, Yu-Der Chih, Meng-Fan Chang, Subhasish Mitra, Boris Murmann, Priyanka Raina    
-*IEEE Journal of Solid-State Circuits (JSSC)*, 2024.    
-
-**8-bit Transformer Inference and Fine-tuning for Edge Accelerators**    
-Jeffrey Yu, Kartik Prabhu, Yonatan Urman, Robert M. Radway, Eric Han, Priyanka Raina    
-*ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, April 2024.    
+*IEEE Symposium on VLSI Technology & Circuits (VLSI)*, June 2024. [Paper](https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631383)       
 
 **Cascade: An Application Pipelining Toolkit for Coarse-Grained Reconfigurable Arrays**    
 Jackson Melchert, Yuchen Mei, Kalhan Koul, Qiaoyi Liu, Mark Horowitz, Priyanka Raina    
-*Languages, Tools, and Techniques for Accelerator Design (LATTE) Workshop at the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, April 2024.    
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2024. [Paper](https://doi.org/10.1109/TCAD.2024.3390542)         
+
+**EMBER: Efficient Multiple-Bits-per-Cell Embedded RRAM Macro for High-Density Digital Storage**    
+Akash Levy, Luke R. Upton, Michael D. Scott, Dennis Rich, Win-San Khwa, Yu-Der Chih, Meng-Fan Chang, Subhasish Mitra, Boris Murmann, Priyanka Raina    
+*IEEE Journal of Solid-State Circuits (JSSC)*, April 2024. [Paper](https://doi.org/10.1109/JSSC.2024.3387566)           
+
+**8-bit Transformer Inference and Fine-tuning for Edge Accelerators**    
+Jeffrey Yu, Kartik Prabhu, Yonatan Urman, Robert M. Radway, Eric Han, Priyanka Raina    
+*ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, April 2024. [Paper](https://doi.org/10.1145/3620666.3651368)        
+
+**Cascade: An Application Pipelining Toolkit for Coarse-Grained Reconfigurable Arrays**    
+Jackson Melchert, Yuchen Mei, Kalhan Koul, Qiaoyi Liu, Mark Horowitz, Priyanka Raina    
+*Languages, Tools, and Techniques for Accelerator Design (LATTE) Workshop at the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, April 2024. [Paper](https://capra.cs.cornell.edu/latte24/paper/11.pdf)           
 
 **FastPASE: An AI-Driven Fast PPA Speculation Engine for RTL Design Space Optimization**    
 Akash Levy, Joe Walston, Priyanka Raina, Stelios Diamantidis    
-*International Symposium on Quality Electronic Design (ISQED)*, April 2024.
+*International Symposium on Quality Electronic Design (ISQED)*, April 2024. [Paper](https://doi.org/10.1109/ISQED60706.2024.10528750)       
 
 **PBA: Percentile-Based Level Allocation for Multiple-Bits-Per-Cell RRAM**    
 Anjiang Wei, Akash Levy, Pu Yi, Robert Radway, Priyanka Raina, Subhasish Mitra, Sara Achour    
-*IEEE/ACM International Conference On Computer Aided Design (ICCAD)*, October 2023.    
-
-**EMBER: A 100 MHz, 0.86 mm2, Multiple-Bits-per-Cell RRAM Macro in 40 nm CMOS with Compact Peripherals and 1.0 pJ/bit Read Circuitry**    
-Luke R. Upton, Akash Levy, Michael D. Scott, Dennis Rich, Win-San Khwa, Yu-Der Chih, Meng-Fan Chang, Subhasish Mitra, Priyanka Raina, Boris Murmann    
-*IEEE European Solid-State Circuits Conference (ESSCIRC)*, September 2023.
+*IEEE/ACM International Conference On Computer Aided Design (ICCAD)*, October 2023. [Paper](https://doi.org/10.1109/ICCAD57390.2023.10323967)           
 
 **Amber: A 16nm System-on-Chip with a Coarse-Grained Reconfigurable Array for Flexible Acceleration of Dense Linear Algebra**  
 Kathleen Feng, Taeyoung Kong, Kalhan Koul, Jackson Melchert, Alex Carsello, Qiaoyi Liu, Gedeon Nyengele, Maxwell Strange, Keyi Zhang, Ankita Nayak, Jeff Setter, James Thomas, Kavya Sreedhar, Po-Han Chen, Nikhil Bhagdikar, Zachary Myers, Brandon D'Agostino, Pranil Joshi, Stephen Richardson, Christopher Torng, Mark Horowitz, Priyanka Raina    
-*IEEE Journal of Solid-State Circuits (JSSC)*, August 2023.
+*IEEE Journal of Solid-State Circuits (JSSC)*, September 2023. [Paper](https://doi.org/10.1109/JSSC.2023.3313116)        
+
+**EMBER: A 100 MHz, 0.86 mm2, Multiple-Bits-per-Cell RRAM Macro in 40 nm CMOS with Compact Peripherals and 1.0 pJ/bit Read Circuitry**    
+Luke R. Upton, Akash Levy, Michael D. Scott, Dennis Rich, Win-San Khwa, Yu-Der Chih, Meng-Fan Chang, Subhasish Mitra, Priyanka Raina, Boris Murmann    
+*IEEE European Solid-State Circuits Conference (ESSCIRC)*, September 2023. [Paper](https://doi.org/10.1109/ESSCIRC59616.2023.10268807)      
 
 **PEak: A Single Source of Truth for Hardware Design and Verification**     
 Caleb Donovick, Ross Daly, Jackson Melchert, Lenny Truong, Priyanka Raina, Pat Hanrahan, Clark Barrett    
-*Programming Languages for Architecture (PLARCH) Workshop at PLDI*, June 2023.
+*Programming Languages for Architecture (PLARCH) Workshop at PLDI*, June 2023. [Paper](https://doi.org/10.48550/arXiv.2308.13106)       
 
 **An Open-Source 4x8 Coarse-Grained Reconfigurable Array Using SkyWater 130 nm Technology and Agile Hardware Design Flow**    
 Po-Han Chen, Charles Tsao, Priyanka Raina   
-*IEEE International Symposium on Circuits and Systems (ISCAS)*, May 2023.    
+*IEEE International Symposium on Circuits and Systems (ISCAS)*, May 2023. [Paper](https://doi.org/10.1109/ISCAS46773.2023.10182052)            
 
 **Canal: A Flexible Interconnect Generator for Coarse-Grained Reconfigurable Arrays**    
 Jackson Melchert, Keyi Zhang, Yuchen Mei, Mark Horowitz, Christopher Torng, Priyanka Raina    
@@ -239,10 +259,19 @@ Rahul Rithe, Priyanka Raina, Nathan Ickes, Srikanth V. Tenneti, Anantha P. Chand
 Caleb Donovick, Ross Daly, Jackson Melchert, Lenny Truong, Priyanka Raina, Pat Hanrahan, Clark Barrett   
 *arXiv*, August 2023. [Paper](https://doi.org/10.48550/arXiv.2308.13106)
 
-## Poster Presentations
+## Tutorials
+**AHA: An Open-Source Framework for Co-design of Programmable Accelerators and Compilers**    
+Kalhan Koul, Leonard Truong, Caleb Donovick, Maxwell Strange, Jackson Melchert, Jeff Setter, Olivia Hsu, Keyi Zhang, Taeyoung Kong, Qiaoyi Liu, Ross Daly, Alex Carsello, Po-Han Chen, Yuchen Mei, Zhouhua Xie, Kathleen Feng, Gedeon Nyengele, Dillon Huff, Kavya Sreedhar, Huifeng Ke, Ankita Nayak, Rajsekhar Setaluri, Stephen Richardson, Christopher Torng, Pat Hanrahan, Clark Barrett, Mark Horowitz, Fredrik Kjolstad,  Priyanka Raina    
+Tutorial at *IEEE/ACM International Symposium on Microarchitecture (MICRO)*, November 2024.
+
+## Posters 
 **Onyx: A 12nm 756 GOPS/W Coarse-Grained Reconfigurable Array for Accelerating Dense and Sparse Applications**     
-Kalhan Koul, Maxwell Strange, Jackson Melchert, Alex Carsello, Yuchen Mei, Olivia Hsu, Taeyoung Kong, Po-Han Chen, Huifeng Ke, Keyi Zhang, Qiaoyi Liu, Gedeon Nyengele, Akhilesh Balasingam, Jayashree Adivarahan, Ritvik Sharma, Zhouhua Xie, Christopher Torng, Joel Emer, Fredrik Kjolstad, Mark Horowitz, Priyanka Raina   
-*TECHCON*, September 2024.   
+Kalhan Koul, Maxwell Strange, Jackson Melchert, Alex Carsello, Yuchen Mei, Olivia Hsu, Taeyoung Kong, Po-Han Chen, Huifeng Ke, Keyi Zhang, Qiaoyi Liu, Gedeon Nyengele, Akhilesh Balasingam, Jayashree Adivarahan, Ritvik Sharma, Zhouhua Xie, Christopher Torng, Joel S Emer, Fredrik Kjolstad, Mark Horowitz, Priyanka Raina      
+*TECHCON*, September 2024. 
+
+**An Open-Source 130-nm Fusion-Enabled Deconvolution Kernel Generator IC For Real-Time mmWave Radar Platform Motion Compensation**    
+Nikhil Poole, Priyanka Raina, Amin Arbabian    
+*IEEE Hot Chips Symposium (Hot Chips)*, August 2023.
 
 **APEX: A Framework for Automated Processing Element Design Space Exploration using Frequent Subgraph Analysis**     
 Jackson Melchert, Kathleen Feng, Caleb Donovick, Ross Daly, Ritvik Sharma, Clark Barrett, Mark Horowitz, Pat Hanrahan, Priyanka Raina   
@@ -250,7 +279,7 @@ Jackson Melchert, Kathleen Feng, Caleb Donovick, Ross Daly, Ritvik Sharma, Clark
 
 **Cascade: An Application Pipelining Toolkit for Coarse-Grained Reconfigurable Arrays**    
 Jackson Melchert, Yuchen Mei, Qiaoyi Liu, Kalhan Koul, Mark Horowitz, Priyanka Raina    
-*ACM/IEEE Design Automation Conference (DAC)*, July 2023.  
+*ACM/IEEE Design Automation Conference (DAC)*, July 2023.    
 
 **Amber: a 441.2 GOPS/W 16nm Coarse Grained Reconfigurable Array-Based SoC Accelerator for Image Processing and Computer Vision**    
 Kathleen Feng, Alex Carsello, Taeyoung Kong, Kalhan Koul, Gedeon Nyengele, Maxwell Strange, Keyi Zhang, Ankita Nayak, Jeff Setter, Qiaoyi Liu, James Thomas, Po-Han Chen, Jackson Melchert, Zachary Myers, Stephen Richardson, Rick Bahr, Christopher Torng, Mark Horowitz, Priyanka Raina    
