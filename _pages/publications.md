@@ -6,6 +6,10 @@ hide_hero: true
 ---
 
 ## Publications   
+**PEak: A Single Source of Truth for Hardware Design and Verification**     
+Caleb Donovick, Jackson Melchert, Ross Daly, Lenny Truong, Priyanka Raina, Pat Hanrahan, Clark Barrett   
+*ACM Transactions on Embedded Computing Systems (TECS)*, October 2024.    
+
 **Edge Continual Training and Inference with RRAM-Gain Cell Memory Integrated on Si CMOS**    
 Shuhan Liu, Robert M. Radway, Xinxin Wang, Filippo Moro, Jean-Francois Nodin, Koustav Jana, Shuting Du, Luke R. Upton, Wei-Chen Chen, Jian Chen, Haitong Li, Francois Andrieu, Elisa Vianello, Priyanka Raina, Subhasish Mitra, H.-S. Philip Wong    
 *IEEE International Electron Devices Meeting (IEDM)*, December 2024.    
