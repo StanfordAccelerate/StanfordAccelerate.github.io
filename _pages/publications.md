@@ -6,9 +6,17 @@ hide_hero: true
 ---
 
 ## Publications   
+**Opal: A 16nm Coarse-Grained Reconfigurable Array for Full Sparse ML Applications**    
+Po-Han Chen, Bo Wun Cheng, Michael Oduoza, Zhouhua Xie, Kalhan Koul, Sai Gautham Ravipati, Yuchen Mei, Rupert Lu, Alex Carsello, Mark Horowitz, Priyanka Raina    
+*IEEE Custom Integrated Circuits Conference (CICC)*, April 2025. 
+
+**Aspen: A 630 FPS Real-Time Posit-Based Unified Accelerator for Extended Reality Perception Workloads**     
+Kathleen Feng, Kartik Prabhu, Kai Bartolone, Jeffrey Yu, Priyanka Raina    
+*IEEE Custom Integrated Circuits Conference (CICC)*, April 2025.    
+
 **PEak: A Single Source of Truth for Hardware Design and Verification**     
 Caleb Donovick, Jackson Melchert, Ross Daly, Lenny Truong, Priyanka Raina, Pat Hanrahan, Clark Barrett   
-*ACM Transactions on Embedded Computing Systems (TECS)*, October 2024.    
+*ACM Transactions on Embedded Computing Systems (TECS)*, October 2024.
 
 **Edge Continual Training and Inference with RRAM-Gain Cell Memory Integrated on Si CMOS**    
 Shuhan Liu, Robert M. Radway, Xinxin Wang, Filippo Moro, Jean-Francois Nodin, Koustav Jana, Shuting Du, Luke R. Upton, Wei-Chen Chen, Jian Chen, Haitong Li, Francois Andrieu, Elisa Vianello, Priyanka Raina, Subhasish Mitra, H.-S. Philip Wong    
@@ -259,9 +267,6 @@ Rahul Rithe, Priyanka Raina, Nathan Ickes, Srikanth V. Tenneti, Anantha P. Chand
 *IEEE International Solid-State Circuits Conference (ISSCC)*, February 2013. [Paper](https://doi.org/10.1109/ISSCC.2013.6487683), [Demo](http://player.vimeo.com/video/70417371)
 
 ## Preprints    
-**PEak: A Single Source of Truth for Hardware Design and Verification**     
-Caleb Donovick, Ross Daly, Jackson Melchert, Lenny Truong, Priyanka Raina, Pat Hanrahan, Clark Barrett   
-*arXiv*, August 2023. [Paper](https://doi.org/10.48550/arXiv.2308.13106)
 
 ## Tutorials
 **AHA: An Open-Source Framework for Co-design of Programmable Accelerators and Compilers**    
@@ -269,6 +274,10 @@ Kalhan Koul, Leonard Truong, Caleb Donovick, Maxwell Strange, Jackson Melchert, 
 Tutorial at *IEEE/ACM International Symposium on Microarchitecture (MICRO)*, November 2024.
 
 ## Posters 
+**Opal: A 16nm Coarse-Grained Reconfigurable Array SoC for Sparse Machine Learning Applications**     
+Po-Han Chen, Bo Wun Cheng, Michael Oduoza, Zhouhua Xie, Kalhan Koul, Sai Gautham Ravipati, Yuchen Mei, Rupert Lu, Alex Carsello, Mark Horowitz, Priyanka Raina    
+*International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP)*, February 2025.     
+
 **Onyx: A 12nm 756 GOPS/W Coarse-Grained Reconfigurable Array for Accelerating Dense and Sparse Applications**     
 Kalhan Koul, Maxwell Strange, Jackson Melchert, Alex Carsello, Yuchen Mei, Olivia Hsu, Taeyoung Kong, Po-Han Chen, Huifeng Ke, Keyi Zhang, Qiaoyi Liu, Gedeon Nyengele, Akhilesh Balasingam, Jayashree Adivarahan, Ritvik Sharma, Zhouhua Xie, Christopher Torng, Joel S Emer, Fredrik Kjolstad, Mark Horowitz, Priyanka Raina      
 *TECHCON*, September 2024. 
