@@ -14,13 +14,13 @@ Po-Han Chen, Bo Wun Cheng, Michael Oduoza, Zhouhua Xie, Kalhan Koul, Sai Gautham
 Kathleen Feng, Kartik Prabhu, Kai Bartolone, Jeffrey Yu, Priyanka Raina    
 *IEEE Custom Integrated Circuits Conference (CICC)*, April 2025.    
 
-**PEak: A Single Source of Truth for Hardware Design and Verification**     
-Caleb Donovick, Jackson Melchert, Ross Daly, Lenny Truong, Priyanka Raina, Pat Hanrahan, Clark Barrett   
-*ACM Transactions on Embedded Computing Systems (TECS)*, October 2024.
-
 **Edge Continual Training and Inference with RRAM-Gain Cell Memory Integrated on Si CMOS**    
 Shuhan Liu, Robert M. Radway, Xinxin Wang, Filippo Moro, Jean-Francois Nodin, Koustav Jana, Shuting Du, Luke R. Upton, Wei-Chen Chen, Jian Chen, Haitong Li, Francois Andrieu, Elisa Vianello, Priyanka Raina, Subhasish Mitra, H.-S. Philip Wong    
 *IEEE International Electron Devices Meeting (IEDM)*, December 2024.    
+
+**PEak: A Single Source of Truth for Hardware Design and Verification**     
+Caleb Donovick, Jackson Melchert, Ross Daly, Lenny Truong, Priyanka Raina, Pat Hanrahan, Clark Barrett   
+*ACM Transactions on Embedded Computing Systems (TECS)*, October 2024.
 
 **Efficiently Synthesizing Lowest Cost Rewrite Rules for Instruction Selection**    
 Ross Daly, Caleb Donovick, Caleb Terrill, Jack Melchert, Priyanka Raina, Clark Barrett, Pat Hanrahan    
@@ -48,7 +48,7 @@ Kalhan Koul, Maxwell Strange, Jackson Melchert, Alex Carsello, Yuchen Mei, Olivi
 
 **Cascade: An Application Pipelining Toolkit for Coarse-Grained Reconfigurable Arrays**    
 Jackson Melchert, Yuchen Mei, Kalhan Koul, Qiaoyi Liu, Mark Horowitz, Priyanka Raina    
-*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2024. [Paper](https://doi.org/10.1109/TCAD.2024.3390542)         
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, April 2024. [Paper](https://doi.org/10.1109/TCAD.2024.3390542)         
 
 **EMBER: Efficient Multiple-Bits-per-Cell Embedded RRAM Macro for High-Density Digital Storage**    
 Akash Levy, Luke R. Upton, Michael D. Scott, Dennis Rich, Win-San Khwa, Yu-Der Chih, Meng-Fan Chang, Subhasish Mitra, Boris Murmann, Priyanka Raina    
