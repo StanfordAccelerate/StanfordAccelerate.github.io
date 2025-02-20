@@ -6,6 +6,11 @@ hide_hero: true
 ---
 
 ## Publications   
+**MINOTAUR: A Posit-Based 0.42-0.50 TOPS/W Edge Transformer Inference and Training Accelerator**    
+Kartik Prabhu, Robert M. Radway, Jeffrey Yu, Kai Bartolone, Massimo Giordano, Fabian Peddinghaus, Yonatan Urman, Win-San Khwa, Yu-Der Chih,
+Meng-Fan Chang, Subhasish Mitra, Priyanka Raina    
+*IEEE Journal of Solid-State Circuits (JSSC)*, April 2025.  
+
 **Opal: A 16nm Coarse-Grained Reconfigurable Array for Full Sparse ML Applications**    
 Po-Han Chen, Bo Wun Cheng, Michael Oduoza, Zhouhua Xie, Kalhan Koul, Sai Gautham Ravipati, Yuchen Mei, Rupert Lu, Alex Carsello, Mark Horowitz, Priyanka Raina    
 *IEEE Custom Integrated Circuits Conference (CICC)*, April 2025. 
