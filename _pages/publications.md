@@ -6,6 +6,10 @@ hide_hero: true
 ---
 
 ## Publications   
+**Designing Programmable Accelerators for Sparse Tensor Algebra**    
+Kalhan Koul, Zhouhua Xie, Maxwell Strange, Sai Gautham Ravipati, Bo Wun Cheng, Olivia Hsu, Po-Han Chen, Mark Horowitz, Fredrik Kjolstad, Priyanka Raina    
+*IEEE Micro*, March 2025.  
+
 **Monolithic 3D Integration of Diverse Memories: Resistive Switching (RRAM) and Gain Cell (GC) Memory Integrated on Si CMOS**    
 Shuhan Liu, Robert M. Radway, Xinxin Wang, Filippo Moro, Jean-Francois Nodin, Koustav Jana, Lixian Yan, Shuting Du, Luke R. Upton, Wei-Chen Chen, Jimin Kang, Jian Chen, Haitong Li, Francois Andrieu, Elisa Vianello, Priyanka Raina, Subhasish Mitra, H.-S. Philip Wong    
 *IEEE Transactions on Electron Devices (T-ED)*, March 2025. 
