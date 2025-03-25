@@ -6,6 +6,10 @@ hide_hero: true
 ---
 
 ## Publications   
+**Monolithic 3D Integration of Diverse Memories: Resistive Switching (RRAM) and Gain Cell (GC) Memory Integrated on Si CMOS**    
+Shuhan Liu, Robert M. Radway, Xinxin Wang, Filippo Moro, Jean-Francois Nodin, Koustav Jana, Lixian Yan, Shuting Du, Luke R. Upton, Wei-Chen Chen, Jimin Kang, Jian Chen, Haitong Li, Francois Andrieu, Elisa Vianello, Priyanka Raina, Subhasish Mitra, H.-S. Philip Wong    
+*IEEE Transactions on Electron Devices (T-ED)*, March 2025. 
+
 **MINOTAUR: A Posit-Based 0.42-0.50 TOPS/W Edge Transformer Inference and Training Accelerator**    
 Kartik Prabhu, Robert M. Radway, Jeffrey Yu, Kai Bartolone, Massimo Giordano, Fabian Peddinghaus, Yonatan Urman, Win-San Khwa, Yu-Der Chih,
 Meng-Fan Chang, Subhasish Mitra, Priyanka Raina    
