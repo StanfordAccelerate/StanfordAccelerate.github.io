@@ -6,6 +6,10 @@ hide_hero: true
 ---
 
 ## Publications   
+**Automated Translation Validation of a Compiler for Statically Scheduled Accelerators**    
+Jackson Melchert, Caleb Terrill, Aron Ricardo Perez-Lopez, Clark Barrett, Priyanka Raina    
+*Formal Methods in Computer-Aided Design (FMCAD)*, October 2025.     
+
 **Designing Programmable Accelerators for Sparse Tensor Algebra**    
 Kalhan Koul, Zhouhua Xie, Maxwell Strange, Sai Gautham Ravipati, Bo Wun Cheng, Olivia Hsu, Po-Han Chen, Mark Horowitz, Fredrik Kjolstad, Priyanka Raina    
 *IEEE Micro*, March 2025.  
