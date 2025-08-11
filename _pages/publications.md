@@ -6,6 +6,10 @@ hide_hero: true
 ---
 
 ## Publications   
+**Birch: A Real-Time Accelerator for Multi-Task Mixed-Domain Extended Reality Perception Workloads**    
+Kathleen Feng, Kai Bartolone, Kartik Prabhu, Brianna McColm, Xingyu Ni, Siddhant Gupta, Priyanka Raina    
+*IEEE Asian Solid-State Circuits Conference (A-SSCC)*, November 2025.    
+
 **Automated Translation Validation of a Compiler for Statically Scheduled Accelerators**    
 Jackson Melchert, Caleb Terrill, Aron Ricardo Perez-Lopez, Clark Barrett, Priyanka Raina    
 *Formal Methods in Computer-Aided Design (FMCAD)*, October 2025.     
