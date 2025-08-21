@@ -6,6 +6,10 @@ hide_hero: true
 ---
 
 ## Publications   
+**Onyx: A 12nm Programmable Accelerator for Dense and Sparse Applications**    
+Kalhan Koul, Olivia Hsu, Yuchen Mei, Sai Gautham Ravipati, Maxwell Strange, Jackson Melchert, Alex Carsello, Taeyoung Kong, Po-Han Chen, Huifeng Ke, Keyi Zhang, Qiaoyi Liu, Gedeon Nyengele, Zhouhua Xie, Akhilesh Balasingam, Jayashree Adivarahan, Ritvik Sharma, Christopher Torng, Joel S Emer, Fredrik Kjolstad, Mark Horowitz, Priyanka Raina    
+*IEEE Journal of Solid-State Circuits (JSSC)*, August 2025.
+
 **Birch: A Real-Time Accelerator for Multi-Task Mixed-Domain Extended Reality Perception Workloads**    
 Kathleen Feng, Kai Bartolone, Kartik Prabhu, Brianna McColm, Xingyu Ni, Siddhant Gupta, Priyanka Raina    
 *IEEE Asian Solid-State Circuits Conference (A-SSCC)*, November 2025.    
