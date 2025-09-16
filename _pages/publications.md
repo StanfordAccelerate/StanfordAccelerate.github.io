@@ -6,6 +6,10 @@ hide_hero: true
 ---
 
 ## Publications   
+**Opal: A 16nm Coarse-Grained Reconfigurable Array SoC for Full Sparse Machine Learning Applications**    
+Po-Han Chen, Bo Wun Cheng, Michael Oduoza, Zhouhua Xie, Rupert Lu, Sai Gautham Ravipati, Kalhan Koul, Alex Carsello, Yuchen Mei, Mark Horowitz, Priyanka Raina    
+*IEEE Solid-State Circuits Letters (SSC-L)*, September 2025.    
+
 **Onyx: A 12nm Programmable Accelerator for Dense and Sparse Applications**    
 Kalhan Koul, Olivia Hsu, Yuchen Mei, Sai Gautham Ravipati, Maxwell Strange, Jackson Melchert, Alex Carsello, Taeyoung Kong, Po-Han Chen, Huifeng Ke, Keyi Zhang, Qiaoyi Liu, Gedeon Nyengele, Zhouhua Xie, Akhilesh Balasingam, Jayashree Adivarahan, Ritvik Sharma, Christopher Torng, Joel S Emer, Fredrik Kjolstad, Mark Horowitz, Priyanka Raina    
 *IEEE Journal of Solid-State Circuits (JSSC)*, August 2025.
