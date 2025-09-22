@@ -4,6 +4,11 @@ permalink: /publications/
 title: Publications
 hide_hero: true
 ---
+   
+## Preprints    
+**Voyager: An End-to-End Framework for Design-Space Exploration and Generation of DNN Accelerators**    
+Kartik Prabhu, Jeffrey Yu, Xinyuan Allen Pan, Zhouhua Xie, Abigail Aleshire, Zihan Chen, Ammar Ali Ratnani, Priyanka Raina    
+*arXiv:2509.15205*, September 2025. [Paper](https://arxiv.org/abs/2509.15205)     
 
 ## Publications   
 **Opal: A 16nm Coarse-Grained Reconfigurable Array SoC for Full Sparse Machine Learning Applications**    
@@ -294,8 +299,6 @@ Rahul Rithe, Priyanka Raina, Nathan Ickes, Srikanth V. Tenneti, Anantha P. Chand
 **Reconfigurable Processor for Energy-Scalable Computational Photography**  
 Rahul Rithe, Priyanka Raina, Nathan Ickes, Srikanth V. Tenneti, Anantha P. Chandrakasan  
 *IEEE International Solid-State Circuits Conference (ISSCC)*, February 2013. [Paper](https://doi.org/10.1109/ISSCC.2013.6487683), [Demo](http://player.vimeo.com/video/70417371)
-
-## Preprints    
 
 ## Tutorials
 **AHA: An Open-Source Framework for Co-design of Programmable Accelerators and Compilers**    
