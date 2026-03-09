@@ -27,7 +27,7 @@ Kathleen Feng, Kai Bartolone, Kartik Prabhu, Brianna McColm, Xingyu Ni, Siddhant
 Sai Gautham Ravipati, Fredrik Kjolstad, Priyanka Raina, Olivia Hsu    
 *Languages, Tools, and Techniques for Accelerator Design (LATTE) Workshop at the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, March 2026.    
 
-**A Methodology for Accurate Benchmarking of Neural Network Accelerators Using an HLS-Based Hardware Generator**
+**A Methodology for Accurate Benchmarking of Neural Network Accelerators Using an HLS-Based Hardware Generator**    
 Kartik Prabhu, Jeffrey Yu, Allen Pan, Priyanka Raina    
 *Philosophical Transactions A*, February 2026.    
    
