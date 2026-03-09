@@ -10,7 +10,27 @@ hide_hero: true
 Kartik Prabhu, Jeffrey Yu, Xinyuan Allen Pan, Zhouhua Xie, Abigail Aleshire, Zihan Chen, Ammar Ali Ratnani, Priyanka Raina    
 *arXiv:2509.15205*, September 2025. [Paper](https://arxiv.org/abs/2509.15205)     
 
+**LLM-FSM: Scaling Large Language Models for Finite-State Reasoning in RTL Code Generation**    
+LLM-FSM: Scaling Large Language Models for Finite-State Reasoning in RTL Code Generation    
+*arXiv:2602.07032*, February 2026. [Paper](https://arxiv.org/abs/2602.07032)    
+
 ## Publications   
+**Voyager: An End-to-End Framework for Design-Space Exploration and Generation of DNN Accelerators**    
+Kartik Prabhu, Jeffrey Yu, Xinyuan Allen Pan, Zhouhua Xie, Abigail Aleshire, Zihan Chen, Ammar Ali Ratnani, Priyanka Raina    
+*ACM/IEEE Design Automation Conference (DAC)*, July 2026.    
+
+**Birch: A Real-Time Multi-Domain Multi-Task Extended Reality Perception Accelerator**    
+Kathleen Feng, Kai Bartolone, Kartik Prabhu, Brianna McColm, Xingyu Ni, Siddhant Gupta, Priyanka Raina    
+*IEEE Solid-State Circuits Letters (SSC-L)*, March 2026.    
+
+**Portable Dynamic Tiling for Sparse Tensor Accelerators**
+Sai Gautham Ravipati, Fredrik Kjolstad, Priyanka Raina, Olivia Hsu    
+*Languages, Tools, and Techniques for Accelerator Design (LATTE) Workshop at the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, March 2026.    
+
+**A Methodology for Accurate Benchmarking of Neural Network Accelerators Using an HLS-Based Hardware Generator**
+Kartik Prabhu, Jeffrey Yu, Allen Pan, Priyanka Raina    
+*Philosophical Transactions A*, February 2026.    
+   
 **Opal: A 16nm Coarse-Grained Reconfigurable Array SoC for Full Sparse Machine Learning Applications**    
 Po-Han Chen, Bo Wun Cheng, Michael Oduoza, Zhouhua Xie, Rupert Lu, Sai Gautham Ravipati, Kalhan Koul, Alex Carsello, Yuchen Mei, Mark Horowitz, Priyanka Raina    
 *IEEE Solid-State Circuits Letters (SSC-L)*, September 2025.    
