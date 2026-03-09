@@ -23,7 +23,7 @@ Kartik Prabhu, Jeffrey Yu, Xinyuan Allen Pan, Zhouhua Xie, Abigail Aleshire, Zih
 Kathleen Feng, Kai Bartolone, Kartik Prabhu, Brianna McColm, Xingyu Ni, Siddhant Gupta, Priyanka Raina    
 *IEEE Solid-State Circuits Letters (SSC-L)*, March 2026.    
 
-**Portable Dynamic Tiling for Sparse Tensor Accelerators**
+**Portable Dynamic Tiling for Sparse Tensor Accelerators**    
 Sai Gautham Ravipati, Fredrik Kjolstad, Priyanka Raina, Olivia Hsu    
 *Languages, Tools, and Techniques for Accelerator Design (LATTE) Workshop at the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, March 2026.    
 
