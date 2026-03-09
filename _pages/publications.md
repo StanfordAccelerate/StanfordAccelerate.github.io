@@ -11,7 +11,7 @@ Kartik Prabhu, Jeffrey Yu, Xinyuan Allen Pan, Zhouhua Xie, Abigail Aleshire, Zih
 *arXiv:2509.15205*, September 2025. [Paper](https://arxiv.org/abs/2509.15205)     
 
 **LLM-FSM: Scaling Large Language Models for Finite-State Reasoning in RTL Code Generation**    
-LLM-FSM: Scaling Large Language Models for Finite-State Reasoning in RTL Code Generation    
+Yuheng Wu, Berk Gokmen, Zhouhua Xie, Peijing Li, Caroline Trippel, Priyanka Raina, Thierry Tambe         
 *arXiv:2602.07032*, February 2026. [Paper](https://arxiv.org/abs/2602.07032)    
 
 ## Publications   
