@@ -15,9 +15,21 @@ Yuheng Wu, Berk Gokmen, Zhouhua Xie, Peijing Li, Caroline Trippel, Priyanka Rain
 *arXiv:2602.07032*, February 2026. [Paper](https://arxiv.org/abs/2602.07032)    
 
 ## Publications   
+**Zircon: A 16nm Heterogeneous CGRA SoC for Accelerating Dense and Sparse ML**    
+Yuchen Mei, Michael Oduoza, Po-Han Chen, Maxwell Strange, Zhouhua Xie, Bo Wun Cheng, Kalhan Koul, Kartik Prabhu, Jeffrey Yu, Sai Gautham Ravipati, Mark Horowitz, Priyanka Raina.   
+*IEEE European Solid-State Electronics Research Conference  (ESSERC)* September 2026.    
+
 **Voyager: An End-to-End Framework for Design-Space Exploration and Generation of DNN Accelerators**    
 Kartik Prabhu, Jeffrey Yu, Xinyuan Allen Pan, Zhouhua Xie, Abigail Aleshire, Zihan Chen, Ammar Ali Ratnani, Priyanka Raina    
 *ACM/IEEE Design Automation Conference (DAC)*, July 2026.    
+
+**µAgent: A 7nm 404.3mJ/Action Edge SoC for Agentic AI Reasoning with Adaptive Block-wise Mixed-Format 4-bit Quantization and Decoupled Access-Execute**    
+Wonsuk Jang, Christian Kubicka, Allen Pan, Pullabhatla Smriti, Win-San Khwa, Meng-Fan Chang, Priyanka Raina, Thierry Tambe    
+*IEEE Symposium on VLSI Technology & Circuits (VLSI)*, June 2026. [Paper](https://doi.org/10.1109/VLSITechnologyandCir65830.2026.11577534)    
+
+**Portable Dynamic Tiling for Sparse Tensor Applications**
+Sai Gautham Ravipati, Fredrik Kjolstad, Priyanka Raina, Olivia Hsu     
+*The Young Architect Workshop (YArch)*, June 2026.     
 
 **Birch: A Real-Time Multi-Domain Multi-Task Extended Reality Perception Accelerator**    
 Kathleen Feng, Kai Bartolone, Kartik Prabhu, Brianna McColm, Xingyu Ni, Siddhant Gupta, Priyanka Raina    
