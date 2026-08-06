@@ -23,7 +23,7 @@ Yuchen Mei, Michael Oduoza, Po-Han Chen, Maxwell Strange, Zhouhua Xie, Bo Wun Ch
 Kartik Prabhu, Jeffrey Yu, Xinyuan Allen Pan, Zhouhua Xie, Abigail Aleshire, Zihan Chen, Ammar Ali Ratnani, Priyanka Raina    
 *ACM/IEEE Design Automation Conference (DAC)*, July 2026.    
 
-**µAgent: A 7nm 404.3mJ/Action Edge SoC for Agentic AI Reasoning with Adaptive Block-wise Mixed-Format 4-bit Quantization and Decoupled Access-Execute**    
+**uAgent: A 7nm 404.3mJ/Action Edge SoC for Agentic AI Reasoning with Adaptive Block-wise Mixed-Format 4-bit Quantization and Decoupled Access-Execute**    
 Wonsuk Jang, Christian Kubicka, Allen Pan, Pullabhatla Smriti, Win-San Khwa, Meng-Fan Chang, Priyanka Raina, Thierry Tambe    
 *IEEE Symposium on VLSI Technology & Circuits (VLSI)*, June 2026. [Paper](https://doi.org/10.1109/VLSITechnologyandCir65830.2026.11577534)    
 
