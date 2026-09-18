@@ -6,6 +6,10 @@ hide_hero: true
 ---
 
 ## PhD Students
+- Po-Han Chen - Graduated in 2026
+- Kathleen Feng - Graduated in 2025
+- Kartik Prabhu - Graduated in 2025
+- Kalhan Koul - Graduated in 2025
 - Haitong Li (Co-advised with Philip Wong) - Graduated in 2022, Faculty at Purdue University in 2023
 - Weier Wan (Co-advised with Philip Wong) - Graduated in 2022
 
