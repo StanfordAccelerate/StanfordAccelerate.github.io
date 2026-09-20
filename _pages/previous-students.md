@@ -10,6 +10,8 @@ hide_hero: true
 - Kathleen Feng - Graduated in 2025
 - Kartik Prabhu - Graduated in 2025
 - Kalhan Koul - Graduated in 2025
+- Jackson Melchert - Graduated in 2024
+- Akash Levy - Graduated in 2024
 - Haitong Li (Co-advised with Philip Wong) - Graduated in 2022, Faculty at Purdue University in 2023
 - Weier Wan (Co-advised with Philip Wong) - Graduated in 2022
 
