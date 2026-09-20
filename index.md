@@ -40,7 +40,7 @@ Stanford accelerate group works on creating high performance and energy-efficien
         <b>Yuchen Mei</b><br> 
         <b>Email:</b> yuchenm AT stanford DOT edu, <a href="https://www.linkedin.com/in/yuchenmei/">Webpage</a><br>
         <b>About:</b> Yuchen Mei is an EE Ph.D. student at Stanford University supervised by Prof. Priyanka Raina. He received his B.S. degree in Electronic Information Science and Technology from Nanjing University (China) in 2021 and M.S. in Electrical Engineering from Stanford University in 2023.<br>
-        <b>Research:</b> His current research focuses on application mapping and optimization for domain-specific accelerators, with a particular interest in auto-scheduling for compute-intensive applications, such as image processing and deep learning. Before joining Stanford, he worked on 3D-CNN optimization and hardware security.
+        <b>Research:</b> His research interests lie in reconfigurable dataflow architectures and systems for programmable, energy-efficient AI inference at the edge. Before joining Stanford, he worked on 3D-CNN optimization and hardware security.
       </td>
     </tr>
     <tr>
@@ -59,6 +59,14 @@ Stanford accelerate group works on creating high performance and energy-efficien
         <b>Email:</b> mcoduoza AT stanford DOT edu, <a href="https://linkedin.com/in/michael-oduoza/">Webpage</a><br>
         <b>About:</b> Michael Oduoza is an EE Ph.D. student at Stanford University supervised by Prof. Priyanka Raina. He received his B.S. and M.S. degrees in Electrical Engineering from Stanford in 2021 and 2022 respectively.  <br>
         <b>Research:</b> His research focuses on hardware/software co-design to create energy-efficient computing systems. He is broadly interested in designing new computer architectures for emerging machine learning applications. His pre-Ph.D. research spanned a range of topics, from semiconductor devices to circuits to systems.  
+      </td>
+    </tr>
+    <tr>
+      <td style="width:18%"><img src="/assets/images/xinyuan-allen-pan.jpg" alt="Xinyuan Allen Pan" width="250" align="left"></td>
+      <td>
+        <b>Xinyuan Allen Pan</b><br>
+        <b>About:</b> Xinyuan Allen Pan is a Ph.D. student in Electrical Engineering at Stanford University. He received his M.Eng. in Electrical Engineering and Computer Sciences from the University of California, Berkeley, in 2023, and his B.S. in Electrical Engineering from The University of Texas at Austin in 2019. He previously worked as an ASIC engineer at Cisco Systems.<br>
+        <b>Research:</b> His research interests lie in hardware architectures and compiler techniques for programmable, portable, and efficient AI accelerator systems.
       </td>
     </tr>
     <tr>
