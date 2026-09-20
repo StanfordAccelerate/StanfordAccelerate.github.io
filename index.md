@@ -65,7 +65,7 @@ Stanford accelerate group works on creating high performance and energy-efficien
       <td style="width:18%"><img src="/assets/images/xinyuan-allen-pan.jpg" alt="Xinyuan Allen Pan" width="250" align="left"></td>
       <td>
         <b>Xinyuan Allen Pan</b><br>
-        <b>About:</b> Xinyuan Allen Pan is a Ph.D. student in Electrical Engineering at Stanford University. He received his M.Eng. in Electrical Engineering and Computer Sciences from the University of California, Berkeley, in 2023, and his B.S. in Electrical Engineering from The University of Texas at Austin in 2019. He previously worked as an ASIC engineer at Cisco Systems.<br>
+        <b>About:</b> Xinyuan Allen Pan is a Ph.D. student in Electrical Engineering at Stanford University, advised by Prof. Priyanka Raina. He received his M.Eng. in Electrical Engineering and Computer Sciences from the University of California, Berkeley, in 2023, and his B.S. in Electrical Engineering from The University of Texas at Austin in 2019. He previously worked as an ASIC engineer at Cisco Systems.<br>
         <b>Research:</b> His research interests lie in hardware architectures and compiler techniques for programmable, portable, and efficient AI accelerator systems.
       </td>
     </tr>
