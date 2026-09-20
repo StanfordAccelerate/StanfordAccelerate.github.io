@@ -6,6 +6,23 @@ hide_hero: true
 ---
 ## Current Projects
 
+### Zircon: A Heterogeneous Reconfigurable Accelerator for Dense and Sparse ML
+
+<img src="/assets/images/zircon-die-photo.png" alt="Zircon die shot showing the Cortex-M3 CPU, global buffer, 64 × 32 specialized array, and 16 × 16 flexible array" width="300" align="left" style="padding-right: 30px; padding-bottom: 20px;">
+Modern machine learning (ML) models combine dense matrix operations with non-linear functions and sparse computations, creating a need for accelerators that deliver both efficiency and flexibility. Zircon is a 16nm system-on-chip (SoC) built around a heterogeneous coarse-grained reconfigurable array (CGRA). It combines a 64 × 32 specialized array for dense matrix multiplications and convolutions with a 16 × 16 flexible array for non-linear operators and sparse tensor algebra. This architecture provides high compute density for dense workloads while retaining programmability to support evolving ML models.
+
+Zircon streams intermediate results directly between the two arrays to reduce global memory traffic. Dedicated sparse-processing hardware improves array utilization, and a Halide-based compiler fuses non-linear computations to reduce data movement and execution time. Fabricated in Intel 16, Zircon is evaluated on ResNet-18, BERT-base, Llama3.2-1B prefill, and graph convolutional networks. Compared with prior homogeneous CGRAs, it achieves up to 34.5× lower energy-delay product (EDP) on dense ML workloads and 33.4× lower EDP on a sparse ML network, demonstrating efficient, programmable acceleration across diverse models.
+
+<div style="clear: both;"></div>
+
+**Publications:**
+
+**Zircon: A 16nm Heterogeneous CGRA SoC for Accelerating Dense and Sparse ML**<br>
+Yuchen Mei, Michael Oduoza, Po-Han Chen, Maxwell Strange, Zhouhua Xie, Bo Wun Cheng, Kalhan Koul, Kartik Prabhu, Jeffrey Yu, Sai Gautham Ravipati, Mark Horowitz, Priyanka Raina<br>
+*IEEE European Solid-State Electronics Research Conference (ESSERC)*, September 2026.
+
+* * *
+
 ### Agile Hardware/Software Design Methodology
 
 #### Agile Hardware (AHA)
