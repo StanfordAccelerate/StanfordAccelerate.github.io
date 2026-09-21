@@ -338,6 +338,10 @@ Kalhan Koul, Leonard Truong, Caleb Donovick, Maxwell Strange, Jackson Melchert, 
 Tutorial at *IEEE/ACM International Symposium on Microarchitecture (MICRO)*, November 2024.
 
 ## Posters 
+**Zircon: A 16nm Heterogeneous CGRA SoC for Machine Learning and Sparse Tensor Algebra Applications**<br>
+Yuchen Mei, Michael Oduoza, Po-Han Chen, Maxwell Strange, Zhouhua Xie, Bo Wun Cheng, Kalhan Koul, Kartik Prabhu, Jeffrey Yu, Sai Gautham Ravipati, Mark Horowitz, Priyanka Raina<br>
+*International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP)*, February 2026.
+
 **Opal: A 16nm Coarse-Grained Reconfigurable Array SoC for Sparse Machine Learning Applications**     
 Po-Han Chen, Bo Wun Cheng, Michael Oduoza, Zhouhua Xie, Kalhan Koul, Sai Gautham Ravipati, Yuchen Mei, Rupert Lu, Alex Carsello, Mark Horowitz, Priyanka Raina    
 *International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP)*, February 2025.     
