@@ -23,6 +23,22 @@ Yuchen Mei, Michael Oduoza, Po-Han Chen, Maxwell Strange, Zhouhua Xie, Bo Wun Ch
 
 * * *
 
+### Voyager: An Open-Source Framework for Neural Network Accelerator Design
+
+<a href="/assets/images/voyager-architecture.svg"><img src="/assets/images/voyager-architecture.svg" alt="Voyager accelerator architecture showing the systolic matrix unit, programmable vector unit, and memory interfaces" width="900" style="display: block; max-width: 100%; height: auto; margin: 0 auto 20px;"></a>
+
+Voyager is an open-source framework for designing, generating, and evaluating efficient neural network accelerators. It combines a configurable hardware generator with a PyTorch-based compiler to explore tradeoffs in accuracy, performance, area, and energy across hardware architectures and numerical formats, including mixed precision and microscaling.
+
+Recent extensions add dedicated matrix–vector and sparse matrix multiplication units, alongside broader model support spanning vision, language, object detection, and state-space models such as Mamba. Together, these capabilities enable rapid hardware–software co-design, from model quantization and optimized workload mapping to synthesizable RTL.
+
+**Publications:**
+
+**Voyager: An End-to-End Framework for Design-Space Exploration and Generation of DNN Accelerators**<br>
+Kartik Prabhu, Jeffrey Yu, Xinyuan Allen Pan, Zhouhua Xie, Abigail Aleshire, Zihan Chen, Ammar Ali Ratnani, Priyanka Raina<br>
+*ACM/IEEE Design Automation Conference (DAC)*, July 2026.
+
+* * *
+
 ### Agile Hardware/Software Design Methodology
 
 #### Agile Hardware (AHA)
