@@ -35,7 +35,7 @@ Stanford accelerate group works on creating high performance and energy-efficien
       </td>
     </tr>
     <tr>
-      <td style="width:18%"><img src="/assets/images/yuchen.jpg" width="250" align="left"></td>
+      <td style="width:18%"><img src="/assets/images/yuchen.png" alt="Yuchen Mei" width="250" align="left"></td>
       <td>
         <b>Yuchen Mei</b><br> 
         <b>Email:</b> yuchenm AT stanford DOT edu, <a href="https://www.linkedin.com/in/yuchenmei/">Webpage</a><br>
